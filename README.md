@@ -1,1 +1,1 @@
-# vnc
+vnc laucher app
