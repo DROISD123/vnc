@@ -1,0 +1,8948 @@
+[
+  {
+    "TOKO": "B149",
+    "NAMA": "BAZAR KENDARI",
+    "STATION": "01",
+    "IP": "10.54.254.81"
+  },
+  {
+    "TOKO": "F5AX",
+    "NAMA": "MEKONGGA INDAH",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.49.225"
+  },
+  {
+    "TOKO": "F5AX",
+    "NAMA": "MEKONGGA INDAH",
+    "STATION": "01",
+    "IP": "10.54.49.226"
+  },
+  {
+    "TOKO": "F5AX",
+    "NAMA": "MEKONGGA INDAH",
+    "STATION": "02",
+    "IP": "10.54.49.227"
+  },
+  {
+    "TOKO": "F5AX",
+    "NAMA": "MEKONGGA INDAH",
+    "STATION": "STB",
+    "IP": "10.54.49.242"
+  },
+  {
+    "TOKO": "F5AX",
+    "NAMA": "MEKONGGA INDAH",
+    "STATION": "RBWDCP",
+    "IP": "10.54.49.244"
+  },
+  {
+    "TOKO": "F5AX",
+    "NAMA": "MEKONGGA INDAH - KOLAKA",
+    "STATION": "DVR",
+    "IP": "10.54.49.251"
+  },
+  {
+    "TOKO": "F5CN",
+    "NAMA": "BARUGA KENDARI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.136.193"
+  },
+  {
+    "TOKO": "F5CN",
+    "NAMA": "BARUGA KENDARI",
+    "STATION": "01",
+    "IP": "10.54.136.194"
+  },
+  {
+    "TOKO": "F5CN",
+    "NAMA": "BARUGA KENDARI",
+    "STATION": "02",
+    "IP": "10.54.136.195"
+  },
+  {
+    "TOKO": "F5CN",
+    "NAMA": "BARUGA KENDARI",
+    "STATION": "STB",
+    "IP": "10.54.136.210"
+  },
+  {
+    "TOKO": "F5CN",
+    "NAMA": "BARUGA KENDARI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.136.212"
+  },
+  {
+    "TOKO": "F5CN",
+    "NAMA": "BARUGA - KENDARI",
+    "STATION": "DVR",
+    "IP": "10.54.136.219"
+  },
+  {
+    "TOKO": "F5FX",
+    "NAMA": "POROS FATUFIA - MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.72.33"
+  },
+  {
+    "TOKO": "F5FX",
+    "NAMA": "POROS FATUFIA - MORO",
+    "STATION": "01",
+    "IP": "10.54.72.34"
+  },
+  {
+    "TOKO": "F5FX",
+    "NAMA": "POROS FATUFIA - MOROW",
+    "STATION": "02",
+    "IP": "10.54.72.35"
+  },
+  {
+    "TOKO": "F5FX",
+    "NAMA": "POROS FATUFIA - MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.72.50"
+  },
+  {
+    "TOKO": "F5FX",
+    "NAMA": "POROS FATUFIA - MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.72.52"
+  },
+  {
+    "TOKO": "F5FX",
+    "NAMA": "POROS FATUFIA - MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.72.59"
+  },
+  {
+    "TOKO": "F8HA",
+    "NAMA": "MOH HATTA KENDARI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.140.225"
+  },
+  {
+    "TOKO": "F8HA",
+    "NAMA": "MOH HATTA KENDARI",
+    "STATION": "01",
+    "IP": "10.54.140.226"
+  },
+  {
+    "TOKO": "F8HA",
+    "NAMA": "MOH HATTA KENDARI",
+    "STATION": "02",
+    "IP": "10.54.140.227"
+  },
+  {
+    "TOKO": "F8HA",
+    "NAMA": "MOH HATTA KENDARI",
+    "STATION": "STB",
+    "IP": "10.54.140.242"
+  },
+  {
+    "TOKO": "F8HA",
+    "NAMA": "MOH HATTA KENDARI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.140.244"
+  },
+  {
+    "TOKO": "F8HA",
+    "NAMA": "MOH HATTA KENDARI",
+    "STATION": "DVR",
+    "IP": "10.54.140.251"
+  },
+  {
+    "TOKO": "F8LF",
+    "NAMA": "SORUMBA NO. 41 - KENDARI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.72.225"
+  },
+  {
+    "TOKO": "F8LF",
+    "NAMA": "SORUMBA NO. 41 - KEND",
+    "STATION": "01",
+    "IP": "10.54.72.226"
+  },
+  {
+    "TOKO": "F8LF",
+    "NAMA": "SORUMBA NO. 41 - KEND",
+    "STATION": "02",
+    "IP": "10.54.72.227"
+  },
+  {
+    "TOKO": "F8LF",
+    "NAMA": "SORUMBA NO. 41 - KENDARI",
+    "STATION": "STB",
+    "IP": "10.54.72.242"
+  },
+  {
+    "TOKO": "F8LF",
+    "NAMA": "SORUMBA NO. 41 - KENDARI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.72.244"
+  },
+  {
+    "TOKO": "F8LF",
+    "NAMA": "SORUMBA NO. 41 - KEND",
+    "STATION": "DVR",
+    "IP": "10.54.72.251"
+  },
+  {
+    "TOKO": "FBP2",
+    "NAMA": "TOPOGARO - MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.59.65"
+  },
+  {
+    "TOKO": "FBP2",
+    "NAMA": "TOFOGARO MOROWALI",
+    "STATION": "01",
+    "IP": "10.54.59.66"
+  },
+  {
+    "TOKO": "FBP2",
+    "NAMA": "TOFOGARO MOROWALI",
+    "STATION": "02",
+    "IP": "10.54.59.67"
+  },
+  {
+    "TOKO": "FBP2",
+    "NAMA": "TOPOGARO - MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.59.82"
+  },
+  {
+    "TOKO": "FBP2",
+    "NAMA": "TOPOGARO - MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.59.84"
+  },
+  {
+    "TOKO": "FBP2",
+    "NAMA": "TOFOGARO MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.59.91"
+  },
+  {
+    "TOKO": "FI07",
+    "NAMA": "ADE IRMA NASUTION",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.138.129"
+  },
+  {
+    "TOKO": "FI07",
+    "NAMA": "ADE IRMA NASUTION",
+    "STATION": "01",
+    "IP": "10.54.138.130"
+  },
+  {
+    "TOKO": "FI07",
+    "NAMA": "ADE IRMA NASUTION",
+    "STATION": "02",
+    "IP": "10.54.138.131"
+  },
+  {
+    "TOKO": "FI07",
+    "NAMA": "ADE IRMA NASUTION",
+    "STATION": "STB",
+    "IP": "10.54.138.146"
+  },
+  {
+    "TOKO": "FI07",
+    "NAMA": "ADE IRMA NASUTION",
+    "STATION": "RBWDCP",
+    "IP": "10.54.138.148"
+  },
+  {
+    "TOKO": "FI07",
+    "NAMA": "ADE IRMA NASUTION",
+    "STATION": "DVR",
+    "IP": "10.54.138.155"
+  },
+  {
+    "TOKO": "FKO6",
+    "NAMA": "WATULONDO KENDARI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.8.161"
+  },
+  {
+    "TOKO": "FKO6",
+    "NAMA": "WATULONDO KENDARI",
+    "STATION": "01",
+    "IP": "10.54.8.162"
+  },
+  {
+    "TOKO": "FKO6",
+    "NAMA": "WATULONDO KENDARI",
+    "STATION": "02",
+    "IP": "10.54.8.163"
+  },
+  {
+    "TOKO": "FKO6",
+    "NAMA": "WATULONDO KENDARI",
+    "STATION": "STB",
+    "IP": "10.54.8.178"
+  },
+  {
+    "TOKO": "FKO6",
+    "NAMA": "WATULONDO KENDARI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.8.180"
+  },
+  {
+    "TOKO": "FKO6",
+    "NAMA": "WATULONDO KENDARI",
+    "STATION": "DVR",
+    "IP": "10.54.8.187"
+  },
+  {
+    "TOKO": "FLA2",
+    "NAMA": "PEMUDA KOLAKA",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.7.161"
+  },
+  {
+    "TOKO": "FLA2",
+    "NAMA": "PEMUDA - KOLAKA",
+    "STATION": "01",
+    "IP": "10.54.7.162"
+  },
+  {
+    "TOKO": "FLA2",
+    "NAMA": "PEMUDA - KOLAKA",
+    "STATION": "02",
+    "IP": "10.54.7.163"
+  },
+  {
+    "TOKO": "FLA2",
+    "NAMA": "PEMUDA - KOLAKA",
+    "STATION": "03",
+    "IP": "10.54.7.164"
+  },
+  {
+    "TOKO": "FLA2",
+    "NAMA": "PEMUDA KOLAKA",
+    "STATION": "STB",
+    "IP": "10.54.7.178"
+  },
+  {
+    "TOKO": "FLA2",
+    "NAMA": "PEMUDA KOLAKA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.7.180"
+  },
+  {
+    "TOKO": "FLA2",
+    "NAMA": "PEMUDA",
+    "STATION": "DVR",
+    "IP": "10.54.7.187"
+  },
+  {
+    "TOKO": "FMTM",
+    "NAMA": "TAHOA KOLAKA",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.34.129"
+  },
+  {
+    "TOKO": "FMTM",
+    "NAMA": "TAHOA KOLAKA",
+    "STATION": "01",
+    "IP": "10.54.34.130"
+  },
+  {
+    "TOKO": "FMTM",
+    "NAMA": "TAHOA KOLAKA",
+    "STATION": "02",
+    "IP": "10.54.34.131"
+  },
+  {
+    "TOKO": "FMTM",
+    "NAMA": "TAHOA KOLAKA",
+    "STATION": "STB",
+    "IP": "10.54.34.146"
+  },
+  {
+    "TOKO": "FMTM",
+    "NAMA": "TAHOA KOLAKA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.34.148"
+  },
+  {
+    "TOKO": "FMTM",
+    "NAMA": "TAHOA - KOLAKA",
+    "STATION": "DVR",
+    "IP": "10.54.34.155"
+  },
+  {
+    "TOKO": "FNQ9",
+    "NAMA": "MOKOAU KENDARI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.141.193"
+  },
+  {
+    "TOKO": "FNQ9",
+    "NAMA": "MOKOAU KENDARI",
+    "STATION": "01",
+    "IP": "10.54.141.194"
+  },
+  {
+    "TOKO": "FNQ9",
+    "NAMA": "MOKOAU KENDARI",
+    "STATION": "02",
+    "IP": "10.54.141.195"
+  },
+  {
+    "TOKO": "FNQ9",
+    "NAMA": "MOKOAU KENDARI",
+    "STATION": "STB",
+    "IP": "10.54.141.210"
+  },
+  {
+    "TOKO": "FNQ9",
+    "NAMA": "MOKOAU KENDARI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.141.212"
+  },
+  {
+    "TOKO": "FNQ9",
+    "NAMA": "MOKOAU KENDARI",
+    "STATION": "DVR",
+    "IP": "10.54.141.219"
+  },
+  {
+    "TOKO": "FP0A",
+    "NAMA": "PONGGOLAKA KENDARI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.140.193"
+  },
+  {
+    "TOKO": "FP0A",
+    "NAMA": "PONGGOLAKA KENDARI",
+    "STATION": "01",
+    "IP": "10.54.140.194"
+  },
+  {
+    "TOKO": "FP0A",
+    "NAMA": "PONGGOLAKA KENDARI",
+    "STATION": "02",
+    "IP": "10.54.140.195"
+  },
+  {
+    "TOKO": "FP0A",
+    "NAMA": "PONGGOLAKA KENDARI",
+    "STATION": "STB",
+    "IP": "10.54.140.210"
+  },
+  {
+    "TOKO": "FP0A",
+    "NAMA": "PONGGOLAKA KENDARI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.140.212"
+  },
+  {
+    "TOKO": "FP0A",
+    "NAMA": "PONGGOLAKA",
+    "STATION": "DVR",
+    "IP": "10.54.140.219"
+  },
+  {
+    "TOKO": "FQ9W",
+    "NAMA": "TOUBUUHA - KENDARI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.71.193"
+  },
+  {
+    "TOKO": "FQ9W",
+    "NAMA": "TOUBUUHA - KENDARI",
+    "STATION": "01",
+    "IP": "10.54.71.194"
+  },
+  {
+    "TOKO": "FQ9W",
+    "NAMA": "TOUBUUHA - KENDARI",
+    "STATION": "02",
+    "IP": "10.54.71.195"
+  },
+  {
+    "TOKO": "FQ9W",
+    "NAMA": "TOUBUUHA - KENDARI",
+    "STATION": "STB",
+    "IP": "10.54.71.210"
+  },
+  {
+    "TOKO": "FQ9W",
+    "NAMA": "TOUBUUHA - KENDARI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.71.212"
+  },
+  {
+    "TOKO": "FQ9W",
+    "NAMA": "TOUBUUHA - KENDARI",
+    "STATION": "DVR",
+    "IP": "10.54.71.219"
+  },
+  {
+    "TOKO": "FVBV",
+    "NAMA": "HEA MOKODOMPIT",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.137.129"
+  },
+  {
+    "TOKO": "FVBV",
+    "NAMA": "HEA MOKODOMPIT",
+    "STATION": "01",
+    "IP": "10.54.137.130"
+  },
+  {
+    "TOKO": "FVBV",
+    "NAMA": "HEA MOKODOMPIT",
+    "STATION": "02",
+    "IP": "10.54.137.131"
+  },
+  {
+    "TOKO": "FVBV",
+    "NAMA": "HEA MOKODOMPIT",
+    "STATION": "STB",
+    "IP": "10.54.137.146"
+  },
+  {
+    "TOKO": "FVBV",
+    "NAMA": "HEA MOKODOMPIT",
+    "STATION": "RBWDCP",
+    "IP": "10.54.137.148"
+  },
+  {
+    "TOKO": "FVBV",
+    "NAMA": "HEA MOKODOMPIT",
+    "STATION": "DVR",
+    "IP": "10.54.137.155"
+  },
+  {
+    "TOKO": "FW5E",
+    "NAMA": "AMBESEA - KONAWE SELATAN",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.69.33"
+  },
+  {
+    "TOKO": "FW5E",
+    "NAMA": "AMBESEA KONAWE SELATAN",
+    "STATION": "01",
+    "IP": "10.54.69.34"
+  },
+  {
+    "TOKO": "FW5E",
+    "NAMA": "AMBESEA KONAWE SELATAN",
+    "STATION": "02",
+    "IP": "10.54.69.35"
+  },
+  {
+    "TOKO": "FW5E",
+    "NAMA": "AMBESEA - KONAWE SELATAN",
+    "STATION": "STB",
+    "IP": "10.54.69.50"
+  },
+  {
+    "TOKO": "FW5E",
+    "NAMA": "AMBESEA - KONAWE SELATAN",
+    "STATION": "RBWDCP",
+    "IP": "10.54.69.52"
+  },
+  {
+    "TOKO": "FW5E",
+    "NAMA": "AMBESEA - KONAWE SELATAN",
+    "STATION": "DVR",
+    "IP": "10.54.69.59"
+  },
+  {
+    "TOKO": "FWSW",
+    "NAMA": "WUNDULAKO - KOLAKA",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.28.65"
+  },
+  {
+    "TOKO": "FWSW",
+    "NAMA": "WUNDULAKO KOLAKA",
+    "STATION": "01",
+    "IP": "10.54.28.66"
+  },
+  {
+    "TOKO": "FWSW",
+    "NAMA": "WUNDULAKO KOLAKA",
+    "STATION": "02",
+    "IP": "10.54.28.67"
+  },
+  {
+    "TOKO": "FWSW",
+    "NAMA": "WUNDULAKO - KOLAKA",
+    "STATION": "STB",
+    "IP": "10.54.28.82"
+  },
+  {
+    "TOKO": "FWSW",
+    "NAMA": "WUNDULAKO - KOLAKA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.28.84"
+  },
+  {
+    "TOKO": "FWSW",
+    "NAMA": "WUNDULAKO - KOLAKA",
+    "STATION": "DVR",
+    "IP": "10.54.28.91"
+  },
+  {
+    "TOKO": "FYLH",
+    "NAMA": "PELAMBUA KOLAKA",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.44.1"
+  },
+  {
+    "TOKO": "FYLH",
+    "NAMA": "PELAMBUA KOLAKA",
+    "STATION": "STB",
+    "IP": "10.54.44.18"
+  },
+  {
+    "TOKO": "FYLH",
+    "NAMA": "PELAMBUA - KOLAKA/",
+    "STATION": "01",
+    "IP": "10.54.44.2"
+  },
+  {
+    "TOKO": "FYLH",
+    "NAMA": "PELAMBUA KOLAKA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.44.20"
+  },
+  {
+    "TOKO": "FYLH",
+    "NAMA": "PELAMBUA - KOLAKA",
+    "STATION": "DVR",
+    "IP": "10.54.44.27"
+  },
+  {
+    "TOKO": "FYLH",
+    "NAMA": "PELAMBUA - KOLAKA/",
+    "STATION": "02",
+    "IP": "10.54.44.3"
+  },
+  {
+    "TOKO": "T0CY",
+    "NAMA": "KEUREA NO 17 MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.55.1"
+  },
+  {
+    "TOKO": "T0CY",
+    "NAMA": "KEUREA NO 17 MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.55.18"
+  },
+  {
+    "TOKO": "T0CY",
+    "NAMA": "KEUREA NO 17 MOROWALI",
+    "STATION": "01",
+    "IP": "10.54.55.2"
+  },
+  {
+    "TOKO": "T0CY",
+    "NAMA": "KEUREA NO 17 MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.55.20"
+  },
+  {
+    "TOKO": "T0CY",
+    "NAMA": "KEUREA NO. 17 - MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.55.27"
+  },
+  {
+    "TOKO": "T0CY",
+    "NAMA": "KEUREA NO 17 MOROWALI",
+    "STATION": "02",
+    "IP": "10.54.55.3"
+  },
+  {
+    "TOKO": "T0DD",
+    "NAMA": "MARSAOLEH MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.15.33"
+  },
+  {
+    "TOKO": "T0DD",
+    "NAMA": "MARSAOLEH MOROWALI/",
+    "STATION": "01",
+    "IP": "10.54.15.34"
+  },
+  {
+    "TOKO": "T0DD",
+    "NAMA": "MARSAOLEH MOROWALI/",
+    "STATION": "02",
+    "IP": "10.54.15.35"
+  },
+  {
+    "TOKO": "T0DD",
+    "NAMA": "MARSAOLEH MOROWALI/",
+    "STATION": "03",
+    "IP": "10.54.15.36"
+  },
+  {
+    "TOKO": "T0DD",
+    "NAMA": "MARSAOLEH MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.15.50"
+  },
+  {
+    "TOKO": "T0DD",
+    "NAMA": "MARSAOLEH MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.15.52"
+  },
+  {
+    "TOKO": "T0DD",
+    "NAMA": "MARSAOLEH MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.15.59"
+  },
+  {
+    "TOKO": "T0IS",
+    "NAMA": "FATUFIA NO. 12 - MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.71.33"
+  },
+  {
+    "TOKO": "T0IS",
+    "NAMA": "FATUFIA NO. 12 - MOROWA",
+    "STATION": "01",
+    "IP": "10.54.71.34"
+  },
+  {
+    "TOKO": "T0IS",
+    "NAMA": "FATUFIA NO. 12 - MOROWA",
+    "STATION": "02",
+    "IP": "10.54.71.35"
+  },
+  {
+    "TOKO": "T0IS",
+    "NAMA": "FATUFIA NO. 12 - MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.71.50"
+  },
+  {
+    "TOKO": "T0IS",
+    "NAMA": "FATUFIA NO. 12 - MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.71.52"
+  },
+  {
+    "TOKO": "T0IS",
+    "NAMA": "FATUFIA NO. 12 - MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.71.59"
+  },
+  {
+    "TOKO": "T0JW",
+    "NAMA": "LABOTA NO 44",
+    "STATION": "ModemVsat",
+    "IP": "10.54.68.33"
+  },
+  {
+    "TOKO": "T0JW",
+    "NAMA": "LABOTA NO 44",
+    "STATION": "01",
+    "IP": "10.54.68.34"
+  },
+  {
+    "TOKO": "T0JW",
+    "NAMA": "LABOTA NO 44",
+    "STATION": "02",
+    "IP": "10.54.68.35"
+  },
+  {
+    "TOKO": "T0JW",
+    "NAMA": "LABOTA NO 44",
+    "STATION": "STB",
+    "IP": "10.54.68.50"
+  },
+  {
+    "TOKO": "T0JW",
+    "NAMA": "LABOTA NO 44",
+    "STATION": "RBWDCP",
+    "IP": "10.54.68.52"
+  },
+  {
+    "TOKO": "T0JW",
+    "NAMA": "LABOTA NO. 44 - MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.68.59"
+  },
+  {
+    "TOKO": "T0PD",
+    "NAMA": "ANDOWIA - KONAWE UTARA",
+    "STATION": "ModemVsat",
+    "IP": "10.54.119.65"
+  },
+  {
+    "TOKO": "T0PD",
+    "NAMA": "ANDOWIA - KONAWE UTARA",
+    "STATION": "01",
+    "IP": "10.54.119.66"
+  },
+  {
+    "TOKO": "T0PD",
+    "NAMA": "ANDOWIA - KONAWE UTARA",
+    "STATION": "02",
+    "IP": "10.54.119.67"
+  },
+  {
+    "TOKO": "T0PD",
+    "NAMA": "ANDOWIA - KONAWE UTAR",
+    "STATION": "03",
+    "IP": "10.54.119.68"
+  },
+  {
+    "TOKO": "T0PD",
+    "NAMA": "ANDOWIA - KONAWE UTARA",
+    "STATION": "STB",
+    "IP": "10.54.119.82"
+  },
+  {
+    "TOKO": "T0PD",
+    "NAMA": "ANDOWIA - KONAWE UTARA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.119.84"
+  },
+  {
+    "TOKO": "T0PD",
+    "NAMA": "ANDOWIA",
+    "STATION": "DVR",
+    "IP": "10.54.119.91"
+  },
+  {
+    "TOKO": "T1AF",
+    "NAMA": "UEPAI NO. 55",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.52.161"
+  },
+  {
+    "TOKO": "T1AF",
+    "NAMA": "UEPAI NO. 55 - KONAWE",
+    "STATION": "01",
+    "IP": "10.54.52.162"
+  },
+  {
+    "TOKO": "T1AF",
+    "NAMA": "UEPAI NO. 55 - KONAWE",
+    "STATION": "02",
+    "IP": "10.54.52.163"
+  },
+  {
+    "TOKO": "T1AF",
+    "NAMA": "UEPAI NO. 55",
+    "STATION": "STB",
+    "IP": "10.54.52.178"
+  },
+  {
+    "TOKO": "T1AF",
+    "NAMA": "UEPAI NO. 55",
+    "STATION": "RBWDCP",
+    "IP": "10.54.52.180"
+  },
+  {
+    "TOKO": "T1AF",
+    "NAMA": "UEPAI NO. 55 - KONAWE",
+    "STATION": "DVR",
+    "IP": "10.54.52.187"
+  },
+  {
+    "TOKO": "T1CW",
+    "NAMA": "HEA MOKODOMPIT N0 26 KENDARI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.137.65"
+  },
+  {
+    "TOKO": "T1CW",
+    "NAMA": "HEA MOKODOMPIT N0 2",
+    "STATION": "01",
+    "IP": "10.54.137.66"
+  },
+  {
+    "TOKO": "T1CW",
+    "NAMA": "HEA MOKODOMPIT N0 2",
+    "STATION": "02",
+    "IP": "10.54.137.67"
+  },
+  {
+    "TOKO": "T1CW",
+    "NAMA": "HEA MOKODOMPIT N0 26 KENDARI",
+    "STATION": "STB",
+    "IP": "10.54.137.82"
+  },
+  {
+    "TOKO": "T1CW",
+    "NAMA": "HEA MOKODOMPIT N0 26 KENDARI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.137.84"
+  },
+  {
+    "TOKO": "T1CW",
+    "NAMA": "HEA MOKODOMPIT NO 26 KENDARI",
+    "STATION": "DVR",
+    "IP": "10.54.137.91"
+  },
+  {
+    "TOKO": "T1HJ",
+    "NAMA": "POROS LADONGI 26 -  KOLAKA TIMUR",
+    "STATION": "STB",
+    "IP": "10.54.45.114"
+  },
+  {
+    "TOKO": "T1HJ",
+    "NAMA": "POROS LADONGI 26 -  KOLAKA TIMUR",
+    "STATION": "RBWDCP",
+    "IP": "10.54.45.116"
+  },
+  {
+    "TOKO": "T1HJ",
+    "NAMA": "POROS LADONGI 26-",
+    "STATION": "DVR",
+    "IP": "10.54.45.123"
+  },
+  {
+    "TOKO": "T1HJ",
+    "NAMA": "POROS LADONGI 26 -  KOLAKA TIMUR",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.45.97"
+  },
+  {
+    "TOKO": "T1HJ",
+    "NAMA": "POROS LADONGI 26- KOLAKA /",
+    "STATION": "01",
+    "IP": "10.54.45.98"
+  },
+  {
+    "TOKO": "T1HJ",
+    "NAMA": "POROS LADONGI 26- KOLAKA /",
+    "STATION": "02",
+    "IP": "10.54.45.99"
+  },
+  {
+    "TOKO": "T1HN",
+    "NAMA": "BARANGKA NO 12 MUNA BARAT",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.135.129"
+  },
+  {
+    "TOKO": "T1HN",
+    "NAMA": "BARANGKA NO 12 MUNA BARAT\t",
+    "STATION": "01",
+    "IP": "10.54.135.130"
+  },
+  {
+    "TOKO": "T1HN",
+    "NAMA": "BARANGKA NO 12 MUNA BARAT\t",
+    "STATION": "02",
+    "IP": "10.54.135.131"
+  },
+  {
+    "TOKO": "T1HN",
+    "NAMA": "BARANGKA NO 12 MUNA BARAT",
+    "STATION": "STB",
+    "IP": "10.54.135.146"
+  },
+  {
+    "TOKO": "T1HN",
+    "NAMA": "BARANGKA NO 12 MUNA BARAT",
+    "STATION": "RBWDCP",
+    "IP": "10.54.135.148"
+  },
+  {
+    "TOKO": "T1HN",
+    "NAMA": "BARANGKA NO 12 MUNA BARAT",
+    "STATION": "DVR",
+    "IP": "10.54.135.155"
+  },
+  {
+    "TOKO": "T1UV",
+    "NAMA": "PAKUE TENGAH - KOLAKA UTARA",
+    "STATION": "ModemVsat",
+    "IP": "10.54.123.161"
+  },
+  {
+    "TOKO": "T1UV",
+    "NAMA": "PAKUE TENGAH - KOLAKA UTA",
+    "STATION": "01",
+    "IP": "10.54.123.162"
+  },
+  {
+    "TOKO": "T1UV",
+    "NAMA": "PAKUE TENGAH - KOLAKA UTA",
+    "STATION": "02",
+    "IP": "10.54.123.163"
+  },
+  {
+    "TOKO": "T1UV",
+    "NAMA": "PAKUE TENGAH - KOLAKA UTARA",
+    "STATION": "STB",
+    "IP": "10.54.123.178"
+  },
+  {
+    "TOKO": "T1UV",
+    "NAMA": "PAKUE TENGAH - KOLAKA UTARA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.123.180"
+  },
+  {
+    "TOKO": "T1UV",
+    "NAMA": "PAKUE TENGAH - KOLAKA UTARA",
+    "STATION": "DVR",
+    "IP": "10.54.123.187"
+  },
+  {
+    "TOKO": "T29C",
+    "NAMA": "GERSAMATA LABUNGKARI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.142.161"
+  },
+  {
+    "TOKO": "T29C",
+    "NAMA": "GERSAMATA LABUNGKARI",
+    "STATION": "01",
+    "IP": "10.54.142.162"
+  },
+  {
+    "TOKO": "T29C",
+    "NAMA": "GERSAMATA LABUNGKARI",
+    "STATION": "02",
+    "IP": "10.54.142.163"
+  },
+  {
+    "TOKO": "T29C",
+    "NAMA": "GERSAMATA LABUNGKARI",
+    "STATION": "STB",
+    "IP": "10.54.142.178"
+  },
+  {
+    "TOKO": "T29C",
+    "NAMA": "GERSAMATA LABUNGKARI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.142.180"
+  },
+  {
+    "TOKO": "T29C",
+    "NAMA": "GERSAMATA LABUNGKARI",
+    "STATION": "DVR",
+    "IP": "10.54.142.187"
+  },
+  {
+    "TOKO": "T29C",
+    "NAMA": "GERSAMATA LABUNGKARI",
+    "STATION": "DVR2",
+    "IP": "10.54.142.188"
+  },
+  {
+    "TOKO": "T2AY",
+    "NAMA": "MH THAMRIN NO 18 MUNA",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.65.129"
+  },
+  {
+    "TOKO": "T2AY",
+    "NAMA": "MH THAMRIN NO 18 MUNA",
+    "STATION": "01",
+    "IP": "10.54.65.130"
+  },
+  {
+    "TOKO": "T2AY",
+    "NAMA": "MH THAMRIN NO 18 MUNA",
+    "STATION": "02",
+    "IP": "10.54.65.131"
+  },
+  {
+    "TOKO": "T2AY",
+    "NAMA": "MH THAMRIN NO 18 MUNA",
+    "STATION": "03",
+    "IP": "10.54.65.132"
+  },
+  {
+    "TOKO": "T2AY",
+    "NAMA": "MH THAMRIN NO 18 MUNA",
+    "STATION": "04",
+    "IP": "10.54.65.133"
+  },
+  {
+    "TOKO": "T2AY",
+    "NAMA": "MH THAMRIN NO 18 MUNA",
+    "STATION": "STB",
+    "IP": "10.54.65.146"
+  },
+  {
+    "TOKO": "T2AY",
+    "NAMA": "MH THAMRIN NO 18 MUNA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.65.148"
+  },
+  {
+    "TOKO": "T2AY",
+    "NAMA": "M.H. THAMRIN NO. 18 - MUNA",
+    "STATION": "DVR",
+    "IP": "10.54.65.155"
+  },
+  {
+    "TOKO": "T2DA",
+    "NAMA": "MARUGE - KOLAKA UTARA",
+    "STATION": "01",
+    "IP": "10.54.123.130"
+  },
+  {
+    "TOKO": "T2DA",
+    "NAMA": "MARUGE - KOLAKA UTARA",
+    "STATION": "02",
+    "IP": "10.54.123.131"
+  },
+  {
+    "TOKO": "T2DA",
+    "NAMA": "MARUGE - KOLAKA UTARA",
+    "STATION": "STB",
+    "IP": "10.54.123.146"
+  },
+  {
+    "TOKO": "T2DA",
+    "NAMA": "MARUGE - KOLAKA UTARA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.123.148"
+  },
+  {
+    "TOKO": "T2DA",
+    "NAMA": "MARUGE - KOLAKA UTARA",
+    "STATION": "DVR",
+    "IP": "10.54.123.155"
+  },
+  {
+    "TOKO": "T2DA",
+    "NAMA": "MARUGE - KOLAKA UTARA",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.123.158"
+  },
+  {
+    "TOKO": "T2JJ",
+    "NAMA": "TIWU - KOLAKA UTARA",
+    "STATION": "STB",
+    "IP": "10.54.29.114"
+  },
+  {
+    "TOKO": "T2JJ",
+    "NAMA": "TIWU - KOLAKA UTARA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.29.116"
+  },
+  {
+    "TOKO": "T2JJ",
+    "NAMA": "TIWU - KOLAKA UTARA",
+    "STATION": "DVR",
+    "IP": "10.54.29.123"
+  },
+  {
+    "TOKO": "T2JJ",
+    "NAMA": "TIWU - KOLAKA UTARA",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.29.97"
+  },
+  {
+    "TOKO": "T2JJ",
+    "NAMA": "TIWU - KOLAKA UTARA",
+    "STATION": "01",
+    "IP": "10.54.29.98"
+  },
+  {
+    "TOKO": "T2JJ",
+    "NAMA": "TIWU - KOLAKA UTARA",
+    "STATION": "02",
+    "IP": "10.54.29.99"
+  },
+  {
+    "TOKO": "T2QE",
+    "NAMA": "LALAMPU MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.29.161"
+  },
+  {
+    "TOKO": "T2QE",
+    "NAMA": "LALAMPU - MOROWALI",
+    "STATION": "01",
+    "IP": "10.54.29.162"
+  },
+  {
+    "TOKO": "T2QE",
+    "NAMA": "LALAMPU - MOROWALI",
+    "STATION": "02",
+    "IP": "10.54.29.163"
+  },
+  {
+    "TOKO": "T2QE",
+    "NAMA": "LALAMPU MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.29.178"
+  },
+  {
+    "TOKO": "T2QE",
+    "NAMA": "LALAMPU MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.29.180"
+  },
+  {
+    "TOKO": "T2QE",
+    "NAMA": "LALAMPU MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.29.187"
+  },
+  {
+    "TOKO": "T3J5",
+    "NAMA": "LASAMPI MOROWALI",
+    "STATION": "ModemVsat",
+    "IP": "10.54.77.65"
+  },
+  {
+    "TOKO": "T3J5",
+    "NAMA": "LASAMPI MOROWALI",
+    "STATION": "01",
+    "IP": "10.54.77.66"
+  },
+  {
+    "TOKO": "T3J5",
+    "NAMA": "LASAMPI MOROWALI",
+    "STATION": "02",
+    "IP": "10.54.77.67"
+  },
+  {
+    "TOKO": "T3J5",
+    "NAMA": "LASAMPI MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.77.82"
+  },
+  {
+    "TOKO": "T3J5",
+    "NAMA": "LASAMPI MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.77.84"
+  },
+  {
+    "TOKO": "T3J5",
+    "NAMA": "LASAMPI MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.77.91"
+  },
+  {
+    "TOKO": "T3TA",
+    "NAMA": "SPBU BAHODOPI - MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.124.18"
+  },
+  {
+    "TOKO": "T3TA",
+    "NAMA": "SPBU BAHODOPI - MOROWALI/",
+    "STATION": "01",
+    "IP": "10.54.124.2"
+  },
+  {
+    "TOKO": "T3TA",
+    "NAMA": "SPBU BAHODOPI - MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.124.20"
+  },
+  {
+    "TOKO": "T3TA",
+    "NAMA": "SPBU BAHODOPI - MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.124.27"
+  },
+  {
+    "TOKO": "T3TA",
+    "NAMA": "SPBU BAHODOPI - MOROWALI/",
+    "STATION": "02",
+    "IP": "10.54.124.3"
+  },
+  {
+    "TOKO": "T3TA",
+    "NAMA": "SPBU BAHODOPI - MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.124.30"
+  },
+  {
+    "TOKO": "T3TA",
+    "NAMA": "SPBU BAHODOPI - MOROWALI/",
+    "STATION": "03",
+    "IP": "10.54.124.4"
+  },
+  {
+    "TOKO": "T3X2",
+    "NAMA": "TUGU EREKE BUTON UTARA",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.70.225"
+  },
+  {
+    "TOKO": "T3X2",
+    "NAMA": "TUGU EREKE BUTON UTARA",
+    "STATION": "01",
+    "IP": "10.54.70.226"
+  },
+  {
+    "TOKO": "T3X2",
+    "NAMA": "TUGU EREKE BUTON UTARA",
+    "STATION": "02",
+    "IP": "10.54.70.227"
+  },
+  {
+    "TOKO": "T3X2",
+    "NAMA": "TUGU EREKE BUTON UTA",
+    "STATION": "03",
+    "IP": "10.54.70.228"
+  },
+  {
+    "TOKO": "T3X2",
+    "NAMA": "TUGU EREKE BUTON UTARA",
+    "STATION": "STB",
+    "IP": "10.54.70.242"
+  },
+  {
+    "TOKO": "T3X2",
+    "NAMA": "TUGU EREKE BUTON UTARA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.70.244"
+  },
+  {
+    "TOKO": "T3X2",
+    "NAMA": "TUGU EREKE - BUTON UTARA",
+    "STATION": "DVR",
+    "IP": "10.54.70.251"
+  },
+  {
+    "TOKO": "T4EK",
+    "NAMA": "LAMPOPALA BOMBANA",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.19.225"
+  },
+  {
+    "TOKO": "T4EK",
+    "NAMA": "LAMPOPALA - BOMBANA",
+    "STATION": "01",
+    "IP": "10.54.19.226"
+  },
+  {
+    "TOKO": "T4EK",
+    "NAMA": "LAMPOPALA - BOMBANA",
+    "STATION": "02",
+    "IP": "10.54.19.227"
+  },
+  {
+    "TOKO": "T4EK",
+    "NAMA": "LAMPOPALA BOMBANA",
+    "STATION": "STB",
+    "IP": "10.54.19.242"
+  },
+  {
+    "TOKO": "T4EK",
+    "NAMA": "LAMPOPALA BOMBANA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.19.244"
+  },
+  {
+    "TOKO": "T4EK",
+    "NAMA": "LAMPOPALA - BOMBANA",
+    "STATION": "DVR",
+    "IP": "10.54.19.251"
+  },
+  {
+    "TOKO": "T523",
+    "NAMA": "EMEA - MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.121.18"
+  },
+  {
+    "TOKO": "T523",
+    "NAMA": "EMEA MOROWALI",
+    "STATION": "01",
+    "IP": "10.54.121.2"
+  },
+  {
+    "TOKO": "T523",
+    "NAMA": "EMEA - MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.121.20"
+  },
+  {
+    "TOKO": "T523",
+    "NAMA": "EMEA - MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.121.27"
+  },
+  {
+    "TOKO": "T523",
+    "NAMA": "EMEA MOROWALI",
+    "STATION": "02",
+    "IP": "10.54.121.3"
+  },
+  {
+    "TOKO": "T523",
+    "NAMA": "EMEA - MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.121.30"
+  },
+  {
+    "TOKO": "T54C",
+    "NAMA": "BAHOMOTEFE NO. 27 - MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.55.129"
+  },
+  {
+    "TOKO": "T54C",
+    "NAMA": "BAHOMOTEFE NO. 27 - MOROWALI",
+    "STATION": "01",
+    "IP": "10.54.55.130"
+  },
+  {
+    "TOKO": "T54C",
+    "NAMA": "BAHOMOTEFE NO. 27 - MOROWALI",
+    "STATION": "02",
+    "IP": "10.54.55.131"
+  },
+  {
+    "TOKO": "T54C",
+    "NAMA": "BAHOMOTEFE NO. 27 - MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.55.146"
+  },
+  {
+    "TOKO": "T54C",
+    "NAMA": "BAHOMOTEFE NO. 27 - MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.55.148"
+  },
+  {
+    "TOKO": "T54C",
+    "NAMA": "BAHOPOTEE NO. 27 MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.55.155"
+  },
+  {
+    "TOKO": "T5C9",
+    "NAMA": "GERESA MOROWALI",
+    "STATION": "01",
+    "IP": "10.54.67.194"
+  },
+  {
+    "TOKO": "T5C9",
+    "NAMA": "GERESA MOROWALI",
+    "STATION": "02",
+    "IP": "10.54.67.195"
+  },
+  {
+    "TOKO": "T5C9",
+    "NAMA": "GERESSA MOROWALI MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.67.210"
+  },
+  {
+    "TOKO": "T5C9",
+    "NAMA": "GERESSA MOROWALI MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.67.212"
+  },
+  {
+    "TOKO": "T5C9",
+    "NAMA": "GERESA - MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.67.219"
+  },
+  {
+    "TOKO": "T5C9",
+    "NAMA": "GERESSA MOROWALI MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.67.222"
+  },
+  {
+    "TOKO": "T5FJ",
+    "NAMA": "PURIALA KONAWE",
+    "STATION": "STB",
+    "IP": "10.54.92.114"
+  },
+  {
+    "TOKO": "T5FJ",
+    "NAMA": "PURIALA KONAWE",
+    "STATION": "RBWDCP",
+    "IP": "10.54.92.116"
+  },
+  {
+    "TOKO": "T5FJ",
+    "NAMA": "PURIALA - KONAWE",
+    "STATION": "DVR",
+    "IP": "10.54.92.123"
+  },
+  {
+    "TOKO": "T5FJ",
+    "NAMA": "PURIALA KONAWE",
+    "STATION": "ModemVsat",
+    "IP": "10.54.92.97"
+  },
+  {
+    "TOKO": "T5FJ",
+    "NAMA": "PURIALA - KONAWE/",
+    "STATION": "01",
+    "IP": "10.54.92.98"
+  },
+  {
+    "TOKO": "T5FJ",
+    "NAMA": "PURIALA - KONAWE/",
+    "STATION": "02",
+    "IP": "10.54.92.99"
+  },
+  {
+    "TOKO": "T5Z6",
+    "NAMA": "JEND. SUDIRMAN NO. 1 - BUTON TENGAH",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.50.65"
+  },
+  {
+    "TOKO": "T5Z6",
+    "NAMA": "JENDSUD NO 1 BUTON TENGAH",
+    "STATION": "01",
+    "IP": "10.54.50.66"
+  },
+  {
+    "TOKO": "T5Z6",
+    "NAMA": "JENDSUD NO 1 BUTON TENGAH",
+    "STATION": "02",
+    "IP": "10.54.50.67"
+  },
+  {
+    "TOKO": "T5Z6",
+    "NAMA": "JEND. SUDIRMAN NO. 1 - BUTON TENGAH",
+    "STATION": "STB",
+    "IP": "10.54.50.82"
+  },
+  {
+    "TOKO": "T5Z6",
+    "NAMA": "JEND. SUDIRMAN NO. 1 - BUTON TENGAH",
+    "STATION": "RBWDCP",
+    "IP": "10.54.50.84"
+  },
+  {
+    "TOKO": "T5Z6",
+    "NAMA": "JEND SUDIRMAN NO1 -BUTONTENG",
+    "STATION": "DVR",
+    "IP": "10.54.50.91"
+  },
+  {
+    "TOKO": "T6EM",
+    "NAMA": "PRAMUKA 27 KOLAKA",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.25.129"
+  },
+  {
+    "TOKO": "T6EM",
+    "NAMA": "PRAMUKA 27 KOLAKA",
+    "STATION": "01",
+    "IP": "10.54.25.130"
+  },
+  {
+    "TOKO": "T6EM",
+    "NAMA": "PRAMUKA 27 KOLAKA",
+    "STATION": "02",
+    "IP": "10.54.25.131"
+  },
+  {
+    "TOKO": "T6EM",
+    "NAMA": "PRAMUKA 27 KOLAKA",
+    "STATION": "STB",
+    "IP": "10.54.25.146"
+  },
+  {
+    "TOKO": "T6EM",
+    "NAMA": "PRAMUKA 27 KOLAKA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.25.148"
+  },
+  {
+    "TOKO": "T6EM",
+    "NAMA": "PRAMUKA 27 KOLAKA",
+    "STATION": "DVR",
+    "IP": "10.54.25.155"
+  },
+  {
+    "TOKO": "T6OG",
+    "NAMA": "MULAENO BOMBANA",
+    "STATION": "ModemVsat",
+    "IP": "10.54.115.161"
+  },
+  {
+    "TOKO": "T6OG",
+    "NAMA": "MULAENO BOMBANA",
+    "STATION": "01",
+    "IP": "10.54.115.162"
+  },
+  {
+    "TOKO": "T6OG",
+    "NAMA": "MULAENO BOMBANA",
+    "STATION": "02",
+    "IP": "10.54.115.163"
+  },
+  {
+    "TOKO": "T6OG",
+    "NAMA": "MULAENO BOMBANA",
+    "STATION": "STB",
+    "IP": "10.54.115.178"
+  },
+  {
+    "TOKO": "T6OG",
+    "NAMA": "MULAENO BOMBANA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.115.180"
+  },
+  {
+    "TOKO": "T6OG",
+    "NAMA": "MULAENO BOMBANA",
+    "STATION": "DVR",
+    "IP": "10.54.115.187"
+  },
+  {
+    "TOKO": "T7FU",
+    "NAMA": "TOPOGARO NO 53 MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.136.129"
+  },
+  {
+    "TOKO": "T7FU",
+    "NAMA": "TOFOGARO NO 53 MOROWALI",
+    "STATION": "01",
+    "IP": "10.54.136.130"
+  },
+  {
+    "TOKO": "T7FU",
+    "NAMA": "TOFOGARO NO 53 MOROWALI",
+    "STATION": "02",
+    "IP": "10.54.136.131"
+  },
+  {
+    "TOKO": "T7FU",
+    "NAMA": "TOPOGARO NO 53 MOROWAL",
+    "STATION": "03",
+    "IP": "10.54.136.132"
+  },
+  {
+    "TOKO": "T7FU",
+    "NAMA": "TOPOGARO NO 53 MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.136.146"
+  },
+  {
+    "TOKO": "T7FU",
+    "NAMA": "TOPOGARO NO 53 MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.136.148"
+  },
+  {
+    "TOKO": "T7FU",
+    "NAMA": "TOFOGARO NO 53 MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.136.155"
+  },
+  {
+    "TOKO": "T7W5",
+    "NAMA": "BUNDARAN KTM BUNGKU MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.46.161"
+  },
+  {
+    "TOKO": "T7W5",
+    "NAMA": "BUNDARAN KTM BUNGKU MOROWALI",
+    "STATION": "01",
+    "IP": "10.54.46.162"
+  },
+  {
+    "TOKO": "T7W5",
+    "NAMA": "BUNDARAN KTM BUNGKU MOROWALI",
+    "STATION": "02",
+    "IP": "10.54.46.163"
+  },
+  {
+    "TOKO": "T7W5",
+    "NAMA": "BUNDARAN KTM BUNGKU MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.46.178"
+  },
+  {
+    "TOKO": "T7W5",
+    "NAMA": "BUNDARAN KTM BUNGKU MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.46.180"
+  },
+  {
+    "TOKO": "T7W5",
+    "NAMA": "BUNDARAN KTM BUNGKU MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.46.187"
+  },
+  {
+    "TOKO": "T8G9",
+    "NAMA": "BAHOMAKMUR 2 BLOK D - MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.46.193"
+  },
+  {
+    "TOKO": "T8G9",
+    "NAMA": "BAHOMAKMUR 2 BLOK D MOROWALI",
+    "STATION": "01",
+    "IP": "10.54.46.194"
+  },
+  {
+    "TOKO": "T8G9",
+    "NAMA": "BAHOMAKMUR 2 BLOK D MOROWALI",
+    "STATION": "02",
+    "IP": "10.54.46.195"
+  },
+  {
+    "TOKO": "T8G9",
+    "NAMA": "BAHOMAKMUR 2 BLOK D - MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.46.210"
+  },
+  {
+    "TOKO": "T8G9",
+    "NAMA": "BAHOMAKMUR 2 BLOK D - MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.46.212"
+  },
+  {
+    "TOKO": "T8G9",
+    "NAMA": "BAHOMAKMUR 2 BLOK D",
+    "STATION": "DVR",
+    "IP": "10.54.46.219"
+  },
+  {
+    "TOKO": "T8YH",
+    "NAMA": "TIWORO TENGAH MUNA BARAT",
+    "STATION": "ModemVsat",
+    "IP": "10.54.76.161"
+  },
+  {
+    "TOKO": "T8YH",
+    "NAMA": "TIWORO TENGAH MUNA BARAT",
+    "STATION": "01",
+    "IP": "10.54.76.162"
+  },
+  {
+    "TOKO": "T8YH",
+    "NAMA": "TIWORO TENGAH MUNA BARAT",
+    "STATION": "02",
+    "IP": "10.54.76.163"
+  },
+  {
+    "TOKO": "T8YH",
+    "NAMA": "TIWORO TENGAH MUNA BARAT",
+    "STATION": "STB",
+    "IP": "10.54.76.178"
+  },
+  {
+    "TOKO": "T8YH",
+    "NAMA": "TIWORO TENGAH MUNA BARAT",
+    "STATION": "RBWDCP",
+    "IP": "10.54.76.180"
+  },
+  {
+    "TOKO": "T8YH",
+    "NAMA": "TIWORO TENGAH - MUNA BARAT",
+    "STATION": "DVR",
+    "IP": "10.54.76.187"
+  },
+  {
+    "TOKO": "T8Z5",
+    "NAMA": "TIWORO KEPULAUAN NO 94",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.142.1"
+  },
+  {
+    "TOKO": "T8Z5",
+    "NAMA": "TIWORO KEPULAUAN NO 94",
+    "STATION": "STB",
+    "IP": "10.54.142.18"
+  },
+  {
+    "TOKO": "T8Z5",
+    "NAMA": "TIWORO KEPULAUAN NO 94",
+    "STATION": "01",
+    "IP": "10.54.142.2"
+  },
+  {
+    "TOKO": "T8Z5",
+    "NAMA": "TIWORO KEPULAUAN NO 94",
+    "STATION": "RBWDCP",
+    "IP": "10.54.142.20"
+  },
+  {
+    "TOKO": "T8Z5",
+    "NAMA": "TIWORO KEPULAUAN NO 94",
+    "STATION": "DVR",
+    "IP": "10.54.142.27"
+  },
+  {
+    "TOKO": "T8Z5",
+    "NAMA": "TIWORO KEPULAUAN NO 94",
+    "STATION": "02",
+    "IP": "10.54.142.3"
+  },
+  {
+    "TOKO": "T92S",
+    "NAMA": "RANTEANGIN - KOLAKA UTARA",
+    "STATION": "01",
+    "IP": "10.54.100.162"
+  },
+  {
+    "TOKO": "T92S",
+    "NAMA": "RANTEANGIN - KOLAKA UTARA",
+    "STATION": "02",
+    "IP": "10.54.100.163"
+  },
+  {
+    "TOKO": "T92S",
+    "NAMA": "RANTEANGIN-KOLAKA UTARA",
+    "STATION": "STB",
+    "IP": "10.54.100.178"
+  },
+  {
+    "TOKO": "T92S",
+    "NAMA": "RANTEANGIN-KOLAKA UTARA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.100.180"
+  },
+  {
+    "TOKO": "T92S",
+    "NAMA": "RANTEANGIN - KOLAKA UTARA",
+    "STATION": "DVR",
+    "IP": "10.54.100.187"
+  },
+  {
+    "TOKO": "T92S",
+    "NAMA": "RANTEANGIN-KOLAKA UTARA",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.100.190"
+  },
+  {
+    "TOKO": "T94P",
+    "NAMA": "TRANS BAHOMAKMUR MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.53.225"
+  },
+  {
+    "TOKO": "T94P",
+    "NAMA": "TRANS BAHOMAKMUR",
+    "STATION": "01",
+    "IP": "10.54.53.226"
+  },
+  {
+    "TOKO": "T94P",
+    "NAMA": "TRANS BAHOMAKMUR",
+    "STATION": "02",
+    "IP": "10.54.53.227"
+  },
+  {
+    "TOKO": "T94P",
+    "NAMA": "TRANS BAHOMAKMUR MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.53.242"
+  },
+  {
+    "TOKO": "T94P",
+    "NAMA": "TRANS BAHOMAKMUR MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.53.244"
+  },
+  {
+    "TOKO": "T94P",
+    "NAMA": "TRANS BAHOMAKMUR - MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.53.251"
+  },
+  {
+    "TOKO": "T9BN",
+    "NAMA": "RATE-RATE NO.86 KOLAKA TIMUR",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.50.193"
+  },
+  {
+    "TOKO": "T9BN",
+    "NAMA": "RATE-RATE NO. 86-KOLAKA T/",
+    "STATION": "01",
+    "IP": "10.54.50.194"
+  },
+  {
+    "TOKO": "T9BN",
+    "NAMA": "RATE-RATE NO. 86-KOLAKA T/",
+    "STATION": "02",
+    "IP": "10.54.50.195"
+  },
+  {
+    "TOKO": "T9BN",
+    "NAMA": "RATE-RATE NO.86 KOLAKA TIMUR",
+    "STATION": "STB",
+    "IP": "10.54.50.210"
+  },
+  {
+    "TOKO": "T9BN",
+    "NAMA": "RATE-RATE NO.86 KOLAKA TIMUR",
+    "STATION": "RBWDCP",
+    "IP": "10.54.50.212"
+  },
+  {
+    "TOKO": "T9BN",
+    "NAMA": "RATE-RATE NO 86 KOLAKA TIMUR",
+    "STATION": "DVR",
+    "IP": "10.54.50.219"
+  },
+  {
+    "TOKO": "T9R0",
+    "NAMA": "BATUPUTIH KOLAKA UTARA\t",
+    "STATION": "ModemVsat",
+    "IP": "10.54.124.161"
+  },
+  {
+    "TOKO": "T9R0",
+    "NAMA": "BATUPUTIH KOLAKA UTARA",
+    "STATION": "01",
+    "IP": "10.54.124.162"
+  },
+  {
+    "TOKO": "T9R0",
+    "NAMA": "BATUPUTIH KOLAKA UTARA",
+    "STATION": "02",
+    "IP": "10.54.124.163"
+  },
+  {
+    "TOKO": "T9R0",
+    "NAMA": "BATUPUTIH KOLAKA UTARA\t",
+    "STATION": "STB",
+    "IP": "10.54.124.178"
+  },
+  {
+    "TOKO": "T9R0",
+    "NAMA": "BATUPUTIH KOLAKA UTARA\t",
+    "STATION": "RBWDCP",
+    "IP": "10.54.124.180"
+  },
+  {
+    "TOKO": "T9R0",
+    "NAMA": "BATUPUTIH",
+    "STATION": "DVR",
+    "IP": "10.54.124.187"
+  },
+  {
+    "TOKO": "T9RZ",
+    "NAMA": "KEUREA - MOROWALI",
+    "STATION": "ModemVsat",
+    "IP": "10.54.67.129"
+  },
+  {
+    "TOKO": "T9RZ",
+    "NAMA": "KEUREA - MOROWALI",
+    "STATION": "01",
+    "IP": "10.54.67.130"
+  },
+  {
+    "TOKO": "T9RZ",
+    "NAMA": "KEUREA - MOROWALI",
+    "STATION": "02",
+    "IP": "10.54.67.131"
+  },
+  {
+    "TOKO": "T9RZ",
+    "NAMA": "KEUREA - MOROWALI",
+    "STATION": "04",
+    "IP": "10.54.67.133"
+  },
+  {
+    "TOKO": "T9RZ",
+    "NAMA": "KEUREA - MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.67.146"
+  },
+  {
+    "TOKO": "T9RZ",
+    "NAMA": "KEUREA - MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.67.148"
+  },
+  {
+    "TOKO": "T9RZ",
+    "NAMA": "KEUREA - MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.67.155"
+  },
+  {
+    "TOKO": "T9SY",
+    "NAMA": "DURIASI KONAWE",
+    "STATION": "STB",
+    "IP": "10.54.23.114"
+  },
+  {
+    "TOKO": "T9SY",
+    "NAMA": "DURIASI KONAWE",
+    "STATION": "RBWDCP",
+    "IP": "10.54.23.116"
+  },
+  {
+    "TOKO": "T9SY",
+    "NAMA": "DURIASI - KONAWE",
+    "STATION": "DVR",
+    "IP": "10.54.23.123"
+  },
+  {
+    "TOKO": "T9SY",
+    "NAMA": "DURIASI KONAWE",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.23.97"
+  },
+  {
+    "TOKO": "T9SY",
+    "NAMA": "DURIASI - KONAWE",
+    "STATION": "01",
+    "IP": "10.54.23.98"
+  },
+  {
+    "TOKO": "T9SY",
+    "NAMA": "DURIASI - KONAWE",
+    "STATION": "02",
+    "IP": "10.54.23.99"
+  },
+  {
+    "TOKO": "TAAB",
+    "NAMA": "BUNGKU TENGAH",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.54.65"
+  },
+  {
+    "TOKO": "TAAB",
+    "NAMA": "BUNGKU TENGAH MOROWALI",
+    "STATION": "01",
+    "IP": "10.54.54.66"
+  },
+  {
+    "TOKO": "TAAB",
+    "NAMA": "BUNGKU TENGAH MOROWALI",
+    "STATION": "02",
+    "IP": "10.54.54.67"
+  },
+  {
+    "TOKO": "TAAB",
+    "NAMA": "BUNGKU TENGAH",
+    "STATION": "STB",
+    "IP": "10.54.54.82"
+  },
+  {
+    "TOKO": "TAAB",
+    "NAMA": "BUNGKU TENGAH",
+    "STATION": "RBWDCP",
+    "IP": "10.54.54.84"
+  },
+  {
+    "TOKO": "TAAB",
+    "NAMA": "BUNGKU TENGAH - MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.54.91"
+  },
+  {
+    "TOKO": "TAAZ",
+    "NAMA": "WOLO KOLAKA",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.32.65"
+  },
+  {
+    "TOKO": "TAAZ",
+    "NAMA": "WOLO KOLAKA",
+    "STATION": "01",
+    "IP": "10.54.32.66"
+  },
+  {
+    "TOKO": "TAAZ",
+    "NAMA": "WOLO KOLAKA",
+    "STATION": "02",
+    "IP": "10.54.32.67"
+  },
+  {
+    "TOKO": "TAAZ",
+    "NAMA": "WOLO KOLAKA",
+    "STATION": "03",
+    "IP": "10.54.32.68"
+  },
+  {
+    "TOKO": "TAAZ",
+    "NAMA": "WOLO KOLAKA",
+    "STATION": "STB",
+    "IP": "10.54.32.82"
+  },
+  {
+    "TOKO": "TAAZ",
+    "NAMA": "WOLO KOLAKA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.32.84"
+  },
+  {
+    "TOKO": "TAAZ",
+    "NAMA": "WOLO - KOLAKA",
+    "STATION": "DVR",
+    "IP": "10.54.32.91"
+  },
+  {
+    "TOKO": "TAB7",
+    "NAMA": "BAHODOPI NO. 80 MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.59.33"
+  },
+  {
+    "TOKO": "TAB7",
+    "NAMA": "BAHODOPI NO 80 MOROWALI",
+    "STATION": "01",
+    "IP": "10.54.59.34"
+  },
+  {
+    "TOKO": "TAB7",
+    "NAMA": "BAHODOPI NO 80 MOROWALI",
+    "STATION": "02",
+    "IP": "10.54.59.35"
+  },
+  {
+    "TOKO": "TAB7",
+    "NAMA": "BAHODOPI NO. 80 MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.59.50"
+  },
+  {
+    "TOKO": "TAB7",
+    "NAMA": "BAHODOPI NO. 80 MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.59.52"
+  },
+  {
+    "TOKO": "TAB7",
+    "NAMA": "BAHODOPI NO. 80 - MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.59.59"
+  },
+  {
+    "TOKO": "TABG",
+    "NAMA": "WOLASI",
+    "STATION": "ModemVsat",
+    "IP": "10.54.118.161"
+  },
+  {
+    "TOKO": "TABG",
+    "NAMA": "WOLASI KONAWE SELATAN",
+    "STATION": "01",
+    "IP": "10.54.118.162"
+  },
+  {
+    "TOKO": "TABG",
+    "NAMA": "WOLASI KONAWE SELATAN",
+    "STATION": "02",
+    "IP": "10.54.118.163"
+  },
+  {
+    "TOKO": "TABG",
+    "NAMA": "WOLASI",
+    "STATION": "STB",
+    "IP": "10.54.118.178"
+  },
+  {
+    "TOKO": "TABG",
+    "NAMA": "WOLASI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.118.180"
+  },
+  {
+    "TOKO": "TABG",
+    "NAMA": "WOLASI KONAWE SELATAN",
+    "STATION": "DVR",
+    "IP": "10.54.118.187"
+  },
+  {
+    "TOKO": "TABL",
+    "NAMA": "JENDRAL SUDIRMAN 94",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.47.161"
+  },
+  {
+    "TOKO": "TABL",
+    "NAMA": "JENDRAL SUDIRMAN 94 KONAW",
+    "STATION": "01",
+    "IP": "10.54.47.162"
+  },
+  {
+    "TOKO": "TABL",
+    "NAMA": "JENDRAL SUDIRMAN 94 KONAW",
+    "STATION": "02",
+    "IP": "10.54.47.163"
+  },
+  {
+    "TOKO": "TABL",
+    "NAMA": "JENDRAL SUDIRMAN 94",
+    "STATION": "STB",
+    "IP": "10.54.47.178"
+  },
+  {
+    "TOKO": "TABL",
+    "NAMA": "JENDRAL SUDIRMAN 94",
+    "STATION": "RBWDCP",
+    "IP": "10.54.47.180"
+  },
+  {
+    "TOKO": "TABL",
+    "NAMA": "JENDRAL SUDIRMAN 94",
+    "STATION": "DVR",
+    "IP": "10.54.47.187"
+  },
+  {
+    "TOKO": "TADD",
+    "NAMA": "ONEMBUTE KONAWE",
+    "STATION": "01",
+    "IP": "10.54.98.226"
+  },
+  {
+    "TOKO": "TADD",
+    "NAMA": "ONEMBUTE KONAWE",
+    "STATION": "02",
+    "IP": "10.54.98.227"
+  },
+  {
+    "TOKO": "TADD",
+    "NAMA": "ONEMBUTE KONAWE",
+    "STATION": "STB",
+    "IP": "10.54.98.242"
+  },
+  {
+    "TOKO": "TADD",
+    "NAMA": "ONEMBUTE KONAWE",
+    "STATION": "RBWDCP",
+    "IP": "10.54.98.244"
+  },
+  {
+    "TOKO": "TADD",
+    "NAMA": "ONEMBUTE KONAWE",
+    "STATION": "DVR",
+    "IP": "10.54.98.251"
+  },
+  {
+    "TOKO": "TADD",
+    "NAMA": "ONEMBUTE KONAWE",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.98.254"
+  },
+  {
+    "TOKO": "TAFG",
+    "NAMA": "POLIPOLIA KOLAKA TIMUR",
+    "STATION": "ModemVsat",
+    "IP": "10.54.98.193"
+  },
+  {
+    "TOKO": "TAFG",
+    "NAMA": "POLIPOLIA KOLAKA TIMUR",
+    "STATION": "01",
+    "IP": "10.54.98.194"
+  },
+  {
+    "TOKO": "TAFG",
+    "NAMA": "POLIPOLIA KOLAKA TIMUR",
+    "STATION": "02",
+    "IP": "10.54.98.195"
+  },
+  {
+    "TOKO": "TAFG",
+    "NAMA": "POLIPOLIA KOLAKA TIMUR",
+    "STATION": "STB",
+    "IP": "10.54.98.210"
+  },
+  {
+    "TOKO": "TAFG",
+    "NAMA": "POLIPOLIA KOLAKA TIMUR",
+    "STATION": "RBWDCP",
+    "IP": "10.54.98.212"
+  },
+  {
+    "TOKO": "TAFG",
+    "NAMA": "POLIPOLIA KOLAKA TIMUR",
+    "STATION": "DVR",
+    "IP": "10.54.98.219"
+  },
+  {
+    "TOKO": "TAFO",
+    "NAMA": "YOS SUDARSO",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.27.225"
+  },
+  {
+    "TOKO": "TAFO",
+    "NAMA": "YOS SUDARSO BOMBANA",
+    "STATION": "01",
+    "IP": "10.54.27.226"
+  },
+  {
+    "TOKO": "TAFO",
+    "NAMA": "YOS SUDARSO BOMBANA",
+    "STATION": "02",
+    "IP": "10.54.27.227"
+  },
+  {
+    "TOKO": "TAFO",
+    "NAMA": "YOS SUDARSO",
+    "STATION": "STB",
+    "IP": "10.54.27.242"
+  },
+  {
+    "TOKO": "TAFO",
+    "NAMA": "YOS SUDARSO",
+    "STATION": "RBWDCP",
+    "IP": "10.54.27.244"
+  },
+  {
+    "TOKO": "TAFO",
+    "NAMA": "YOS SUDARSO",
+    "STATION": "DVR",
+    "IP": "10.54.27.251"
+  },
+  {
+    "TOKO": "TAGH",
+    "NAMA": "KOLONO KONSEL",
+    "STATION": "STB",
+    "IP": "10.54.75.114"
+  },
+  {
+    "TOKO": "TAGH",
+    "NAMA": "KOLONO KONSEL",
+    "STATION": "RBWDCP",
+    "IP": "10.54.75.116"
+  },
+  {
+    "TOKO": "TAGH",
+    "NAMA": "KOLONO KONAWE SELATAN",
+    "STATION": "DVR",
+    "IP": "10.54.75.123"
+  },
+  {
+    "TOKO": "TAGH",
+    "NAMA": "KOLONO KONSEL",
+    "STATION": "ModemVsat",
+    "IP": "10.54.75.97"
+  },
+  {
+    "TOKO": "TAGH",
+    "NAMA": "KOLONO KONAWE SELATAN",
+    "STATION": "01",
+    "IP": "10.54.75.98"
+  },
+  {
+    "TOKO": "TAGH",
+    "NAMA": "KOLONO KONAWE SELATAN",
+    "STATION": "02",
+    "IP": "10.54.75.99"
+  },
+  {
+    "TOKO": "TAHE",
+    "NAMA": "BAHODOPI NO 84 MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.139.129"
+  },
+  {
+    "TOKO": "TAHE",
+    "NAMA": "BAHODOPI NO 84 MOROWALI",
+    "STATION": "01",
+    "IP": "10.54.139.130"
+  },
+  {
+    "TOKO": "TAHE",
+    "NAMA": "BAHODOPI NO 84 MORO",
+    "STATION": "02",
+    "IP": "10.54.139.131"
+  },
+  {
+    "TOKO": "TAHE",
+    "NAMA": "BAHODOPI NO 84 MOROWALI",
+    "STATION": "03",
+    "IP": "10.54.139.132"
+  },
+  {
+    "TOKO": "TAHE",
+    "NAMA": "BAHODOPI NO 84 MORO",
+    "STATION": "04",
+    "IP": "10.54.139.133"
+  },
+  {
+    "TOKO": "TAHE",
+    "NAMA": "BAHODOPI NO 84 MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.139.146"
+  },
+  {
+    "TOKO": "TAHE",
+    "NAMA": "BAHODOPI NO 84 MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.139.148"
+  },
+  {
+    "TOKO": "TAHE",
+    "NAMA": "BAHODOPI NO 84 MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.139.155"
+  },
+  {
+    "TOKO": "TAIQ",
+    "NAMA": "POROS LAINEA",
+    "STATION": "ModemVsat",
+    "IP": "10.54.99.33"
+  },
+  {
+    "TOKO": "TAIQ",
+    "NAMA": "POROS LAINEA KONAWE SELAT",
+    "STATION": "01",
+    "IP": "10.54.99.34"
+  },
+  {
+    "TOKO": "TAIQ",
+    "NAMA": "POROS LAINEA KONAWE SELAT",
+    "STATION": "02",
+    "IP": "10.54.99.35"
+  },
+  {
+    "TOKO": "TAIQ",
+    "NAMA": "POROS LAINEA",
+    "STATION": "STB",
+    "IP": "10.54.99.50"
+  },
+  {
+    "TOKO": "TAIQ",
+    "NAMA": "POROS LAINEA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.99.52"
+  },
+  {
+    "TOKO": "TAIQ",
+    "NAMA": "POROS LAINEA KONAWE SELATAN",
+    "STATION": "DVR",
+    "IP": "10.54.99.59"
+  },
+  {
+    "TOKO": "TAMN",
+    "NAMA": "INOWA",
+    "STATION": "STB",
+    "IP": "10.54.112.114"
+  },
+  {
+    "TOKO": "TAMN",
+    "NAMA": "INOWA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.112.116"
+  },
+  {
+    "TOKO": "TAMN",
+    "NAMA": "INOWA KONAWE",
+    "STATION": "DVR",
+    "IP": "10.54.112.123"
+  },
+  {
+    "TOKO": "TAMN",
+    "NAMA": "INOWA",
+    "STATION": "ModemVsat",
+    "IP": "10.54.112.97"
+  },
+  {
+    "TOKO": "TAMN",
+    "NAMA": "INOWA KONAWE",
+    "STATION": "01",
+    "IP": "10.54.112.98"
+  },
+  {
+    "TOKO": "TAMN",
+    "NAMA": "INOWA KONAWE",
+    "STATION": "02",
+    "IP": "10.54.112.99"
+  },
+  {
+    "TOKO": "TAOT",
+    "NAMA": "WAWOTOBI KONAWE",
+    "STATION": "ModemVsat",
+    "IP": "10.54.107.1"
+  },
+  {
+    "TOKO": "TAOT",
+    "NAMA": "WAWOTOBI KONAWE",
+    "STATION": "STB",
+    "IP": "10.54.107.18"
+  },
+  {
+    "TOKO": "TAOT",
+    "NAMA": "WAWOTOBI KONAWE",
+    "STATION": "01",
+    "IP": "10.54.107.2"
+  },
+  {
+    "TOKO": "TAOT",
+    "NAMA": "WAWOTOBI KONAWE",
+    "STATION": "RBWDCP",
+    "IP": "10.54.107.20"
+  },
+  {
+    "TOKO": "TAOT",
+    "NAMA": "WAWOTOBI KONAWE",
+    "STATION": "DVR",
+    "IP": "10.54.107.27"
+  },
+  {
+    "TOKO": "TAOT",
+    "NAMA": "WAWOTOBI KONAWE",
+    "STATION": "02",
+    "IP": "10.54.107.3"
+  },
+  {
+    "TOKO": "TARK",
+    "NAMA": "ABADI - KOLAKA",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.39.1"
+  },
+  {
+    "TOKO": "TARK",
+    "NAMA": "ABADI - KOLAKA",
+    "STATION": "STB",
+    "IP": "10.54.39.18"
+  },
+  {
+    "TOKO": "TARK",
+    "NAMA": "ABADI - KOLAKA",
+    "STATION": "01",
+    "IP": "10.54.39.2"
+  },
+  {
+    "TOKO": "TARK",
+    "NAMA": "ABADI - KOLAKA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.39.20"
+  },
+  {
+    "TOKO": "TARK",
+    "NAMA": "ABADI - KOLAKA",
+    "STATION": "DVR",
+    "IP": "10.54.39.27"
+  },
+  {
+    "TOKO": "TARK",
+    "NAMA": "ABADI - KOLAKA",
+    "STATION": "02",
+    "IP": "10.54.39.3"
+  },
+  {
+    "TOKO": "TATF",
+    "NAMA": "MASAGENA KONAWE SELATAN",
+    "STATION": "01",
+    "IP": "10.54.89.226"
+  },
+  {
+    "TOKO": "TATF",
+    "NAMA": "MASAGENA KONAWE SELATAN",
+    "STATION": "02",
+    "IP": "10.54.89.227"
+  },
+  {
+    "TOKO": "TATF",
+    "NAMA": "MASAGENA KONAWE SELATAN",
+    "STATION": "STB",
+    "IP": "10.54.89.242"
+  },
+  {
+    "TOKO": "TATF",
+    "NAMA": "MASAGENA KONAWE SELATAN",
+    "STATION": "RBWDCP",
+    "IP": "10.54.89.244"
+  },
+  {
+    "TOKO": "TATF",
+    "NAMA": "MASAGENA KONAWE SELATAN",
+    "STATION": "DVR",
+    "IP": "10.54.89.251"
+  },
+  {
+    "TOKO": "TATF",
+    "NAMA": "MASAGENA KONAWE SELATAN",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.89.254"
+  },
+  {
+    "TOKO": "TAUF",
+    "NAMA": "LABOTA NO 37 MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.134.114"
+  },
+  {
+    "TOKO": "TAUF",
+    "NAMA": "LABOTA NO 37 MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.134.116"
+  },
+  {
+    "TOKO": "TAUF",
+    "NAMA": "LABOTA NO 37 MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.134.123"
+  },
+  {
+    "TOKO": "TAUF",
+    "NAMA": "LABOTA NO 37 MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.134.97"
+  },
+  {
+    "TOKO": "TAUF",
+    "NAMA": "LABOTA NO 37 MOROWALI",
+    "STATION": "01",
+    "IP": "10.54.134.98"
+  },
+  {
+    "TOKO": "TAUF",
+    "NAMA": "LABOTA NO 37 MOROWALI",
+    "STATION": "02",
+    "IP": "10.54.134.99"
+  },
+  {
+    "TOKO": "TAVX",
+    "NAMA": "BRIGJEND KATAMSO KONSEL",
+    "STATION": "01",
+    "IP": "10.54.66.162"
+  },
+  {
+    "TOKO": "TAVX",
+    "NAMA": "BRIGJEND KATAMSO KONSEL",
+    "STATION": "02",
+    "IP": "10.54.66.163"
+  },
+  {
+    "TOKO": "TAVX",
+    "NAMA": "BRIGJEND KATAMSO",
+    "STATION": "STB",
+    "IP": "10.54.66.178"
+  },
+  {
+    "TOKO": "TAVX",
+    "NAMA": "BRIGJEND KATAMSO",
+    "STATION": "RBWDCP",
+    "IP": "10.54.66.180"
+  },
+  {
+    "TOKO": "TAVX",
+    "NAMA": "BRIGJEND KATAMSO KONSEL",
+    "STATION": "DVR",
+    "IP": "10.54.66.187"
+  },
+  {
+    "TOKO": "TAVX",
+    "NAMA": "BRIGJEND KATAMSO",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.66.190"
+  },
+  {
+    "TOKO": "TBB6",
+    "NAMA": "BASALAH - KONSEL",
+    "STATION": "ModemVsat",
+    "IP": "10.54.73.129"
+  },
+  {
+    "TOKO": "TBB6",
+    "NAMA": "BASALA - KONAWE SELATAN/",
+    "STATION": "01",
+    "IP": "10.54.73.130"
+  },
+  {
+    "TOKO": "TBB6",
+    "NAMA": "BASALA - KONAWE SELATAN/",
+    "STATION": "02",
+    "IP": "10.54.73.131"
+  },
+  {
+    "TOKO": "TBB6",
+    "NAMA": "BASALAH - KONSEL",
+    "STATION": "STB",
+    "IP": "10.54.73.146"
+  },
+  {
+    "TOKO": "TBB6",
+    "NAMA": "BASALAH - KONSEL",
+    "STATION": "RBWDCP",
+    "IP": "10.54.73.148"
+  },
+  {
+    "TOKO": "TBB6",
+    "NAMA": "BASALA - KONAWE SELATAN",
+    "STATION": "DVR",
+    "IP": "10.54.73.155"
+  },
+  {
+    "TOKO": "TBCC",
+    "NAMA": "PONGGAWA KONAWE",
+    "STATION": "ModemVsat",
+    "IP": "10.54.107.33"
+  },
+  {
+    "TOKO": "TBCC",
+    "NAMA": "PONGGAWA KONAWE",
+    "STATION": "01",
+    "IP": "10.54.107.34"
+  },
+  {
+    "TOKO": "TBCC",
+    "NAMA": "PONGGAWA KONAWE",
+    "STATION": "02",
+    "IP": "10.54.107.35"
+  },
+  {
+    "TOKO": "TBCC",
+    "NAMA": "PONGGAWA KONAWE",
+    "STATION": "STB",
+    "IP": "10.54.107.50"
+  },
+  {
+    "TOKO": "TBCC",
+    "NAMA": "PONGGAWA KONAWE",
+    "STATION": "RBWDCP",
+    "IP": "10.54.107.52"
+  },
+  {
+    "TOKO": "TBCC",
+    "NAMA": "PONGGAWA KONAWE",
+    "STATION": "DVR",
+    "IP": "10.54.107.59"
+  },
+  {
+    "TOKO": "TBDA",
+    "NAMA": "LANOWULU KONSEL",
+    "STATION": "ModemVsat",
+    "IP": "10.54.90.129"
+  },
+  {
+    "TOKO": "TBDA",
+    "NAMA": "LANOWULU KONAWE SELATAN",
+    "STATION": "01",
+    "IP": "10.54.90.130"
+  },
+  {
+    "TOKO": "TBDA",
+    "NAMA": "LANOWULU KONAWE SELATAN",
+    "STATION": "02",
+    "IP": "10.54.90.131"
+  },
+  {
+    "TOKO": "TBDA",
+    "NAMA": "LANOWULU KONSEL",
+    "STATION": "STB",
+    "IP": "10.54.90.146"
+  },
+  {
+    "TOKO": "TBDA",
+    "NAMA": "LANOWULU KONSEL",
+    "STATION": "RBWDCP",
+    "IP": "10.54.90.148"
+  },
+  {
+    "TOKO": "TBDA",
+    "NAMA": "LANOWULU KONAWE SELATAN",
+    "STATION": "DVR",
+    "IP": "10.54.90.155"
+  },
+  {
+    "TOKO": "TBDD",
+    "NAMA": "JENDSUD LAODE PULU MUNA",
+    "STATION": "ModemVsat",
+    "IP": "10.54.76.129"
+  },
+  {
+    "TOKO": "TBDD",
+    "NAMA": "JENDSUD LAODE PULU",
+    "STATION": "01",
+    "IP": "10.54.76.130"
+  },
+  {
+    "TOKO": "TBDD",
+    "NAMA": "JENDSUD LAODE PULU",
+    "STATION": "02",
+    "IP": "10.54.76.131"
+  },
+  {
+    "TOKO": "TBDD",
+    "NAMA": "JENDSUD LAODE PULU MUNA",
+    "STATION": "STB",
+    "IP": "10.54.76.146"
+  },
+  {
+    "TOKO": "TBDD",
+    "NAMA": "JENDSUD LAODE PULU MUNA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.76.148"
+  },
+  {
+    "TOKO": "TBDD",
+    "NAMA": "JENSUD LAODE PULU - MUNA",
+    "STATION": "DVR",
+    "IP": "10.54.76.155"
+  },
+  {
+    "TOKO": "TBDS",
+    "NAMA": "MORAMO 99",
+    "STATION": "ModemVsat",
+    "IP": "10.54.71.129"
+  },
+  {
+    "TOKO": "TBDS",
+    "NAMA": "MORAMO 99 KONAWE SELATAN",
+    "STATION": "01",
+    "IP": "10.54.71.130"
+  },
+  {
+    "TOKO": "TBDS",
+    "NAMA": "MORAMO 99 KONAWE SELATAN",
+    "STATION": "02",
+    "IP": "10.54.71.131"
+  },
+  {
+    "TOKO": "TBDS",
+    "NAMA": "MORAMO 99",
+    "STATION": "STB",
+    "IP": "10.54.71.147"
+  },
+  {
+    "TOKO": "TBDS",
+    "NAMA": "MORAMO 99",
+    "STATION": "RBWDCP",
+    "IP": "10.54.71.148"
+  },
+  {
+    "TOKO": "TBDS",
+    "NAMA": "MORAMO 99 KONAWE SELATAN",
+    "STATION": "DVR",
+    "IP": "10.54.71.155"
+  },
+  {
+    "TOKO": "TBER",
+    "NAMA": "LALOLAE KOLAKA TIMUR",
+    "STATION": "01",
+    "IP": "10.54.118.194"
+  },
+  {
+    "TOKO": "TBER",
+    "NAMA": "LALOLAE KOLAKA TIMUR",
+    "STATION": "02",
+    "IP": "10.54.118.195"
+  },
+  {
+    "TOKO": "TBER",
+    "NAMA": "LALOLAE KOLAKA TIMUR",
+    "STATION": "STB",
+    "IP": "10.54.118.210"
+  },
+  {
+    "TOKO": "TBER",
+    "NAMA": "LALOLAE KOLAKA TIMUR",
+    "STATION": "RBWDCP",
+    "IP": "10.54.118.212"
+  },
+  {
+    "TOKO": "TBER",
+    "NAMA": "LALOLAE KOLAKA TIMUR",
+    "STATION": "DVR",
+    "IP": "10.54.118.219"
+  },
+  {
+    "TOKO": "TBER",
+    "NAMA": "LALOLAE KOLAKA TIMUR",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.118.222"
+  },
+  {
+    "TOKO": "TBFV",
+    "NAMA": "AEPODU",
+    "STATION": "ModemVsat",
+    "IP": "10.54.75.65"
+  },
+  {
+    "TOKO": "TBFV",
+    "NAMA": "AEPODU KONAWE SELATAN",
+    "STATION": "01",
+    "IP": "10.54.75.66"
+  },
+  {
+    "TOKO": "TBFV",
+    "NAMA": "AEPODU KONAWE SELATAN",
+    "STATION": "02",
+    "IP": "10.54.75.67"
+  },
+  {
+    "TOKO": "TBFV",
+    "NAMA": "AEPODU",
+    "STATION": "STB",
+    "IP": "10.54.75.82"
+  },
+  {
+    "TOKO": "TBFV",
+    "NAMA": "AEPODU",
+    "STATION": "RBWDCP",
+    "IP": "10.54.75.84"
+  },
+  {
+    "TOKO": "TBFV",
+    "NAMA": "AEPODU KONAWE SELATAN",
+    "STATION": "DVR",
+    "IP": "10.54.75.91"
+  },
+  {
+    "TOKO": "TBGS",
+    "NAMA": "RANOOHA",
+    "STATION": "ModemVsat",
+    "IP": "10.54.90.65"
+  },
+  {
+    "TOKO": "TBGS",
+    "NAMA": "RANOOHA - KONAWE SELATAN",
+    "STATION": "01",
+    "IP": "10.54.90.66"
+  },
+  {
+    "TOKO": "TBGS",
+    "NAMA": "RANOOHA - KONAWE SELATAN",
+    "STATION": "02",
+    "IP": "10.54.90.67"
+  },
+  {
+    "TOKO": "TBGS",
+    "NAMA": "RANOOHA",
+    "STATION": "STB",
+    "IP": "10.54.90.82"
+  },
+  {
+    "TOKO": "TBGS",
+    "NAMA": "RANOOHA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.90.84"
+  },
+  {
+    "TOKO": "TBGS",
+    "NAMA": "RANOOHA",
+    "STATION": "DVR",
+    "IP": "10.54.90.91"
+  },
+  {
+    "TOKO": "TBIO",
+    "NAMA": "POROS WONGGEDUKU BARAT KO",
+    "STATION": "01",
+    "IP": "10.54.98.66"
+  },
+  {
+    "TOKO": "TBIO",
+    "NAMA": "POROS WONGGEDUKU BARAT KO",
+    "STATION": "02",
+    "IP": "10.54.98.67"
+  },
+  {
+    "TOKO": "TBIO",
+    "NAMA": "POROS WONGGEDUKU BARAT",
+    "STATION": "STB",
+    "IP": "10.54.98.82"
+  },
+  {
+    "TOKO": "TBIO",
+    "NAMA": "POROS WONGGEDUKU BARAT",
+    "STATION": "RBWDCP",
+    "IP": "10.54.98.84"
+  },
+  {
+    "TOKO": "TBIO",
+    "NAMA": "POROS WONGGEDUKU BARAT",
+    "STATION": "DVR",
+    "IP": "10.54.98.91"
+  },
+  {
+    "TOKO": "TBIO",
+    "NAMA": "POROS WONGGEDUKU BARAT",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.98.94"
+  },
+  {
+    "TOKO": "TBJX",
+    "NAMA": "WR MONGINSIDI KONAWE SELA",
+    "STATION": "01",
+    "IP": "10.54.68.162"
+  },
+  {
+    "TOKO": "TBJX",
+    "NAMA": "WR MONGINSIDI KONAWE SELA",
+    "STATION": "02",
+    "IP": "10.54.68.163"
+  },
+  {
+    "TOKO": "TBJX",
+    "NAMA": "WR MONGINSIDI",
+    "STATION": "STB",
+    "IP": "10.54.68.178"
+  },
+  {
+    "TOKO": "TBJX",
+    "NAMA": "WR MONGINSIDI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.68.180"
+  },
+  {
+    "TOKO": "TBJX",
+    "NAMA": "WR MONGINSIDI KONAWE SELATAN",
+    "STATION": "DVR",
+    "IP": "10.54.68.187"
+  },
+  {
+    "TOKO": "TBJX",
+    "NAMA": "WR MONGINSIDI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.68.190"
+  },
+  {
+    "TOKO": "TBJZ",
+    "NAMA": "POTORO KONAWE SELATAN",
+    "STATION": "01",
+    "IP": "10.54.112.194"
+  },
+  {
+    "TOKO": "TBJZ",
+    "NAMA": "POTORO KONAWE SELATAN",
+    "STATION": "02",
+    "IP": "10.54.112.195"
+  },
+  {
+    "TOKO": "TBJZ",
+    "NAMA": "POTORO",
+    "STATION": "STB",
+    "IP": "10.54.112.210"
+  },
+  {
+    "TOKO": "TBJZ",
+    "NAMA": "POTORO",
+    "STATION": "RBWDCP",
+    "IP": "10.54.112.212"
+  },
+  {
+    "TOKO": "TBJZ",
+    "NAMA": "POTORO KONAWE SELATAN",
+    "STATION": "DVR",
+    "IP": "10.54.112.219"
+  },
+  {
+    "TOKO": "TBJZ",
+    "NAMA": "POTORO",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.112.222"
+  },
+  {
+    "TOKO": "TBKU",
+    "NAMA": "SANGI-SANGI KONAWE SELATA",
+    "STATION": "01",
+    "IP": "10.54.98.34"
+  },
+  {
+    "TOKO": "TBKU",
+    "NAMA": "SANGI-SANGI KONAWE SELATA",
+    "STATION": "02",
+    "IP": "10.54.98.35"
+  },
+  {
+    "TOKO": "TBKU",
+    "NAMA": "SANGI SANGI",
+    "STATION": "STB",
+    "IP": "10.54.98.50"
+  },
+  {
+    "TOKO": "TBKU",
+    "NAMA": "SANGI SANGI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.98.52"
+  },
+  {
+    "TOKO": "TBKU",
+    "NAMA": "SANGI SANGI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.98.62"
+  },
+  {
+    "TOKO": "TBKU",
+    "NAMA": "SANGI-SANGI KONAWE SELATAN",
+    "STATION": "DVR",
+    "IP": "172.31.31.8"
+  },
+  {
+    "TOKO": "TBUR",
+    "NAMA": "AMERORO KONAWE",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.143.1"
+  },
+  {
+    "TOKO": "TBUR",
+    "NAMA": "AMERORO KONAWE",
+    "STATION": "STB",
+    "IP": "10.54.143.18"
+  },
+  {
+    "TOKO": "TBUR",
+    "NAMA": "AMERORO KONAWE",
+    "STATION": "01",
+    "IP": "10.54.143.2"
+  },
+  {
+    "TOKO": "TBUR",
+    "NAMA": "AMERORO KONAWE",
+    "STATION": "RBWDCP",
+    "IP": "10.54.143.20"
+  },
+  {
+    "TOKO": "TBUR",
+    "NAMA": "AMERORO KONAWE",
+    "STATION": "DVR",
+    "IP": "10.54.143.27"
+  },
+  {
+    "TOKO": "TBUR",
+    "NAMA": "AMERORO KONAWE",
+    "STATION": "02",
+    "IP": "10.54.143.3"
+  },
+  {
+    "TOKO": "TBZH",
+    "NAMA": "PRAMUKA KENDARI\t",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.50.225"
+  },
+  {
+    "TOKO": "TBZH",
+    "NAMA": "PRAMUKA 38 KOLAKA",
+    "STATION": "01",
+    "IP": "10.54.50.226"
+  },
+  {
+    "TOKO": "TBZH",
+    "NAMA": "PRAMUKA 38 KOLAKA",
+    "STATION": "02",
+    "IP": "10.54.50.227"
+  },
+  {
+    "TOKO": "TBZH",
+    "NAMA": "PRAMUKA KENDARI\t",
+    "STATION": "STB",
+    "IP": "10.54.50.242"
+  },
+  {
+    "TOKO": "TBZH",
+    "NAMA": "PRAMUKA KENDARI\t",
+    "STATION": "RBWDCP",
+    "IP": "10.54.50.244"
+  },
+  {
+    "TOKO": "TBZH",
+    "NAMA": "PRAMUKA 38 KOLAKA",
+    "STATION": "DVR",
+    "IP": "10.54.50.251"
+  },
+  {
+    "TOKO": "TBZZ",
+    "NAMA": "BUDI UTOMO KENDARI",
+    "STATION": "01",
+    "IP": "10.54.66.34"
+  },
+  {
+    "TOKO": "TBZZ",
+    "NAMA": "BUDI UTOMO KENDARI",
+    "STATION": "02",
+    "IP": "10.54.66.35"
+  },
+  {
+    "TOKO": "TBZZ",
+    "NAMA": "BUDI UTOMO KENDARI",
+    "STATION": "03",
+    "IP": "10.54.66.36"
+  },
+  {
+    "TOKO": "TBZZ",
+    "NAMA": "BUDI UTOMO KENDARI",
+    "STATION": "04",
+    "IP": "10.54.66.37"
+  },
+  {
+    "TOKO": "TBZZ",
+    "NAMA": "BUDI UTOMO KENDARI",
+    "STATION": "TIMBANGAN",
+    "IP": "10.54.66.47"
+  },
+  {
+    "TOKO": "TBZZ",
+    "NAMA": "BUDI UTOMO KENDARI",
+    "STATION": "STB",
+    "IP": "10.54.66.50"
+  },
+  {
+    "TOKO": "TBZZ",
+    "NAMA": "BUDI UTOMO KENDARI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.66.52"
+  },
+  {
+    "TOKO": "TBZZ",
+    "NAMA": "BUDI UTOMO KENDARI",
+    "STATION": "I1",
+    "IP": "10.54.66.53"
+  },
+  {
+    "TOKO": "TBZZ",
+    "NAMA": "FRESH BUDI UTOMO KENDARI",
+    "STATION": "DVR",
+    "IP": "10.54.66.59"
+  },
+  {
+    "TOKO": "TBZZ",
+    "NAMA": "BUDI UTOMO KENDARI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.66.62"
+  },
+  {
+    "TOKO": "TC4B",
+    "NAMA": "KEUREA NO. 45 MOROWALI",
+    "STATION": "01",
+    "IP": "10.54.73.162"
+  },
+  {
+    "TOKO": "TC4B",
+    "NAMA": "KEUREA NO. 45 MOROWALI",
+    "STATION": "02",
+    "IP": "10.54.73.163"
+  },
+  {
+    "TOKO": "TC4B",
+    "NAMA": "KEUREA NO.45 MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.73.178"
+  },
+  {
+    "TOKO": "TC4B",
+    "NAMA": "KEUREA NO.45 MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.73.180"
+  },
+  {
+    "TOKO": "TC4B",
+    "NAMA": "KEUREA NO. 45 - MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.73.187"
+  },
+  {
+    "TOKO": "TC4B",
+    "NAMA": "KEUREA NO.45 MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.73.190"
+  },
+  {
+    "TOKO": "TC9Z",
+    "NAMA": "KEUREA NO 35 MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.74.114"
+  },
+  {
+    "TOKO": "TC9Z",
+    "NAMA": "KEUREA NO 35 MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.74.116"
+  },
+  {
+    "TOKO": "TC9Z",
+    "NAMA": "KEUREA NO. 35 - MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.74.123"
+  },
+  {
+    "TOKO": "TC9Z",
+    "NAMA": "KEUREA NO 35 MOROWALI",
+    "STATION": "ModemVsat",
+    "IP": "10.54.74.97"
+  },
+  {
+    "TOKO": "TC9Z",
+    "NAMA": "KEUREA NO. 35 - MOROWALI",
+    "STATION": "01",
+    "IP": "10.54.74.98"
+  },
+  {
+    "TOKO": "TC9Z",
+    "NAMA": "KEUREA NO. 35 - MOROWALI",
+    "STATION": "02",
+    "IP": "10.54.74.99"
+  },
+  {
+    "TOKO": "TCAV",
+    "NAMA": "LANTARI JAYA BOMBANA",
+    "STATION": "01",
+    "IP": "10.54.92.194"
+  },
+  {
+    "TOKO": "TCAV",
+    "NAMA": "LANTARI JAYA BOMBANA",
+    "STATION": "02",
+    "IP": "10.54.92.195"
+  },
+  {
+    "TOKO": "TCAV",
+    "NAMA": "LANTARI JAYA",
+    "STATION": "STB",
+    "IP": "10.54.92.210"
+  },
+  {
+    "TOKO": "TCAV",
+    "NAMA": "LANTARI JAYA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.92.212"
+  },
+  {
+    "TOKO": "TCAV",
+    "NAMA": "LANTARI JAYA",
+    "STATION": "DVR",
+    "IP": "10.54.92.219"
+  },
+  {
+    "TOKO": "TCAV",
+    "NAMA": "LANTARI JAYA",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.92.222"
+  },
+  {
+    "TOKO": "TCBE",
+    "NAMA": "JENDRAL SUDIRMAN TUOY",
+    "STATION": "ModemVsat",
+    "IP": "10.54.86.193"
+  },
+  {
+    "TOKO": "TCBE",
+    "NAMA": "JEND SUDIRMAN TUOY KONAWE",
+    "STATION": "01",
+    "IP": "10.54.86.194"
+  },
+  {
+    "TOKO": "TCBE",
+    "NAMA": "JEND SUDIRMAN TUOY KONAWE",
+    "STATION": "02",
+    "IP": "10.54.86.195"
+  },
+  {
+    "TOKO": "TCBE",
+    "NAMA": "JENDRAL SUDIRMAN TUOY",
+    "STATION": "STB",
+    "IP": "10.54.86.210"
+  },
+  {
+    "TOKO": "TCBE",
+    "NAMA": "JENDRAL SUDIRMAN TUOY",
+    "STATION": "RBWDCP",
+    "IP": "10.54.86.212"
+  },
+  {
+    "TOKO": "TCBE",
+    "NAMA": "JEND SUDIRMAN TUOY KONAWE",
+    "STATION": "DVR",
+    "IP": "10.54.86.219"
+  },
+  {
+    "TOKO": "TCER",
+    "NAMA": "RANOEYA KONAWE",
+    "STATION": "01",
+    "IP": "10.54.90.226"
+  },
+  {
+    "TOKO": "TCER",
+    "NAMA": "RANOEYA KONAWE",
+    "STATION": "02",
+    "IP": "10.54.90.227"
+  },
+  {
+    "TOKO": "TCER",
+    "NAMA": "RANOEYA",
+    "STATION": "STB",
+    "IP": "10.54.90.242"
+  },
+  {
+    "TOKO": "TCER",
+    "NAMA": "RANOEYA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.90.244"
+  },
+  {
+    "TOKO": "TCER",
+    "NAMA": "RANOEYA KONAWE",
+    "STATION": "DVR",
+    "IP": "10.54.90.251"
+  },
+  {
+    "TOKO": "TCER",
+    "NAMA": "RANOEYA",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.90.254"
+  },
+  {
+    "TOKO": "TCMY",
+    "NAMA": "IR SOEKARNO KONAWE",
+    "STATION": "01",
+    "IP": "10.54.111.66"
+  },
+  {
+    "TOKO": "TCMY",
+    "NAMA": "IR SOEKARNO KONAWE",
+    "STATION": "02",
+    "IP": "10.54.111.67"
+  },
+  {
+    "TOKO": "TCMY",
+    "NAMA": "IR SOEKARNO KONAWE",
+    "STATION": "STB",
+    "IP": "10.54.111.82"
+  },
+  {
+    "TOKO": "TCMY",
+    "NAMA": "IR SOEKARNO KONAWE",
+    "STATION": "RBWDCP",
+    "IP": "10.54.111.84"
+  },
+  {
+    "TOKO": "TCMY",
+    "NAMA": "IR SOEKARNO KONAWE",
+    "STATION": "DVR",
+    "IP": "10.54.111.91"
+  },
+  {
+    "TOKO": "TCMY",
+    "NAMA": "IR SOEKARNO KONAWE",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.111.94"
+  },
+  {
+    "TOKO": "TCNX",
+    "NAMA": "MOWEWE KOLAKA TIMUR",
+    "STATION": "01",
+    "IP": "10.54.124.66"
+  },
+  {
+    "TOKO": "TCNX",
+    "NAMA": "MOWEWE KOLAKA TIMUR",
+    "STATION": "02",
+    "IP": "10.54.124.67"
+  },
+  {
+    "TOKO": "TCNX",
+    "NAMA": "MOWEWE KOLAKA TIMUR",
+    "STATION": "STB",
+    "IP": "10.54.124.82"
+  },
+  {
+    "TOKO": "TCNX",
+    "NAMA": "MOWEWE KOLAKA TIMUR",
+    "STATION": "RBWDCP",
+    "IP": "10.54.124.84"
+  },
+  {
+    "TOKO": "TCNX",
+    "NAMA": "MOWEWE KOLAKA TIMUR",
+    "STATION": "DVR",
+    "IP": "10.54.124.91"
+  },
+  {
+    "TOKO": "TCNX",
+    "NAMA": "MOWEWE KOLAKA TIMUR",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.124.94"
+  },
+  {
+    "TOKO": "TCQN",
+    "NAMA": "DIM POROS BENUA",
+    "STATION": "ModemVsat",
+    "IP": "10.54.115.225"
+  },
+  {
+    "TOKO": "TCQN",
+    "NAMA": "POROS BENUA KONAWE SELATA",
+    "STATION": "01",
+    "IP": "10.54.115.226"
+  },
+  {
+    "TOKO": "TCQN",
+    "NAMA": "POROS BENUA KONAWE SELATA",
+    "STATION": "02",
+    "IP": "10.54.115.227"
+  },
+  {
+    "TOKO": "TCQN",
+    "NAMA": "DIM POROS BENUA",
+    "STATION": "STB",
+    "IP": "10.54.115.242"
+  },
+  {
+    "TOKO": "TCQN",
+    "NAMA": "DIM POROS BENUA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.115.244"
+  },
+  {
+    "TOKO": "TCQN",
+    "NAMA": "POROS BENUA KONAWE SELATAN",
+    "STATION": "DVR",
+    "IP": "10.54.115.251"
+  },
+  {
+    "TOKO": "TCWV",
+    "NAMA": "BAMBAEA",
+    "STATION": "ModemVsat",
+    "IP": "10.54.92.129"
+  },
+  {
+    "TOKO": "TCWV",
+    "NAMA": "BAMBAEA BOMBANA",
+    "STATION": "01",
+    "IP": "10.54.92.130"
+  },
+  {
+    "TOKO": "TCWV",
+    "NAMA": "BAMBAEA BOMBANA",
+    "STATION": "02",
+    "IP": "10.54.92.131"
+  },
+  {
+    "TOKO": "TCWV",
+    "NAMA": "BAMBAEA",
+    "STATION": "STB",
+    "IP": "10.54.92.146"
+  },
+  {
+    "TOKO": "TCWV",
+    "NAMA": "BAMBAEA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.92.148"
+  },
+  {
+    "TOKO": "TCWV",
+    "NAMA": "BAMBAEA BOMBANA",
+    "STATION": "DVR",
+    "IP": "10.54.92.155"
+  },
+  {
+    "TOKO": "TCYJ",
+    "NAMA": "KODEOHA KOLAKA UTARA\t",
+    "STATION": "STB",
+    "IP": "10.54.81.114"
+  },
+  {
+    "TOKO": "TCYJ",
+    "NAMA": "KODEOHA KOLAKA UTARA\t",
+    "STATION": "RBWDCP",
+    "IP": "10.54.81.116"
+  },
+  {
+    "TOKO": "TCYJ",
+    "NAMA": "KODEOHA KOLAKA UTARA",
+    "STATION": "DVR",
+    "IP": "10.54.81.123"
+  },
+  {
+    "TOKO": "TCYJ",
+    "NAMA": "KODEOHA KOLAKA UTARA\t",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.81.126"
+  },
+  {
+    "TOKO": "TCYJ",
+    "NAMA": "KODEOHA KOLAKA UTARA",
+    "STATION": "01",
+    "IP": "10.54.81.98"
+  },
+  {
+    "TOKO": "TCYJ",
+    "NAMA": "KODEOHA KOLAKA UTARA",
+    "STATION": "02",
+    "IP": "10.54.81.99"
+  },
+  {
+    "TOKO": "TCZM",
+    "NAMA": "MOKODOMPIT 56 KONAWE",
+    "STATION": "01",
+    "IP": "10.54.91.66"
+  },
+  {
+    "TOKO": "TCZM",
+    "NAMA": "MOKODOMPIT 56 KONAWE",
+    "STATION": "02",
+    "IP": "10.54.91.67"
+  },
+  {
+    "TOKO": "TCZM",
+    "NAMA": "MODOMPIT",
+    "STATION": "STB",
+    "IP": "10.54.91.82"
+  },
+  {
+    "TOKO": "TCZM",
+    "NAMA": "MODOMPIT",
+    "STATION": "RBWDCP",
+    "IP": "10.54.91.84"
+  },
+  {
+    "TOKO": "TCZM",
+    "NAMA": "MOKODOMPIT 56 KONAWE",
+    "STATION": "DVR",
+    "IP": "10.54.91.91"
+  },
+  {
+    "TOKO": "TCZM",
+    "NAMA": "MODOMPIT",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.91.94"
+  },
+  {
+    "TOKO": "TDOG",
+    "NAMA": "POROS MOROSI KONAWE",
+    "STATION": "01",
+    "IP": "10.54.90.194"
+  },
+  {
+    "TOKO": "TDOG",
+    "NAMA": "POROS MOROSI KONAWE",
+    "STATION": "02",
+    "IP": "10.54.90.195"
+  },
+  {
+    "TOKO": "TDOG",
+    "NAMA": "POROS MOROSI",
+    "STATION": "STB",
+    "IP": "10.54.90.210"
+  },
+  {
+    "TOKO": "TDOG",
+    "NAMA": "POROS MOROSI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.90.212"
+  },
+  {
+    "TOKO": "TDOG",
+    "NAMA": "POROS MOROSI KONAWE",
+    "STATION": "DVR",
+    "IP": "10.54.90.219"
+  },
+  {
+    "TOKO": "TDOG",
+    "NAMA": "POROS MOROSI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.90.222"
+  },
+  {
+    "TOKO": "TDOZ",
+    "NAMA": "BOEPINANG BOMBANA",
+    "STATION": "01",
+    "IP": "10.54.122.194"
+  },
+  {
+    "TOKO": "TDOZ",
+    "NAMA": "BOEPINANG BOMBANA",
+    "STATION": "02",
+    "IP": "10.54.122.195"
+  },
+  {
+    "TOKO": "TDOZ",
+    "NAMA": "BOEPINANG",
+    "STATION": "STB",
+    "IP": "10.54.122.210"
+  },
+  {
+    "TOKO": "TDOZ",
+    "NAMA": "BOEPINANG",
+    "STATION": "RBWDCP",
+    "IP": "10.54.122.212"
+  },
+  {
+    "TOKO": "TDOZ",
+    "NAMA": "BOEPINANG",
+    "STATION": "DVR",
+    "IP": "10.54.122.219"
+  },
+  {
+    "TOKO": "TDOZ",
+    "NAMA": "BOEPINANG",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.122.222"
+  },
+  {
+    "TOKO": "TDTL",
+    "NAMA": "BUNGGOUSU KONAWE",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.51.193"
+  },
+  {
+    "TOKO": "TDTL",
+    "NAMA": "BUNGGUOSU KONAWE/",
+    "STATION": "01",
+    "IP": "10.54.51.194"
+  },
+  {
+    "TOKO": "TDTL",
+    "NAMA": "BUNGGUOSU KONAWE/",
+    "STATION": "02",
+    "IP": "10.54.51.195"
+  },
+  {
+    "TOKO": "TDTL",
+    "NAMA": "BUNGGOUSU KONAWE",
+    "STATION": "STB",
+    "IP": "10.54.51.210"
+  },
+  {
+    "TOKO": "TDTL",
+    "NAMA": "BUNGGOUSU KONAWE",
+    "STATION": "RBWDCP",
+    "IP": "10.54.51.212"
+  },
+  {
+    "TOKO": "TDTL",
+    "NAMA": "BUNGGUOSU KONAWE",
+    "STATION": "DVR",
+    "IP": "10.54.51.219"
+  },
+  {
+    "TOKO": "TDUO",
+    "NAMA": "ABELISAWAH",
+    "STATION": "ModemVsat",
+    "IP": "10.54.112.33"
+  },
+  {
+    "TOKO": "TDUO",
+    "NAMA": "ABELISAWAH KONAWE",
+    "STATION": "01",
+    "IP": "10.54.112.34"
+  },
+  {
+    "TOKO": "TDUO",
+    "NAMA": "ABELISAWAH KONAWE",
+    "STATION": "02",
+    "IP": "10.54.112.35"
+  },
+  {
+    "TOKO": "TDUO",
+    "NAMA": "ABELISAWAH",
+    "STATION": "STB",
+    "IP": "10.54.112.50"
+  },
+  {
+    "TOKO": "TDUO",
+    "NAMA": "ABELISAWAH",
+    "STATION": "RBWDCP",
+    "IP": "10.54.112.52"
+  },
+  {
+    "TOKO": "TDUO",
+    "NAMA": "ABELISAWAH KONAWE",
+    "STATION": "DVR",
+    "IP": "10.54.112.59"
+  },
+  {
+    "TOKO": "TDWE",
+    "NAMA": "HALUOLEO KONAWE",
+    "STATION": "STB",
+    "IP": "10.54.107.114"
+  },
+  {
+    "TOKO": "TDWE",
+    "NAMA": "HALUOLEO KONAWE",
+    "STATION": "RBWDCP",
+    "IP": "10.54.107.116"
+  },
+  {
+    "TOKO": "TDWE",
+    "NAMA": "HALUOLEO KONAWE",
+    "STATION": "DVR",
+    "IP": "10.54.107.123"
+  },
+  {
+    "TOKO": "TDWE",
+    "NAMA": "HALUOLEO KONAWE",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.107.126"
+  },
+  {
+    "TOKO": "TDWE",
+    "NAMA": "HALUOLEO KONAWE",
+    "STATION": "01",
+    "IP": "10.54.107.98"
+  },
+  {
+    "TOKO": "TDWE",
+    "NAMA": "HALUOLEO KONAWE",
+    "STATION": "02",
+    "IP": "10.54.107.99"
+  },
+  {
+    "TOKO": "TECW",
+    "NAMA": "LALOWARU",
+    "STATION": "STB",
+    "IP": "10.54.125.18"
+  },
+  {
+    "TOKO": "TECW",
+    "NAMA": "LALOWARU KONAWE SELATAN",
+    "STATION": "01",
+    "IP": "10.54.125.2"
+  },
+  {
+    "TOKO": "TECW",
+    "NAMA": "LALOWARU",
+    "STATION": "RBWDCP",
+    "IP": "10.54.125.20"
+  },
+  {
+    "TOKO": "TECW",
+    "NAMA": "LALOWARU KONAWE SELATAN",
+    "STATION": "DVR",
+    "IP": "10.54.125.27"
+  },
+  {
+    "TOKO": "TECW",
+    "NAMA": "LALOWARU KONAWE SELATAN",
+    "STATION": "02",
+    "IP": "10.54.125.3"
+  },
+  {
+    "TOKO": "TECW",
+    "NAMA": "LALOWARU",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.125.30"
+  },
+  {
+    "TOKO": "TED7",
+    "NAMA": "BENTE MOROWALI",
+    "STATION": "01",
+    "IP": "10.54.118.66"
+  },
+  {
+    "TOKO": "TED7",
+    "NAMA": "BENTE MOROWALI",
+    "STATION": "02",
+    "IP": "10.54.118.67"
+  },
+  {
+    "TOKO": "TED7",
+    "NAMA": "BENTE MOROWALI",
+    "STATION": "03",
+    "IP": "10.54.118.68"
+  },
+  {
+    "TOKO": "TED7",
+    "NAMA": "BENTE MOROWALI",
+    "STATION": "04",
+    "IP": "10.54.118.69"
+  },
+  {
+    "TOKO": "TED7",
+    "NAMA": "BENTE - MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.118.82"
+  },
+  {
+    "TOKO": "TED7",
+    "NAMA": "BENTE - MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.118.84"
+  },
+  {
+    "TOKO": "TED7",
+    "NAMA": "BENTE - MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.118.91"
+  },
+  {
+    "TOKO": "TED7",
+    "NAMA": "BENTE - MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.118.94"
+  },
+  {
+    "TOKO": "TEJ6",
+    "NAMA": "BUMI RAYA - MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.68.18"
+  },
+  {
+    "TOKO": "TEJ6",
+    "NAMA": "BUMI RAYA MOROWALI",
+    "STATION": "01",
+    "IP": "10.54.68.2"
+  },
+  {
+    "TOKO": "TEJ6",
+    "NAMA": "BUMI RAYA - MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.68.20"
+  },
+  {
+    "TOKO": "TEJ6",
+    "NAMA": "BUMI RAYA - MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.68.27"
+  },
+  {
+    "TOKO": "TEJ6",
+    "NAMA": "BUMI RAYA MOROWALI",
+    "STATION": "02",
+    "IP": "10.54.68.3"
+  },
+  {
+    "TOKO": "TEJ6",
+    "NAMA": "BUMI RAYA - MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.68.30"
+  },
+  {
+    "TOKO": "TELW",
+    "NAMA": "MAYJEND SOETOYO KENDARI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.34.161"
+  },
+  {
+    "TOKO": "TELW",
+    "NAMA": "MAYJEND SOETOYO KENDARI",
+    "STATION": "01",
+    "IP": "10.54.34.162"
+  },
+  {
+    "TOKO": "TELW",
+    "NAMA": "MAYJEND SOETOYO KENDARI",
+    "STATION": "02",
+    "IP": "10.54.34.163"
+  },
+  {
+    "TOKO": "TELW",
+    "NAMA": "MAYJEND SOETOYO KENDARI",
+    "STATION": "03",
+    "IP": "10.54.34.164"
+  },
+  {
+    "TOKO": "TELW",
+    "NAMA": "MAYJEND SOETOYO KENDARI",
+    "STATION": "04",
+    "IP": "10.54.34.165"
+  },
+  {
+    "TOKO": "TELW",
+    "NAMA": "MAYJEND SOETOYO KENDARI",
+    "STATION": "STB",
+    "IP": "10.54.34.178"
+  },
+  {
+    "TOKO": "TELW",
+    "NAMA": "MAYJEND SOETOYO KENDARI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.34.180"
+  },
+  {
+    "TOKO": "TELW",
+    "NAMA": "MAYJEND SOETOYO KENDARI",
+    "STATION": "I1",
+    "IP": "10.54.34.181"
+  },
+  {
+    "TOKO": "TELW",
+    "NAMA": "MAYJEND SOETOYO KENDARI",
+    "STATION": "DVR",
+    "IP": "10.54.34.187"
+  },
+  {
+    "TOKO": "TEOR",
+    "NAMA": "RAROWATU",
+    "STATION": "ModemVsat",
+    "IP": "10.54.93.1"
+  },
+  {
+    "TOKO": "TEOR",
+    "NAMA": "RAROWATU",
+    "STATION": "STB",
+    "IP": "10.54.93.18"
+  },
+  {
+    "TOKO": "TEOR",
+    "NAMA": "RAROWATU BOMBANA",
+    "STATION": "01",
+    "IP": "10.54.93.2"
+  },
+  {
+    "TOKO": "TEOR",
+    "NAMA": "RAROWATU",
+    "STATION": "RBWDCP",
+    "IP": "10.54.93.20"
+  },
+  {
+    "TOKO": "TEOR",
+    "NAMA": "RAROWATU BOMBANA",
+    "STATION": "DVR",
+    "IP": "10.54.93.27"
+  },
+  {
+    "TOKO": "TEOR",
+    "NAMA": "RAROWATU BOMBANA",
+    "STATION": "02",
+    "IP": "10.54.93.3"
+  },
+  {
+    "TOKO": "TER1",
+    "NAMA": "TOFOGARO NO 36 MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.137.1"
+  },
+  {
+    "TOKO": "TER1",
+    "NAMA": "TOFOGARO NO 36 MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.137.18"
+  },
+  {
+    "TOKO": "TER1",
+    "NAMA": "TOFOGARO NO 36 MOROWALI",
+    "STATION": "01",
+    "IP": "10.54.137.2"
+  },
+  {
+    "TOKO": "TER1",
+    "NAMA": "TOFOGARO NO 36 MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.137.20"
+  },
+  {
+    "TOKO": "TER1",
+    "NAMA": "TOFOGARO NO 36 MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.137.27"
+  },
+  {
+    "TOKO": "TER1",
+    "NAMA": "TOFOGARO NO 36 MOROWALI",
+    "STATION": "02",
+    "IP": "10.54.137.3"
+  },
+  {
+    "TOKO": "TER1",
+    "NAMA": "TOPOGARO NO 36 MOROWAL",
+    "STATION": "03",
+    "IP": "10.54.137.4"
+  },
+  {
+    "TOKO": "TETZ",
+    "NAMA": "LANDONO",
+    "STATION": "ModemVsat",
+    "IP": "10.54.103.65"
+  },
+  {
+    "TOKO": "TETZ",
+    "NAMA": "LANDONO KONAWE SELATAN",
+    "STATION": "01",
+    "IP": "10.54.103.66"
+  },
+  {
+    "TOKO": "TETZ",
+    "NAMA": "LANDONO KONAWE SELATAN",
+    "STATION": "02",
+    "IP": "10.54.103.67"
+  },
+  {
+    "TOKO": "TETZ",
+    "NAMA": "LANDONO",
+    "STATION": "STB",
+    "IP": "10.54.103.82"
+  },
+  {
+    "TOKO": "TETZ",
+    "NAMA": "LANDONO",
+    "STATION": "RBWDCP",
+    "IP": "10.54.103.84"
+  },
+  {
+    "TOKO": "TETZ",
+    "NAMA": "LANDONO KONAWE SELATAN",
+    "STATION": "DVR",
+    "IP": "10.54.103.91"
+  },
+  {
+    "TOKO": "TEVW",
+    "NAMA": "MAYJEND KATAMSO KONAWE SE",
+    "STATION": "01",
+    "IP": "10.54.124.130"
+  },
+  {
+    "TOKO": "TEVW",
+    "NAMA": "MAYJEND KATAMSO KONAWE SE",
+    "STATION": "02",
+    "IP": "10.54.124.131"
+  },
+  {
+    "TOKO": "TEVW",
+    "NAMA": "MAYJEND KATAMSO",
+    "STATION": "STB",
+    "IP": "10.54.124.146"
+  },
+  {
+    "TOKO": "TEVW",
+    "NAMA": "MAYJEND KATAMSO",
+    "STATION": "RBWDCP",
+    "IP": "10.54.124.148"
+  },
+  {
+    "TOKO": "TEVW",
+    "NAMA": "MAYJEND KATAMSO",
+    "STATION": "DVR",
+    "IP": "10.54.124.155"
+  },
+  {
+    "TOKO": "TEVW",
+    "NAMA": "MAYJEND KATAMSO",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.124.158"
+  },
+  {
+    "TOKO": "TEWC",
+    "NAMA": "PUNGGALUKU KONAWE SELATAN",
+    "STATION": "STB",
+    "IP": "10.54.110.18"
+  },
+  {
+    "TOKO": "TEWC",
+    "NAMA": "PUNGGALUKU KONAWE SELATAN",
+    "STATION": "01",
+    "IP": "10.54.110.2"
+  },
+  {
+    "TOKO": "TEWC",
+    "NAMA": "PUNGGALUKU KONAWE SELATAN",
+    "STATION": "RBWDCP",
+    "IP": "10.54.110.20"
+  },
+  {
+    "TOKO": "TEWC",
+    "NAMA": "PUNGGALUKU",
+    "STATION": "DVR",
+    "IP": "10.54.110.27"
+  },
+  {
+    "TOKO": "TEWC",
+    "NAMA": "PUNGGALUKU KONAWE SELATAN",
+    "STATION": "02",
+    "IP": "10.54.110.3"
+  },
+  {
+    "TOKO": "TEWC",
+    "NAMA": "PUNGGALUKU KONAWE SELATAN",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.110.30"
+  },
+  {
+    "TOKO": "TEWC",
+    "NAMA": "PUNGGALUKU",
+    "STATION": "03",
+    "IP": "10.54.110.4"
+  },
+  {
+    "TOKO": "TEWN",
+    "NAMA": "POROS POMALA -KOLAKA",
+    "STATION": "STB",
+    "IP": "10.54.124.114"
+  },
+  {
+    "TOKO": "TEWN",
+    "NAMA": "POROS POMALA -KOLAKA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.124.116"
+  },
+  {
+    "TOKO": "TEWN",
+    "NAMA": "POROS POMALAA KOLAKA",
+    "STATION": "DVR",
+    "IP": "10.54.124.123"
+  },
+  {
+    "TOKO": "TEWN",
+    "NAMA": "POROS POMALA -KOLAKA",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.124.126"
+  },
+  {
+    "TOKO": "TEWN",
+    "NAMA": "POROS POMALAA KOLAKA",
+    "STATION": "01",
+    "IP": "10.54.124.98"
+  },
+  {
+    "TOKO": "TEWN",
+    "NAMA": "POROS POMALAA KOLAKA",
+    "STATION": "02",
+    "IP": "10.54.124.99"
+  },
+  {
+    "TOKO": "TEWV",
+    "NAMA": "RATERATE KOLAKA TIMUR",
+    "STATION": "01",
+    "IP": "10.54.122.162"
+  },
+  {
+    "TOKO": "TEWV",
+    "NAMA": "RATERATE KOLAKA TIMUR",
+    "STATION": "02",
+    "IP": "10.54.122.163"
+  },
+  {
+    "TOKO": "TEWV",
+    "NAMA": "RATERATE KOLAKA TIMUR",
+    "STATION": "04",
+    "IP": "10.54.122.165"
+  },
+  {
+    "TOKO": "TEWV",
+    "NAMA": "RATERATE KOLAKA TIMUR",
+    "STATION": "STB",
+    "IP": "10.54.122.178"
+  },
+  {
+    "TOKO": "TEWV",
+    "NAMA": "RATERATE KOLAKA TIMUR",
+    "STATION": "RBWDCP",
+    "IP": "10.54.122.180"
+  },
+  {
+    "TOKO": "TEWV",
+    "NAMA": "RATERATE KOLAKA TIMUR",
+    "STATION": "DVR",
+    "IP": "10.54.122.187"
+  },
+  {
+    "TOKO": "TEWV",
+    "NAMA": "RATERATE KOLAKA TIMUR",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.122.190"
+  },
+  {
+    "TOKO": "TEXP",
+    "NAMA": "LADONGI KOLAKA TIMUR",
+    "STATION": "01",
+    "IP": "10.54.123.34"
+  },
+  {
+    "TOKO": "TEXP",
+    "NAMA": "LADONGI KOLAKA TIMUR",
+    "STATION": "02",
+    "IP": "10.54.123.35"
+  },
+  {
+    "TOKO": "TEXP",
+    "NAMA": "LADONGI KOLAKA TIMUR",
+    "STATION": "STB",
+    "IP": "10.54.123.50"
+  },
+  {
+    "TOKO": "TEXP",
+    "NAMA": "LADONGI KOLAKA TIMUR",
+    "STATION": "RBWDCP",
+    "IP": "10.54.123.52"
+  },
+  {
+    "TOKO": "TEXP",
+    "NAMA": "LADONGI KOLAKA TIMUR",
+    "STATION": "DVR",
+    "IP": "10.54.123.59"
+  },
+  {
+    "TOKO": "TEXP",
+    "NAMA": "LADONGI KOLAKA TIMUR",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.123.62"
+  },
+  {
+    "TOKO": "TF3S",
+    "NAMA": "PELAMBUA KOLAKA",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.24.161"
+  },
+  {
+    "TOKO": "TF3S",
+    "NAMA": "PELAMBUA KOLAKA",
+    "STATION": "01",
+    "IP": "10.54.24.162"
+  },
+  {
+    "TOKO": "TF3S",
+    "NAMA": "PELAMBUA KOLAKA",
+    "STATION": "02",
+    "IP": "10.54.24.163"
+  },
+  {
+    "TOKO": "TF3S",
+    "NAMA": "PELAMBUA KOLAKA",
+    "STATION": "STB",
+    "IP": "10.54.24.178"
+  },
+  {
+    "TOKO": "TF3S",
+    "NAMA": "PELAMBUA KOLAKA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.24.180"
+  },
+  {
+    "TOKO": "TF3S",
+    "NAMA": "PELAMBUA KOLAKA",
+    "STATION": "DVR",
+    "IP": "10.54.24.187"
+  },
+  {
+    "TOKO": "TFAK",
+    "NAMA": "JENSUD BOMBANA",
+    "STATION": "STB",
+    "IP": "10.54.114.18"
+  },
+  {
+    "TOKO": "TFAK",
+    "NAMA": "JJEND. SUDIRMAN BOMBANA",
+    "STATION": "01",
+    "IP": "10.54.114.2"
+  },
+  {
+    "TOKO": "TFAK",
+    "NAMA": "JENSUD BOMBANA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.114.20"
+  },
+  {
+    "TOKO": "TFAK",
+    "NAMA": "JEND. SUDIRMAN BOMBANA",
+    "STATION": "DVR",
+    "IP": "10.54.114.27"
+  },
+  {
+    "TOKO": "TFAK",
+    "NAMA": "JJEND. SUDIRMAN BOMBANA",
+    "STATION": "02",
+    "IP": "10.54.114.3"
+  },
+  {
+    "TOKO": "TFAK",
+    "NAMA": "JENSUD BOMBANA",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.114.30"
+  },
+  {
+    "TOKO": "TFI9",
+    "NAMA": "TIWORO SELATAN - MUNA BARAT",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.134.225"
+  },
+  {
+    "TOKO": "TFI9",
+    "NAMA": "TIWORO SELATAN - MUNA",
+    "STATION": "01",
+    "IP": "10.54.134.226"
+  },
+  {
+    "TOKO": "TFI9",
+    "NAMA": "TIWORO SELATAN - MUNA",
+    "STATION": "02",
+    "IP": "10.54.134.227"
+  },
+  {
+    "TOKO": "TFI9",
+    "NAMA": "TIWORO SELATAN - MUNA BARAT",
+    "STATION": "STB",
+    "IP": "10.54.134.242"
+  },
+  {
+    "TOKO": "TFI9",
+    "NAMA": "TIWORO SELATAN - MUNA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.134.244"
+  },
+  {
+    "TOKO": "TFI9",
+    "NAMA": "TIWORO SELATAN - MUNA",
+    "STATION": "DVR",
+    "IP": "10.54.134.251"
+  },
+  {
+    "TOKO": "TFIM",
+    "NAMA": "WONGGEDUKU KONAWE",
+    "STATION": "01",
+    "IP": "10.54.105.226"
+  },
+  {
+    "TOKO": "TFIM",
+    "NAMA": "WONGGEDUKU KONAWE",
+    "STATION": "02",
+    "IP": "10.54.105.227"
+  },
+  {
+    "TOKO": "TFIM",
+    "NAMA": "WONGGEDUKU KONAWE",
+    "STATION": "STB",
+    "IP": "10.54.105.242"
+  },
+  {
+    "TOKO": "TFIM",
+    "NAMA": "WONGGEDUKU KONAWE",
+    "STATION": "RBWDCP",
+    "IP": "10.54.105.244"
+  },
+  {
+    "TOKO": "TFIM",
+    "NAMA": "WONGGEDUKU KONAWE",
+    "STATION": "DVR",
+    "IP": "10.54.105.251"
+  },
+  {
+    "TOKO": "TFIM",
+    "NAMA": "WONGGEDUKU KONAWE",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.105.254"
+  },
+  {
+    "TOKO": "TFOF",
+    "NAMA": "DOULE BOMBANA",
+    "STATION": "01",
+    "IP": "10.54.93.34"
+  },
+  {
+    "TOKO": "TFOF",
+    "NAMA": "DOULE BOMBANA",
+    "STATION": "02",
+    "IP": "10.54.93.35"
+  },
+  {
+    "TOKO": "TFOF",
+    "NAMA": "DOULE BOMBANA",
+    "STATION": "03",
+    "IP": "10.54.93.36"
+  },
+  {
+    "TOKO": "TFOF",
+    "NAMA": "DOULE",
+    "STATION": "STB",
+    "IP": "10.54.93.50"
+  },
+  {
+    "TOKO": "TFOF",
+    "NAMA": "DOULE",
+    "STATION": "RBWDCP",
+    "IP": "10.54.93.52"
+  },
+  {
+    "TOKO": "TFOF",
+    "NAMA": "DOULE",
+    "STATION": "DVR",
+    "IP": "10.54.93.59"
+  },
+  {
+    "TOKO": "TFOF",
+    "NAMA": "DOULE",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.93.62"
+  },
+  {
+    "TOKO": "TFS5",
+    "NAMA": "TAWAINALU KOLAKA TIMUR",
+    "STATION": "STB",
+    "IP": "10.54.64.114"
+  },
+  {
+    "TOKO": "TFS5",
+    "NAMA": "TAWAINALU KOLAKA TIMUR",
+    "STATION": "RBWDCP",
+    "IP": "10.54.64.116"
+  },
+  {
+    "TOKO": "TFS5",
+    "NAMA": "TAWAINALU - KOLAKA TIMUR",
+    "STATION": "DVR",
+    "IP": "10.54.64.123"
+  },
+  {
+    "TOKO": "TFS5",
+    "NAMA": "TAWAINALU KOLAKA TIMUR",
+    "STATION": "ModemVsat",
+    "IP": "10.54.64.97"
+  },
+  {
+    "TOKO": "TFS5",
+    "NAMA": "TAWAINALU - KOLAKA TIMUR/",
+    "STATION": "01",
+    "IP": "10.54.64.98"
+  },
+  {
+    "TOKO": "TFS5",
+    "NAMA": "TAWAINALU - KOLAKA TIMUR/",
+    "STATION": "02",
+    "IP": "10.54.64.99"
+  },
+  {
+    "TOKO": "TFYC",
+    "NAMA": "TOKO EVENT KENDARI",
+    "STATION": "01",
+    "IP": "10.54.254.86"
+  },
+  {
+    "TOKO": "TGPK",
+    "NAMA": "POROS LAPOA",
+    "STATION": "STB",
+    "IP": "10.54.99.18"
+  },
+  {
+    "TOKO": "TGPK",
+    "NAMA": "POROS LAPOA",
+    "STATION": "01",
+    "IP": "10.54.99.2"
+  },
+  {
+    "TOKO": "TGPK",
+    "NAMA": "POROS LAPOA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.99.20"
+  },
+  {
+    "TOKO": "TGPK",
+    "NAMA": "POROS LAPOA KONAWE SELATAN",
+    "STATION": "DVR",
+    "IP": "10.54.99.27"
+  },
+  {
+    "TOKO": "TGPK",
+    "NAMA": "POROS LAPOA",
+    "STATION": "02",
+    "IP": "10.54.99.3"
+  },
+  {
+    "TOKO": "TGPK",
+    "NAMA": "POROS LAPOA",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.99.30"
+  },
+  {
+    "TOKO": "TGQQ",
+    "NAMA": "JEND SUDIRMAN NO 14 BUTON",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.141.33"
+  },
+  {
+    "TOKO": "TGQQ",
+    "NAMA": "JEND SUDIRMAN NO 14 B",
+    "STATION": "01",
+    "IP": "10.54.141.34"
+  },
+  {
+    "TOKO": "TGQQ",
+    "NAMA": "JEND SUDIRMAN NO 14 B",
+    "STATION": "02",
+    "IP": "10.54.141.35"
+  },
+  {
+    "TOKO": "TGQQ",
+    "NAMA": "JEND SUDIRMAN NO 14 BUTON",
+    "STATION": "STB",
+    "IP": "10.54.141.50"
+  },
+  {
+    "TOKO": "TGQQ",
+    "NAMA": "JEND SUDIRMAN NO 14 BUTON",
+    "STATION": "RBWDCP",
+    "IP": "10.54.141.52"
+  },
+  {
+    "TOKO": "TGQQ",
+    "NAMA": "JEND SUDIRMAN NO 14 B",
+    "STATION": "DVR",
+    "IP": "10.54.141.59"
+  },
+  {
+    "TOKO": "THDD",
+    "NAMA": "WAEMPUTANG BOMBANA",
+    "STATION": "ModemVsat",
+    "IP": "10.54.98.161"
+  },
+  {
+    "TOKO": "THDD",
+    "NAMA": "WAEMPUTANG BOMBANA",
+    "STATION": "01",
+    "IP": "10.54.98.162"
+  },
+  {
+    "TOKO": "THDD",
+    "NAMA": "WAEMPUTANG BOMBANA",
+    "STATION": "02",
+    "IP": "10.54.98.163"
+  },
+  {
+    "TOKO": "THDD",
+    "NAMA": "WAEMPUTANG BOMBANA",
+    "STATION": "STB",
+    "IP": "10.54.98.178"
+  },
+  {
+    "TOKO": "THDD",
+    "NAMA": "WAEMPUTANG BOMBANA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.98.180"
+  },
+  {
+    "TOKO": "THDD",
+    "NAMA": "WAEMPUTANG BOMBANA",
+    "STATION": "DVR",
+    "IP": "10.54.98.187"
+  },
+  {
+    "TOKO": "THU0",
+    "NAMA": "LASEHAO KABAWO - MUNA",
+    "STATION": "ModemVsat",
+    "IP": "10.54.76.193"
+  },
+  {
+    "TOKO": "THU0",
+    "NAMA": "LASEHAO KABAWO - MUNA",
+    "STATION": "01",
+    "IP": "10.54.76.194"
+  },
+  {
+    "TOKO": "THU0",
+    "NAMA": "LASEHAO KABAWO - MUNA",
+    "STATION": "02",
+    "IP": "10.54.76.195"
+  },
+  {
+    "TOKO": "THU0",
+    "NAMA": "LASEHAO KABAWO - MUNA",
+    "STATION": "03",
+    "IP": "10.54.76.196"
+  },
+  {
+    "TOKO": "THU0",
+    "NAMA": "LASEHAO KABAWO - MUNA",
+    "STATION": "STB",
+    "IP": "10.54.76.210"
+  },
+  {
+    "TOKO": "THU0",
+    "NAMA": "LASEHAO KABAWO - MUNA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.76.212"
+  },
+  {
+    "TOKO": "THU0",
+    "NAMA": "LASEHAO KABAWO - MUNA",
+    "STATION": "DVR",
+    "IP": "10.54.76.219"
+  },
+  {
+    "TOKO": "THYQ",
+    "NAMA": "KAPONTORI BUTON",
+    "STATION": "ModemVsat",
+    "IP": "10.54.77.1"
+  },
+  {
+    "TOKO": "THYQ",
+    "NAMA": "KAPONTORI BUTON",
+    "STATION": "STB",
+    "IP": "10.54.77.18"
+  },
+  {
+    "TOKO": "THYQ",
+    "NAMA": "KAPONTORI BUTON",
+    "STATION": "01",
+    "IP": "10.54.77.2"
+  },
+  {
+    "TOKO": "THYQ",
+    "NAMA": "KAPONTORI BUTON",
+    "STATION": "RBWDCP",
+    "IP": "10.54.77.20"
+  },
+  {
+    "TOKO": "THYQ",
+    "NAMA": "KAPONTORI BUTON",
+    "STATION": "DVR",
+    "IP": "10.54.77.27"
+  },
+  {
+    "TOKO": "THYQ",
+    "NAMA": "KAPONTORI BUTON",
+    "STATION": "02",
+    "IP": "10.54.77.3"
+  },
+  {
+    "TOKO": "THYX",
+    "NAMA": "BAHOMOTEFE - MOROWALI/",
+    "STATION": "01",
+    "IP": "10.54.92.162"
+  },
+  {
+    "TOKO": "THYX",
+    "NAMA": "BAHOMOTEFE - MOROWALI/",
+    "STATION": "02",
+    "IP": "10.54.92.163"
+  },
+  {
+    "TOKO": "THYX",
+    "NAMA": "BAHOMOTEFE MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.92.178"
+  },
+  {
+    "TOKO": "THYX",
+    "NAMA": "BAHOMOTEFE MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.92.180"
+  },
+  {
+    "TOKO": "THYX",
+    "NAMA": "BAHOMOTEFE - MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.92.187"
+  },
+  {
+    "TOKO": "THYX",
+    "NAMA": "BAHOMOTEFE MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.92.190"
+  },
+  {
+    "TOKO": "TI7U",
+    "NAMA": "BAHODOPI NO 10 MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.137.114"
+  },
+  {
+    "TOKO": "TI7U",
+    "NAMA": "BAHODOPI NO 10 MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.137.116"
+  },
+  {
+    "TOKO": "TI7U",
+    "NAMA": "BAHODOPI NO 10 MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.137.123"
+  },
+  {
+    "TOKO": "TI7U",
+    "NAMA": "BAHODOPI NO 10 MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.137.97"
+  },
+  {
+    "TOKO": "TI7U",
+    "NAMA": "BAHODOPI NO 10 MOROWALI",
+    "STATION": "01",
+    "IP": "10.54.137.98"
+  },
+  {
+    "TOKO": "TI7U",
+    "NAMA": "BAHODOPI NO 10 MOROWALI",
+    "STATION": "02",
+    "IP": "10.54.137.99"
+  },
+  {
+    "TOKO": "TIJQ",
+    "NAMA": "WATOPUTE NO 33 MUNA",
+    "STATION": "MODEMVSAT",
+    "IP": "10.54.105.129"
+  },
+  {
+    "TOKO": "TIJQ",
+    "NAMA": "WATOPUTE NO 33 MUNA",
+    "STATION": "01",
+    "IP": "10.54.105.130"
+  },
+  {
+    "TOKO": "TIJQ",
+    "NAMA": "WATOPUTE NO 33 MUNA",
+    "STATION": "02",
+    "IP": "10.54.105.131"
+  },
+  {
+    "TOKO": "TIJQ",
+    "NAMA": "WATOPUTE NO 33 MUNA",
+    "STATION": "STB",
+    "IP": "10.54.105.146"
+  },
+  {
+    "TOKO": "TIJQ",
+    "NAMA": "WATOPUTE NO 33 MUNA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.105.148"
+  },
+  {
+    "TOKO": "TIJQ",
+    "NAMA": "WATOPUTE NO 33 MUNA",
+    "STATION": "DVR",
+    "IP": "10.54.105.155"
+  },
+  {
+    "TOKO": "TIK5",
+    "NAMA": "LABOTA NO 60 MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.134.161"
+  },
+  {
+    "TOKO": "TIK5",
+    "NAMA": "LABOTA NO 60 MOROWALI",
+    "STATION": "01",
+    "IP": "10.54.134.162"
+  },
+  {
+    "TOKO": "TIK5",
+    "NAMA": "LABOTA NO 60 MOROWALI",
+    "STATION": "02",
+    "IP": "10.54.134.163"
+  },
+  {
+    "TOKO": "TIK5",
+    "NAMA": "LABOTA NO 60 MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.134.178"
+  },
+  {
+    "TOKO": "TIK5",
+    "NAMA": "LABOTA NO 60 MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.134.180"
+  },
+  {
+    "TOKO": "TIK5",
+    "NAMA": "LABOTA NO 60 MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.134.187"
+  },
+  {
+    "TOKO": "TIMJ",
+    "NAMA": "KEURE NO 97 MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.140.33"
+  },
+  {
+    "TOKO": "TIMJ",
+    "NAMA": "KEURE NO 97 MOROWALI",
+    "STATION": "01",
+    "IP": "10.54.140.34"
+  },
+  {
+    "TOKO": "TIMJ",
+    "NAMA": "KEURE NO 97 MOROWALI",
+    "STATION": "02",
+    "IP": "10.54.140.35"
+  },
+  {
+    "TOKO": "TIMJ",
+    "NAMA": "KEURE NO 97 MOROWALI",
+    "STATION": "03",
+    "IP": "10.54.140.36"
+  },
+  {
+    "TOKO": "TIMJ",
+    "NAMA": "KEURE NO 97 MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.140.50"
+  },
+  {
+    "TOKO": "TIMJ",
+    "NAMA": "KEURE NO 97 MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.140.52"
+  },
+  {
+    "TOKO": "TIMJ",
+    "NAMA": "KEURE NO 97 MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.140.59"
+  },
+  {
+    "TOKO": "TIRV",
+    "NAMA": "MOWILA KONAWE SELATAN",
+    "STATION": "ModemVsat",
+    "IP": "10.54.118.129"
+  },
+  {
+    "TOKO": "TIRV",
+    "NAMA": "MOWILA KONAWE SELATAN",
+    "STATION": "01",
+    "IP": "10.54.118.130"
+  },
+  {
+    "TOKO": "TIRV",
+    "NAMA": "MOWILA KONAWE SELATAN",
+    "STATION": "02",
+    "IP": "10.54.118.131"
+  },
+  {
+    "TOKO": "TIRV",
+    "NAMA": "MOWILA KONAWE SELATAN",
+    "STATION": "STB",
+    "IP": "10.54.118.146"
+  },
+  {
+    "TOKO": "TIRV",
+    "NAMA": "MOWILA KONAWE SELATAN",
+    "STATION": "RBWDCP",
+    "IP": "10.54.118.148"
+  },
+  {
+    "TOKO": "TIRV",
+    "NAMA": "MOWILA KONAWE SELATAN",
+    "STATION": "DVR",
+    "IP": "10.54.118.155"
+  },
+  {
+    "TOKO": "TITW",
+    "NAMA": "LAMERORO BOMBANA",
+    "STATION": "01",
+    "IP": "10.54.113.226"
+  },
+  {
+    "TOKO": "TITW",
+    "NAMA": "LAMERORO BOMBANA",
+    "STATION": "02",
+    "IP": "10.54.113.227"
+  },
+  {
+    "TOKO": "TITW",
+    "NAMA": "LAMERORO BOMBANA",
+    "STATION": "03",
+    "IP": "10.54.113.228"
+  },
+  {
+    "TOKO": "TITW",
+    "NAMA": "LAMERORO BOMBANA",
+    "STATION": "STB",
+    "IP": "10.54.113.242"
+  },
+  {
+    "TOKO": "TITW",
+    "NAMA": "LAMERORO BOMBANA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.113.244"
+  },
+  {
+    "TOKO": "TITW",
+    "NAMA": "LAMERORO",
+    "STATION": "DVR",
+    "IP": "10.54.113.251"
+  },
+  {
+    "TOKO": "TITW",
+    "NAMA": "LAMERORO BOMBANA",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.113.254"
+  },
+  {
+    "TOKO": "TIVG",
+    "NAMA": "POROS LABOTA MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.57.225"
+  },
+  {
+    "TOKO": "TIVG",
+    "NAMA": "POROS LABOTA",
+    "STATION": "01",
+    "IP": "10.54.57.226"
+  },
+  {
+    "TOKO": "TIVG",
+    "NAMA": "POROS LABOTA",
+    "STATION": "02",
+    "IP": "10.54.57.227"
+  },
+  {
+    "TOKO": "TIVG",
+    "NAMA": "POROS LABOTA MOROWALI",
+    "STATION": "03",
+    "IP": "10.54.57.228"
+  },
+  {
+    "TOKO": "TIVG",
+    "NAMA": "POROS LABOTA MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.57.242"
+  },
+  {
+    "TOKO": "TIVG",
+    "NAMA": "POROS LABOTA MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.57.244"
+  },
+  {
+    "TOKO": "TIVG",
+    "NAMA": "POROS LABOTA - MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.57.251"
+  },
+  {
+    "TOKO": "TJ2Y",
+    "NAMA": "LASALIMU AMBUAU - BUTON",
+    "STATION": "ModemVsat",
+    "IP": "10.54.101.65"
+  },
+  {
+    "TOKO": "TJ2Y",
+    "NAMA": "LASALIMU AMBUAU BUTON",
+    "STATION": "01",
+    "IP": "10.54.101.66"
+  },
+  {
+    "TOKO": "TJ2Y",
+    "NAMA": "LASALIMU AMBUAU BUTON",
+    "STATION": "02",
+    "IP": "10.54.101.67"
+  },
+  {
+    "TOKO": "TJ2Y",
+    "NAMA": "LASALIMU AMBUAU - BUTON",
+    "STATION": "STB",
+    "IP": "10.54.101.82"
+  },
+  {
+    "TOKO": "TJ2Y",
+    "NAMA": "LASALIMU AMBUAU - BUTON",
+    "STATION": "RBWDCP",
+    "IP": "10.54.101.84"
+  },
+  {
+    "TOKO": "TJ2Y",
+    "NAMA": "LASALIMU AMBUAU BUTO",
+    "STATION": "DVR",
+    "IP": "10.54.101.91"
+  },
+  {
+    "TOKO": "TJBQ",
+    "NAMA": "BUKE KONSEL",
+    "STATION": "STB",
+    "IP": "10.54.98.114"
+  },
+  {
+    "TOKO": "TJBQ",
+    "NAMA": "BUKE KONSEL",
+    "STATION": "RBWDCP",
+    "IP": "10.54.98.116"
+  },
+  {
+    "TOKO": "TJBQ",
+    "NAMA": "BUKE KONAWE SELATAN",
+    "STATION": "DVR",
+    "IP": "10.54.98.123"
+  },
+  {
+    "TOKO": "TJBQ",
+    "NAMA": "BUKE KONSEL",
+    "STATION": "ModemVsat",
+    "IP": "10.54.98.97"
+  },
+  {
+    "TOKO": "TJBQ",
+    "NAMA": "BUKE KONAWE SELATAN",
+    "STATION": "01",
+    "IP": "10.54.98.98"
+  },
+  {
+    "TOKO": "TJBQ",
+    "NAMA": "BUKE KONAWE SELATAN",
+    "STATION": "02",
+    "IP": "10.54.98.99"
+  },
+  {
+    "TOKO": "TJBV",
+    "NAMA": "SAPATI KONAWE",
+    "STATION": "01",
+    "IP": "10.54.118.226"
+  },
+  {
+    "TOKO": "TJBV",
+    "NAMA": "SAPATI KONAWE",
+    "STATION": "02",
+    "IP": "10.54.118.227"
+  },
+  {
+    "TOKO": "TJBV",
+    "NAMA": "SAPATI KONAWE",
+    "STATION": "03",
+    "IP": "10.54.118.228"
+  },
+  {
+    "TOKO": "TJBV",
+    "NAMA": "SAPATI KONAWE",
+    "STATION": "STB",
+    "IP": "10.54.118.242"
+  },
+  {
+    "TOKO": "TJBV",
+    "NAMA": "SAPATI KONAWE",
+    "STATION": "RBWDCP",
+    "IP": "10.54.118.244"
+  },
+  {
+    "TOKO": "TJBV",
+    "NAMA": "SAPATI KONAWE",
+    "STATION": "I1",
+    "IP": "10.54.118.245"
+  },
+  {
+    "TOKO": "TJBV",
+    "NAMA": "SAPATI KONAWE",
+    "STATION": "DVR",
+    "IP": "10.54.118.251"
+  },
+  {
+    "TOKO": "TJBV",
+    "NAMA": "SAPATI KONAWE",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.118.254"
+  },
+  {
+    "TOKO": "TJER",
+    "NAMA": "MOOLO INDAH",
+    "STATION": "ModemVsat",
+    "IP": "10.54.112.225"
+  },
+  {
+    "TOKO": "TJER",
+    "NAMA": "MOOLO INDAH KONAWE SELATA",
+    "STATION": "01",
+    "IP": "10.54.112.226"
+  },
+  {
+    "TOKO": "TJER",
+    "NAMA": "MOOLO INDAH KONAWE SELATA",
+    "STATION": "02",
+    "IP": "10.54.112.227"
+  },
+  {
+    "TOKO": "TJER",
+    "NAMA": "MOOLO INDAH",
+    "STATION": "STB",
+    "IP": "10.54.112.242"
+  },
+  {
+    "TOKO": "TJER",
+    "NAMA": "MOOLO INDAH",
+    "STATION": "RBWDCP",
+    "IP": "10.54.112.244"
+  },
+  {
+    "TOKO": "TJER",
+    "NAMA": "MOOLO INDAH KONAWE SELATAN",
+    "STATION": "DVR",
+    "IP": "10.54.112.251"
+  },
+  {
+    "TOKO": "TJIR",
+    "NAMA": "TOFOGARO NO. 21 - MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.74.161"
+  },
+  {
+    "TOKO": "TJIR",
+    "NAMA": "TOFOGARO NO.21 MOROWALI",
+    "STATION": "01",
+    "IP": "10.54.74.162"
+  },
+  {
+    "TOKO": "TJIR",
+    "NAMA": "TOFOGARO NO.21 MOROWALI",
+    "STATION": "02",
+    "IP": "10.54.74.163"
+  },
+  {
+    "TOKO": "TJIR",
+    "NAMA": "TOFOGARO NO. 21 - MO",
+    "STATION": "03",
+    "IP": "10.54.74.164"
+  },
+  {
+    "TOKO": "TJIR",
+    "NAMA": "TOFOGARO NO. 21 - MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.74.178"
+  },
+  {
+    "TOKO": "TJIR",
+    "NAMA": "TOFOGARO NO. 21 - MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.74.180"
+  },
+  {
+    "TOKO": "TJIR",
+    "NAMA": "TOFOGARO NO. 21 - MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.74.187"
+  },
+  {
+    "TOKO": "TJNE",
+    "NAMA": "RAKADUA BOMBANA",
+    "STATION": "ModemVsat",
+    "IP": "10.54.98.1"
+  },
+  {
+    "TOKO": "TJNE",
+    "NAMA": "RAKADUA BOMBANA",
+    "STATION": "STB",
+    "IP": "10.54.98.18"
+  },
+  {
+    "TOKO": "TJNE",
+    "NAMA": "RAKADUA BOMBANA",
+    "STATION": "01",
+    "IP": "10.54.98.2"
+  },
+  {
+    "TOKO": "TJNE",
+    "NAMA": "RAKADUA BOMBANA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.98.20"
+  },
+  {
+    "TOKO": "TJNE",
+    "NAMA": "RAKADUA BOMBANA",
+    "STATION": "DVR",
+    "IP": "10.54.98.27"
+  },
+  {
+    "TOKO": "TJNE",
+    "NAMA": "RAKADUA BOMBANA",
+    "STATION": "02",
+    "IP": "10.54.98.3"
+  },
+  {
+    "TOKO": "TJPG",
+    "NAMA": "RANOMEETO KONAWE SELATAN",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.188.193"
+  },
+  {
+    "TOKO": "TJPG",
+    "NAMA": "RANOMEETO KONAWE SELATAN",
+    "STATION": "01",
+    "IP": "10.54.188.194"
+  },
+  {
+    "TOKO": "TJPG",
+    "NAMA": "RANOMEETO KONAWE SELATAN",
+    "STATION": "02",
+    "IP": "10.54.188.195"
+  },
+  {
+    "TOKO": "TJPG",
+    "NAMA": "RANOMEETO KONAWE SELATAN",
+    "STATION": "03",
+    "IP": "10.54.188.196"
+  },
+  {
+    "TOKO": "TJPG",
+    "NAMA": "RANOMEETO KONAWE SELATA",
+    "STATION": "04",
+    "IP": "10.54.188.197"
+  },
+  {
+    "TOKO": "TJPG",
+    "NAMA": "RANOMEETO KONAWE SELATAN",
+    "STATION": "MESINKOPI",
+    "IP": "10.54.188.203"
+  },
+  {
+    "TOKO": "TJPG",
+    "NAMA": "RANOMEETO KONAWE SELATAN",
+    "STATION": "STB",
+    "IP": "10.54.188.210"
+  },
+  {
+    "TOKO": "TJPG",
+    "NAMA": "RANOMEETO KONAWE SELATAN",
+    "STATION": "RBWDCP",
+    "IP": "10.54.188.212"
+  },
+  {
+    "TOKO": "TJPG",
+    "NAMA": "RANOMEETO KONAWE SELATAN",
+    "STATION": "DVR",
+    "IP": "10.54.188.219"
+  },
+  {
+    "TOKO": "TKAL",
+    "NAMA": "JENDRAL SUDIRMAN UNAAHA",
+    "STATION": "ModemVsat",
+    "IP": "10.54.107.193"
+  },
+  {
+    "TOKO": "TKAL",
+    "NAMA": "JEND. SUDIRMAN UNAAHA KON",
+    "STATION": "01",
+    "IP": "10.54.107.194"
+  },
+  {
+    "TOKO": "TKAL",
+    "NAMA": "JEND. SUDIRMAN UNAAHA KON",
+    "STATION": "02",
+    "IP": "10.54.107.195"
+  },
+  {
+    "TOKO": "TKAL",
+    "NAMA": "JEND. SUDIRMAN UNAAHA",
+    "STATION": "03",
+    "IP": "10.54.107.196"
+  },
+  {
+    "TOKO": "TKAL",
+    "NAMA": "JENDRAL SUDIRMAN UNA",
+    "STATION": "04",
+    "IP": "10.54.107.197"
+  },
+  {
+    "TOKO": "TKAL",
+    "NAMA": "JENDRAL SUDIRMAN UNAAHA",
+    "STATION": "STB",
+    "IP": "10.54.107.210"
+  },
+  {
+    "TOKO": "TKAL",
+    "NAMA": "JENDRAL SUDIRMAN UNAAHA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.107.212"
+  },
+  {
+    "TOKO": "TKAL",
+    "NAMA": "JEND. SUDIRMAN UNAAHA KONAWE",
+    "STATION": "DVR",
+    "IP": "10.54.107.219"
+  },
+  {
+    "TOKO": "TKG7",
+    "NAMA": "POASIA KENDARI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.135.33"
+  },
+  {
+    "TOKO": "TKG7",
+    "NAMA": "POASIA KENDARI",
+    "STATION": "01",
+    "IP": "10.54.135.34"
+  },
+  {
+    "TOKO": "TKG7",
+    "NAMA": "POASIA KENDARI",
+    "STATION": "02",
+    "IP": "10.54.135.35"
+  },
+  {
+    "TOKO": "TKG7",
+    "NAMA": "POASIA KENDARI",
+    "STATION": "03",
+    "IP": "10.54.135.36"
+  },
+  {
+    "TOKO": "TKG7",
+    "NAMA": "POASIA KENDARI",
+    "STATION": "STB",
+    "IP": "10.54.135.50"
+  },
+  {
+    "TOKO": "TKG7",
+    "NAMA": "POASIA KENDARI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.135.52"
+  },
+  {
+    "TOKO": "TKG7",
+    "NAMA": "POASIA KENDARI",
+    "STATION": "DVR",
+    "IP": "10.54.135.59"
+  },
+  {
+    "TOKO": "TKNL",
+    "NAMA": "AHMAD YANI WAWOTOBI KONAW",
+    "STATION": "01",
+    "IP": "10.54.110.226"
+  },
+  {
+    "TOKO": "TKNL",
+    "NAMA": "AHMAD YANI WAWOTOBI KONAW",
+    "STATION": "02",
+    "IP": "10.54.110.227"
+  },
+  {
+    "TOKO": "TKNL",
+    "NAMA": "AHMAD YANI WAWOTOBI KONAW",
+    "STATION": "03",
+    "IP": "10.54.110.228"
+  },
+  {
+    "TOKO": "TKNL",
+    "NAMA": "AHMAD YANI WAWOTOBI",
+    "STATION": "STB",
+    "IP": "10.54.110.242"
+  },
+  {
+    "TOKO": "TKNL",
+    "NAMA": "AHMAD YANI WAWOTOBI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.110.244"
+  },
+  {
+    "TOKO": "TKNL",
+    "NAMA": "AHMAD YANI",
+    "STATION": "DVR",
+    "IP": "10.54.110.251"
+  },
+  {
+    "TOKO": "TKNL",
+    "NAMA": "AHMAD YANI WAWOTOBI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.110.254"
+  },
+  {
+    "TOKO": "TKNY",
+    "NAMA": "BAHODOPI NO. 39 MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.48.193"
+  },
+  {
+    "TOKO": "TKNY",
+    "NAMA": "BAHODOPI NO 39 MOROWALI",
+    "STATION": "01",
+    "IP": "10.54.48.194"
+  },
+  {
+    "TOKO": "TKNY",
+    "NAMA": "BAHODOPI NO 39 MOROWALI",
+    "STATION": "02",
+    "IP": "10.54.48.195"
+  },
+  {
+    "TOKO": "TKNY",
+    "NAMA": "BAHODOPI NO. 39 MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.48.210"
+  },
+  {
+    "TOKO": "TKNY",
+    "NAMA": "BAHODOPI NO. 39 MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.48.212"
+  },
+  {
+    "TOKO": "TKNY",
+    "NAMA": "BAHODOPI NO. 39 - MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.48.219"
+  },
+  {
+    "TOKO": "TKNZ",
+    "NAMA": "BULELENG NO. 93 - MOROWALI",
+    "STATION": "ModemVsat",
+    "IP": "10.54.101.33"
+  },
+  {
+    "TOKO": "TKNZ",
+    "NAMA": "BULELENG NO.93 MOROWALI",
+    "STATION": "01",
+    "IP": "10.54.101.34"
+  },
+  {
+    "TOKO": "TKNZ",
+    "NAMA": "BULELENG NO.93 MOROWALI",
+    "STATION": "02",
+    "IP": "10.54.101.35"
+  },
+  {
+    "TOKO": "TKNZ",
+    "NAMA": "BULELENG NO. 93 - MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.101.50"
+  },
+  {
+    "TOKO": "TKNZ",
+    "NAMA": "BULELENG NO. 93 - MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.101.52"
+  },
+  {
+    "TOKO": "TKNZ",
+    "NAMA": "BULELENG NO. 93 - MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.101.59"
+  },
+  {
+    "TOKO": "TKRZ",
+    "NAMA": "WIWIRANO - KONAWE UTARA",
+    "STATION": "STB",
+    "IP": "10.54.27.114"
+  },
+  {
+    "TOKO": "TKRZ",
+    "NAMA": "WIWIRANO - KONAWE UTARA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.27.116"
+  },
+  {
+    "TOKO": "TKRZ",
+    "NAMA": "WIWIRANO - KONAWE UTARA",
+    "STATION": "DVR",
+    "IP": "10.54.27.123"
+  },
+  {
+    "TOKO": "TKRZ",
+    "NAMA": "WIWIRANO - KONAWE UTARA",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.27.97"
+  },
+  {
+    "TOKO": "TKRZ",
+    "NAMA": "WIWIRANO KONAWE UTARA",
+    "STATION": "01",
+    "IP": "10.54.27.98"
+  },
+  {
+    "TOKO": "TKRZ",
+    "NAMA": "WIWIRANO KONAWE UTARA",
+    "STATION": "02",
+    "IP": "10.54.27.99"
+  },
+  {
+    "TOKO": "TKWH",
+    "NAMA": "BATUGONG KONAWE",
+    "STATION": "STB",
+    "IP": "10.54.75.18"
+  },
+  {
+    "TOKO": "TKWH",
+    "NAMA": "BATUGONG KONAWE",
+    "STATION": "01",
+    "IP": "10.54.75.2"
+  },
+  {
+    "TOKO": "TKWH",
+    "NAMA": "BATUGONG KONAWE",
+    "STATION": "RBWDCP",
+    "IP": "10.54.75.20"
+  },
+  {
+    "TOKO": "TKWH",
+    "NAMA": "BATUGONG",
+    "STATION": "DVR",
+    "IP": "10.54.75.27"
+  },
+  {
+    "TOKO": "TKWH",
+    "NAMA": "BATUGONG KONAWE",
+    "STATION": "02",
+    "IP": "10.54.75.3"
+  },
+  {
+    "TOKO": "TKWH",
+    "NAMA": "BATUGONG KONAWE",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.75.30"
+  },
+  {
+    "TOKO": "TLCR",
+    "NAMA": "LASOLO KONAWE UTARA",
+    "STATION": "ModemVsat",
+    "IP": "10.54.73.65"
+  },
+  {
+    "TOKO": "TLCR",
+    "NAMA": "LASOLO - KONAWE UTARA/",
+    "STATION": "01",
+    "IP": "10.54.73.66"
+  },
+  {
+    "TOKO": "TLCR",
+    "NAMA": "LASOLO - KONAWE UTARA/",
+    "STATION": "02",
+    "IP": "10.54.73.67"
+  },
+  {
+    "TOKO": "TLCR",
+    "NAMA": "LASOLO KONAWE UTARA",
+    "STATION": "STB",
+    "IP": "10.54.73.82"
+  },
+  {
+    "TOKO": "TLCR",
+    "NAMA": "LASOLO KONAWE UTARA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.73.84"
+  },
+  {
+    "TOKO": "TLCR",
+    "NAMA": "LASOLO - KONAWE UTARA",
+    "STATION": "DVR",
+    "IP": "10.54.73.91"
+  },
+  {
+    "TOKO": "TLXY",
+    "NAMA": "KEUREA NO. 146 - MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.55.193"
+  },
+  {
+    "TOKO": "TLXY",
+    "NAMA": "KEUREA NO 146",
+    "STATION": "01",
+    "IP": "10.54.55.194"
+  },
+  {
+    "TOKO": "TLXY",
+    "NAMA": "KEUREA NO 146",
+    "STATION": "02",
+    "IP": "10.54.55.195"
+  },
+  {
+    "TOKO": "TLXY",
+    "NAMA": "KEUREA NO. 146 - MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.55.210"
+  },
+  {
+    "TOKO": "TLXY",
+    "NAMA": "KEUREA NO. 146 - MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.55.212"
+  },
+  {
+    "TOKO": "TLXY",
+    "NAMA": "KEUREA NO. 146 - MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.55.219"
+  },
+  {
+    "TOKO": "TMM8",
+    "NAMA": "KHAIRIL ANWAR KOLAKA",
+    "STATION": "ModemVsat",
+    "IP": "10.54.100.1"
+  },
+  {
+    "TOKO": "TMM8",
+    "NAMA": "KHAIRIL ANWAR KOLAKA",
+    "STATION": "STB",
+    "IP": "10.54.100.18"
+  },
+  {
+    "TOKO": "TMM8",
+    "NAMA": "KHAIRIL ANWAR",
+    "STATION": "01",
+    "IP": "10.54.100.2"
+  },
+  {
+    "TOKO": "TMM8",
+    "NAMA": "KHAIRIL ANWAR KOLAKA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.100.20"
+  },
+  {
+    "TOKO": "TMM8",
+    "NAMA": "KHAIRIL ANWAR KOLAKA",
+    "STATION": "DVR",
+    "IP": "10.54.100.27"
+  },
+  {
+    "TOKO": "TMM8",
+    "NAMA": "KHAIRIL ANWAR",
+    "STATION": "02",
+    "IP": "10.54.100.3"
+  },
+  {
+    "TOKO": "TMOM",
+    "NAMA": "SAMPARA KONAWE",
+    "STATION": "01",
+    "IP": "10.54.99.66"
+  },
+  {
+    "TOKO": "TMOM",
+    "NAMA": "SAMPARA KONAWE",
+    "STATION": "02",
+    "IP": "10.54.99.67"
+  },
+  {
+    "TOKO": "TMOM",
+    "NAMA": "SAMPARA KONAWE",
+    "STATION": "STB",
+    "IP": "10.54.99.82"
+  },
+  {
+    "TOKO": "TMOM",
+    "NAMA": "SAMPARA KONAWE",
+    "STATION": "RBWDCP",
+    "IP": "10.54.99.84"
+  },
+  {
+    "TOKO": "TMOM",
+    "NAMA": "SAMPARA KONAWE",
+    "STATION": "DVR",
+    "IP": "10.54.99.91"
+  },
+  {
+    "TOKO": "TMOM",
+    "NAMA": "SAMPARA KONAWE",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.99.94"
+  },
+  {
+    "TOKO": "TMRQ",
+    "NAMA": "PROTOKOL TUGU NANAS BUTON",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.68.65"
+  },
+  {
+    "TOKO": "TMRQ",
+    "NAMA": "PROTOKOL TUGU NENAS BUTON",
+    "STATION": "01",
+    "IP": "10.54.68.66"
+  },
+  {
+    "TOKO": "TMRQ",
+    "NAMA": "PROTOKOL TUGU NENAS BUTON",
+    "STATION": "02",
+    "IP": "10.54.68.67"
+  },
+  {
+    "TOKO": "TMRQ",
+    "NAMA": "PROTOKOL TUGU NENAS BUTON",
+    "STATION": "03",
+    "IP": "10.54.68.68"
+  },
+  {
+    "TOKO": "TMRQ",
+    "NAMA": "PROTOKOL TUGU NANAS BUTON",
+    "STATION": "STB",
+    "IP": "10.54.68.82"
+  },
+  {
+    "TOKO": "TMRQ",
+    "NAMA": "PROTOKOL TUGU NANAS BUTON",
+    "STATION": "RBWDCP",
+    "IP": "10.54.68.84"
+  },
+  {
+    "TOKO": "TMRQ",
+    "NAMA": "PROTOKOL TUGU NENAS - BUTON",
+    "STATION": "DVR",
+    "IP": "10.54.68.91"
+  },
+  {
+    "TOKO": "TMVM",
+    "NAMA": "FATUFIA NO 55 MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.12.129"
+  },
+  {
+    "TOKO": "TMVM",
+    "NAMA": "FATUFIA NO 55 MOROWA",
+    "STATION": "01",
+    "IP": "10.54.12.130"
+  },
+  {
+    "TOKO": "TMVM",
+    "NAMA": "FATUFIA NO 55 MOROWA",
+    "STATION": "02",
+    "IP": "10.54.12.131"
+  },
+  {
+    "TOKO": "TMVM",
+    "NAMA": "FATUFIA NO 55 MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.12.146"
+  },
+  {
+    "TOKO": "TMVM",
+    "NAMA": "FATUFIA NO 55 MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.12.148"
+  },
+  {
+    "TOKO": "TMVM",
+    "NAMA": "FATUFIA NO 55",
+    "STATION": "DVR",
+    "IP": "10.54.12.155"
+  },
+  {
+    "TOKO": "TMZU",
+    "NAMA": "BATARA GURU BAU BAU",
+    "STATION": "DVR",
+    "IP": "10.54.139.219"
+  },
+  {
+    "TOKO": "TN81",
+    "NAMA": "HADI SUWANDA KOLTIM",
+    "STATION": "STB",
+    "IP": "10.54.44.114"
+  },
+  {
+    "TOKO": "TN81",
+    "NAMA": "HADI SUWANDA KOLTIM",
+    "STATION": "RBWDCP",
+    "IP": "10.54.44.116"
+  },
+  {
+    "TOKO": "TN81",
+    "NAMA": "HADI SUWANDA - KOLAKA TIMUR",
+    "STATION": "DVR",
+    "IP": "10.54.44.123"
+  },
+  {
+    "TOKO": "TN81",
+    "NAMA": "HADI SUWANDA KOLTIM",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.44.97"
+  },
+  {
+    "TOKO": "TN81",
+    "NAMA": "HADI SUWANDA",
+    "STATION": "01",
+    "IP": "10.54.44.98"
+  },
+  {
+    "TOKO": "TN81",
+    "NAMA": "HADI SUWANDA",
+    "STATION": "02",
+    "IP": "10.54.44.99"
+  },
+  {
+    "TOKO": "TNAT",
+    "NAMA": "REPALITA KOLAKA",
+    "STATION": "01",
+    "IP": "10.54.123.66"
+  },
+  {
+    "TOKO": "TNAT",
+    "NAMA": "REPALITA KOLAKA",
+    "STATION": "02",
+    "IP": "10.54.123.67"
+  },
+  {
+    "TOKO": "TNAT",
+    "NAMA": "REPALITA",
+    "STATION": "STB",
+    "IP": "10.54.123.82"
+  },
+  {
+    "TOKO": "TNAT",
+    "NAMA": "REPALITA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.123.84"
+  },
+  {
+    "TOKO": "TNAT",
+    "NAMA": "REPALITA KOLAKA",
+    "STATION": "DVR",
+    "IP": "10.54.123.91"
+  },
+  {
+    "TOKO": "TNAT",
+    "NAMA": "REPALITA",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.123.94"
+  },
+  {
+    "TOKO": "TNEP",
+    "NAMA": "POROS LASUSUA",
+    "STATION": "STB",
+    "IP": "10.54.123.18"
+  },
+  {
+    "TOKO": "TNEP",
+    "NAMA": "POROS LASUSUA KOLAKA UTAR",
+    "STATION": "01",
+    "IP": "10.54.123.2"
+  },
+  {
+    "TOKO": "TNEP",
+    "NAMA": "POROS LASUSUA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.123.20"
+  },
+  {
+    "TOKO": "TNEP",
+    "NAMA": "POROS LASUSUA",
+    "STATION": "DVR",
+    "IP": "10.54.123.27"
+  },
+  {
+    "TOKO": "TNEP",
+    "NAMA": "POROS LASUSUA KOLAKA UTAR",
+    "STATION": "02",
+    "IP": "10.54.123.3"
+  },
+  {
+    "TOKO": "TNEP",
+    "NAMA": "POROS LASUSUA",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.123.30"
+  },
+  {
+    "TOKO": "TNEP",
+    "NAMA": "POROS LASUSUA KOLAKA UTAR",
+    "STATION": "03",
+    "IP": "10.54.123.4"
+  },
+  {
+    "TOKO": "TNFC",
+    "NAMA": "POROS MOTAHA KONAWE SELAT",
+    "STATION": "ModemVsat",
+    "IP": "10.54.75.161"
+  },
+  {
+    "TOKO": "TNFC",
+    "NAMA": "POROS MOTAHA KONAWE SELAT",
+    "STATION": "01",
+    "IP": "10.54.75.162"
+  },
+  {
+    "TOKO": "TNFC",
+    "NAMA": "POROS MOTAHA KONAWE SELATAN",
+    "STATION": "02",
+    "IP": "10.54.75.163"
+  },
+  {
+    "TOKO": "TNFC",
+    "NAMA": "POROS MOTAHA KONAWE SELAT",
+    "STATION": "STB",
+    "IP": "10.54.75.178"
+  },
+  {
+    "TOKO": "TNFC",
+    "NAMA": "POROS MOTAHA KONAWE SELAT",
+    "STATION": "RBWDCP",
+    "IP": "10.54.75.180"
+  },
+  {
+    "TOKO": "TNFC",
+    "NAMA": "POROS MOTAHA KONAWE SELATAN",
+    "STATION": "DVR",
+    "IP": "10.54.75.187"
+  },
+  {
+    "TOKO": "TNJP",
+    "NAMA": "LAUTE KENDARI",
+    "STATION": "01",
+    "IP": "10.54.66.130"
+  },
+  {
+    "TOKO": "TNJP",
+    "NAMA": "LAUTE KENDARI",
+    "STATION": "02",
+    "IP": "10.54.66.131"
+  },
+  {
+    "TOKO": "TNJP",
+    "NAMA": "LAUTE KENDARI",
+    "STATION": "03",
+    "IP": "10.54.66.132"
+  },
+  {
+    "TOKO": "TNJP",
+    "NAMA": "LAUTE KENDARI",
+    "STATION": "04",
+    "IP": "10.54.66.133"
+  },
+  {
+    "TOKO": "TNJP",
+    "NAMA": "LAUTE KENDARI",
+    "STATION": "05",
+    "IP": "10.54.66.134"
+  },
+  {
+    "TOKO": "TNJP",
+    "NAMA": "LAUTE KENDARI ( admin gudang )",
+    "STATION": "06",
+    "IP": "10.54.66.135"
+  },
+  {
+    "TOKO": "TNJP",
+    "NAMA": "LAUTE KENDARI",
+    "STATION": "TIMBANGAN",
+    "IP": "10.54.66.143"
+  },
+  {
+    "TOKO": "TNJP",
+    "NAMA": "LAUTE KENDARI",
+    "STATION": "STB",
+    "IP": "10.54.66.146"
+  },
+  {
+    "TOKO": "TNJP",
+    "NAMA": "LAUTE KENDARI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.66.148"
+  },
+  {
+    "TOKO": "TNJP",
+    "NAMA": "LAUTE KENDARI",
+    "STATION": "I1",
+    "IP": "10.54.66.149"
+  },
+  {
+    "TOKO": "TNJP",
+    "NAMA": "FRESH LAUTE KENDARI",
+    "STATION": "DVR",
+    "IP": "10.54.66.155"
+  },
+  {
+    "TOKO": "TNJP",
+    "NAMA": "FRESH LAUTE KENDARI",
+    "STATION": "DVR2",
+    "IP": "10.54.66.156"
+  },
+  {
+    "TOKO": "TNJP",
+    "NAMA": "LAUTE KENDARI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.66.158"
+  },
+  {
+    "TOKO": "TNOP",
+    "NAMA": "SULTAN QAIMUDDIN",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.26.33"
+  },
+  {
+    "TOKO": "TNOP",
+    "NAMA": "SULTAN QAEMUDIN KONAWE SE",
+    "STATION": "01",
+    "IP": "10.54.26.34"
+  },
+  {
+    "TOKO": "TNOP",
+    "NAMA": "SULTAN QAEMUDIN KONAWE SE",
+    "STATION": "02",
+    "IP": "10.54.26.35"
+  },
+  {
+    "TOKO": "TNOP",
+    "NAMA": "SULTAN QAIMUDDIN",
+    "STATION": "STB",
+    "IP": "10.54.26.50"
+  },
+  {
+    "TOKO": "TNOP",
+    "NAMA": "SULTAN QAIMUDDIN",
+    "STATION": "RBWDCP",
+    "IP": "10.54.26.52"
+  },
+  {
+    "TOKO": "TNOP",
+    "NAMA": "SULTAN QAEMUDIN",
+    "STATION": "DVR",
+    "IP": "10.54.26.59"
+  },
+  {
+    "TOKO": "TNUJ",
+    "NAMA": "ANGGOEYA KENDARI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.141.225"
+  },
+  {
+    "TOKO": "TNUJ",
+    "NAMA": "ANGGOEYA KENDARI",
+    "STATION": "01",
+    "IP": "10.54.141.226"
+  },
+  {
+    "TOKO": "TNUJ",
+    "NAMA": "ANGGOEYA KENDARI",
+    "STATION": "02",
+    "IP": "10.54.141.227"
+  },
+  {
+    "TOKO": "TNUJ",
+    "NAMA": "ANGGOEYA KENDARI",
+    "STATION": "03",
+    "IP": "10.54.141.228"
+  },
+  {
+    "TOKO": "TNUJ",
+    "NAMA": "ANGGOEYA KENDARI",
+    "STATION": "STB",
+    "IP": "10.54.141.242"
+  },
+  {
+    "TOKO": "TNUJ",
+    "NAMA": "ANGGOEYA KENDARI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.141.244"
+  },
+  {
+    "TOKO": "TNUJ",
+    "NAMA": "ANGGOEYA KENDARI",
+    "STATION": "DVR",
+    "IP": "10.54.141.251"
+  },
+  {
+    "TOKO": "TNZC",
+    "NAMA": "POROS KONAWE",
+    "STATION": "STB",
+    "IP": "10.54.85.18"
+  },
+  {
+    "TOKO": "TNZC",
+    "NAMA": "POROS KONAWE",
+    "STATION": "01",
+    "IP": "10.54.85.2"
+  },
+  {
+    "TOKO": "TNZC",
+    "NAMA": "POROS KONAWE",
+    "STATION": "RBWDCP",
+    "IP": "10.54.85.20"
+  },
+  {
+    "TOKO": "TNZC",
+    "NAMA": "POROS KONAWE",
+    "STATION": "DVR",
+    "IP": "10.54.85.27"
+  },
+  {
+    "TOKO": "TNZC",
+    "NAMA": "POROS KONAWE",
+    "STATION": "02",
+    "IP": "10.54.85.3"
+  },
+  {
+    "TOKO": "TNZC",
+    "NAMA": "POROS KONAWE",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.85.30"
+  },
+  {
+    "TOKO": "TOEG",
+    "NAMA": "TEPPOE BOMBANA",
+    "STATION": "ModemVsat",
+    "IP": "10.54.113.193"
+  },
+  {
+    "TOKO": "TOEG",
+    "NAMA": "TEPPOE BOMBANA",
+    "STATION": "01",
+    "IP": "10.54.113.194"
+  },
+  {
+    "TOKO": "TOEG",
+    "NAMA": "TEPPOE BOMBANA",
+    "STATION": "02",
+    "IP": "10.54.113.195"
+  },
+  {
+    "TOKO": "TOEG",
+    "NAMA": "TEPPOE BOMBANA",
+    "STATION": "STB",
+    "IP": "10.54.113.210"
+  },
+  {
+    "TOKO": "TOEG",
+    "NAMA": "TEPPOE BOMBANA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.113.212"
+  },
+  {
+    "TOKO": "TOEG",
+    "NAMA": "TEPPOE BOMBANA",
+    "STATION": "DVR",
+    "IP": "172.31.31.19"
+  },
+  {
+    "TOKO": "TOFJ",
+    "NAMA": "LAMBAI-KOLAKA UTARA",
+    "STATION": "STB",
+    "IP": "10.54.123.114"
+  },
+  {
+    "TOKO": "TOFJ",
+    "NAMA": "LAMBAI-KOLAKA UTARA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.123.116"
+  },
+  {
+    "TOKO": "TOFJ",
+    "NAMA": "LAMBAI - KOLAKA UTARA",
+    "STATION": "DVR",
+    "IP": "10.54.123.123"
+  },
+  {
+    "TOKO": "TOFJ",
+    "NAMA": "LAMBAI-KOLAKA UTARA",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.123.126"
+  },
+  {
+    "TOKO": "TOFJ",
+    "NAMA": "LAMBAI - KOLAKA",
+    "STATION": "01",
+    "IP": "10.54.123.98"
+  },
+  {
+    "TOKO": "TOFJ",
+    "NAMA": "LAMBAI - KOLAKA",
+    "STATION": "02",
+    "IP": "10.54.123.99"
+  },
+  {
+    "TOKO": "TOKA",
+    "NAMA": "MESJID RAYA KOLAKA",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.39.65"
+  },
+  {
+    "TOKO": "TOKA",
+    "NAMA": "MESJID RAYA KOLAKA",
+    "STATION": "01",
+    "IP": "10.54.39.66"
+  },
+  {
+    "TOKO": "TOKA",
+    "NAMA": "MESJID RAYA KOLAKA",
+    "STATION": "02",
+    "IP": "10.54.39.67"
+  },
+  {
+    "TOKO": "TOKA",
+    "NAMA": "MESJID RAYA KOLAKA",
+    "STATION": "03",
+    "IP": "10.54.39.68"
+  },
+  {
+    "TOKO": "TOKA",
+    "NAMA": "MESJID RAYA KOLAKA",
+    "STATION": "STB",
+    "IP": "10.54.39.82"
+  },
+  {
+    "TOKO": "TOKA",
+    "NAMA": "MESJID RAYA KOLAKA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.39.84"
+  },
+  {
+    "TOKO": "TOKA",
+    "NAMA": "MESJID RAYA KOLAKA",
+    "STATION": "DVR",
+    "IP": "10.54.39.91"
+  },
+  {
+    "TOKO": "TOKJ",
+    "NAMA": "BANDARA HALUOLEO",
+    "STATION": "03",
+    "IP": "10.54.49.100"
+  },
+  {
+    "TOKO": "TOKJ",
+    "NAMA": "BANDARA HALUOLEO",
+    "STATION": "STB",
+    "IP": "10.54.49.114"
+  },
+  {
+    "TOKO": "TOKJ",
+    "NAMA": "BANDARA HALUOLEO",
+    "STATION": "RBWDCP",
+    "IP": "10.54.49.116"
+  },
+  {
+    "TOKO": "TOKJ",
+    "NAMA": "BANDARA HALUOLEO",
+    "STATION": "I1",
+    "IP": "10.54.49.117"
+  },
+  {
+    "TOKO": "TOKJ",
+    "NAMA": "POINT BANDARA HALUOLEO",
+    "STATION": "DVR",
+    "IP": "10.54.49.123"
+  },
+  {
+    "TOKO": "TOKJ",
+    "NAMA": "BANDARA HALUOLEO",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.49.97"
+  },
+  {
+    "TOKO": "TOKJ",
+    "NAMA": "BANDARA HALUOLEO\t",
+    "STATION": "01",
+    "IP": "10.54.49.98"
+  },
+  {
+    "TOKO": "TOKJ",
+    "NAMA": "BANDARA HALUOLEO\t",
+    "STATION": "02",
+    "IP": "10.54.49.99"
+  },
+  {
+    "TOKO": "TOOE",
+    "NAMA": "DAMPALA NO 30 MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.16.193"
+  },
+  {
+    "TOKO": "TOOE",
+    "NAMA": "DAMPALA NO. 30 MOROWALI",
+    "STATION": "01",
+    "IP": "10.54.16.194"
+  },
+  {
+    "TOKO": "TOOE",
+    "NAMA": "DAMPALA NO. 30 MOROWALI",
+    "STATION": "02",
+    "IP": "10.54.16.195"
+  },
+  {
+    "TOKO": "TOOE",
+    "NAMA": "DAMPALA NO 30 MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.16.210"
+  },
+  {
+    "TOKO": "TOOE",
+    "NAMA": "DAMPALA NO 30 MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.16.212"
+  },
+  {
+    "TOKO": "TOOE",
+    "NAMA": "DAMPALA NO. 30 - MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.16.219"
+  },
+  {
+    "TOKO": "TOU5",
+    "NAMA": "KONDARA KOLAKA UTARA",
+    "STATION": "ModemVsat",
+    "IP": "10.54.119.1"
+  },
+  {
+    "TOKO": "TOU5",
+    "NAMA": "KONDARA KOLAKA UTARA",
+    "STATION": "STB",
+    "IP": "10.54.119.18"
+  },
+  {
+    "TOKO": "TOU5",
+    "NAMA": "KONDARA KOLAKA UTARA",
+    "STATION": "01",
+    "IP": "10.54.119.2"
+  },
+  {
+    "TOKO": "TOU5",
+    "NAMA": "KONDARA KOLAKA UTARA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.119.20"
+  },
+  {
+    "TOKO": "TOU5",
+    "NAMA": "KONDARA KOLAKA UTARA",
+    "STATION": "DVR",
+    "IP": "10.54.119.27"
+  },
+  {
+    "TOKO": "TOU5",
+    "NAMA": "KONDARA KOLAKA UTARA",
+    "STATION": "02",
+    "IP": "10.54.119.3"
+  },
+  {
+    "TOKO": "TOUY",
+    "NAMA": "TRANS BAHOMAKMUR NO 88 MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.138.225"
+  },
+  {
+    "TOKO": "TOUY",
+    "NAMA": "TRANS BAHOMAKMUR NO. 88 MOROWALI",
+    "STATION": "01",
+    "IP": "10.54.138.226"
+  },
+  {
+    "TOKO": "TOUY",
+    "NAMA": "TRANS BAHOMAKMUR NO 88 MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.138.242"
+  },
+  {
+    "TOKO": "TOUY",
+    "NAMA": "TRANS BAHOMAKMUR NO 88 MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.138.244"
+  },
+  {
+    "TOKO": "TOUY",
+    "NAMA": "TRANSBAHOMAKMUR NO.88 MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.138.251"
+  },
+  {
+    "TOKO": "TOVM",
+    "NAMA": "BAHOMAKMUR BLOK C - MOROW/",
+    "STATION": "01",
+    "IP": "10.54.73.194"
+  },
+  {
+    "TOKO": "TOVM",
+    "NAMA": "BAHOMAKMUR BLOK C - MOROW/",
+    "STATION": "02",
+    "IP": "10.54.73.195"
+  },
+  {
+    "TOKO": "TOVM",
+    "NAMA": "BAHOMAKMUR BLOK C - MOROW/",
+    "STATION": "03",
+    "IP": "10.54.73.196"
+  },
+  {
+    "TOKO": "TOVM",
+    "NAMA": "BAHOMAKMUR BLOK C MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.73.210"
+  },
+  {
+    "TOKO": "TOVM",
+    "NAMA": "BAHOMAKMUR BLOK C MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.73.212"
+  },
+  {
+    "TOKO": "TOVM",
+    "NAMA": "BAHOMAKMUR BLOK C - MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.73.219"
+  },
+  {
+    "TOKO": "TOVM",
+    "NAMA": "BAHOMAKMUR BLOK C MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.73.222"
+  },
+  {
+    "TOKO": "TOX7",
+    "NAMA": "LAWA NO. 6 - MUNA BARAT",
+    "STATION": "ModemVsat",
+    "IP": "10.54.76.225"
+  },
+  {
+    "TOKO": "TOX7",
+    "NAMA": "LAWA NO 6 MUNA BARAT",
+    "STATION": "01",
+    "IP": "10.54.76.226"
+  },
+  {
+    "TOKO": "TOX7",
+    "NAMA": "LAWA NO 6 MUNA BARAT",
+    "STATION": "02",
+    "IP": "10.54.76.227"
+  },
+  {
+    "TOKO": "TOX7",
+    "NAMA": "LAWA NO. 6 - MUNA BARAT",
+    "STATION": "STB",
+    "IP": "10.54.76.242"
+  },
+  {
+    "TOKO": "TOX7",
+    "NAMA": "LAWA NO. 6 - MUNA BARAT",
+    "STATION": "RBWDCP",
+    "IP": "10.54.76.244"
+  },
+  {
+    "TOKO": "TOX7",
+    "NAMA": "LAWA NO. 6 - MUNA BARAT",
+    "STATION": "DVR",
+    "IP": "10.54.76.251"
+  },
+  {
+    "TOKO": "TPEC",
+    "NAMA": "PALANGGA SELATAN",
+    "STATION": "STB",
+    "IP": "10.54.118.114"
+  },
+  {
+    "TOKO": "TPEC",
+    "NAMA": "PALANGGA SELATAN",
+    "STATION": "RBWDCP",
+    "IP": "10.54.118.116"
+  },
+  {
+    "TOKO": "TPEC",
+    "NAMA": "PALANGGA SELATAN KONSEL",
+    "STATION": "DVR",
+    "IP": "10.54.118.123"
+  },
+  {
+    "TOKO": "TPEC",
+    "NAMA": "PALANGGA SELATAN",
+    "STATION": "ModemVsat",
+    "IP": "10.54.118.97"
+  },
+  {
+    "TOKO": "TPEC",
+    "NAMA": "PALANGGA SELATAN KONSEL",
+    "STATION": "01",
+    "IP": "10.54.118.98"
+  },
+  {
+    "TOKO": "TPEC",
+    "NAMA": "PALANGGA SELATAN KONSEL",
+    "STATION": "02",
+    "IP": "10.54.118.99"
+  },
+  {
+    "TOKO": "TPFP",
+    "NAMA": "BAHOMOHONI NO. 51 - MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.49.129"
+  },
+  {
+    "TOKO": "TPFP",
+    "NAMA": "BAHOMOHONI NO. 51 - MOROWALI",
+    "STATION": "01",
+    "IP": "10.54.49.130"
+  },
+  {
+    "TOKO": "TPFP",
+    "NAMA": "BAHOMOHONI NO. 51 - MOROWALI",
+    "STATION": "02",
+    "IP": "10.54.49.131"
+  },
+  {
+    "TOKO": "TPFP",
+    "NAMA": "BAHOMOHONI NO. 51 - MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.49.146"
+  },
+  {
+    "TOKO": "TPFP",
+    "NAMA": "BAHOMOHONI NO. 51 - MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.49.148"
+  },
+  {
+    "TOKO": "TPFP",
+    "NAMA": "BAHOMOHONI NO. 51 - MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.49.155"
+  },
+  {
+    "TOKO": "TPG6",
+    "NAMA": "SOLONSA JAYA  MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.76.114"
+  },
+  {
+    "TOKO": "TPG6",
+    "NAMA": "SOLONSA JAYA  MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.76.116"
+  },
+  {
+    "TOKO": "TPG6",
+    "NAMA": "SOLONSA JAYA - MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.76.123"
+  },
+  {
+    "TOKO": "TPG6",
+    "NAMA": "SOLONSA JAYA  MOROWALI",
+    "STATION": "ModemVsat",
+    "IP": "10.54.76.97"
+  },
+  {
+    "TOKO": "TPG6",
+    "NAMA": "SOLONSA JAYA - MOROWALI",
+    "STATION": "01",
+    "IP": "10.54.76.98"
+  },
+  {
+    "TOKO": "TPG6",
+    "NAMA": "SOLONSA JAYA - MOROWALI",
+    "STATION": "02",
+    "IP": "10.54.76.99"
+  },
+  {
+    "TOKO": "TPIC",
+    "NAMA": "AHMAD YANI NO 125 KENDARI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.189.33"
+  },
+  {
+    "TOKO": "TPIC",
+    "NAMA": "AHMAD YANI NO 125 KENDARI",
+    "STATION": "01",
+    "IP": "10.54.189.34"
+  },
+  {
+    "TOKO": "TPIC",
+    "NAMA": "AHMAD YANI NO 125 KENDARI",
+    "STATION": "02",
+    "IP": "10.54.189.35"
+  },
+  {
+    "TOKO": "TPIC",
+    "NAMA": "AHMAD YANI NO 125 KENDARI",
+    "STATION": "03",
+    "IP": "10.54.189.36"
+  },
+  {
+    "TOKO": "TPIC",
+    "NAMA": "AHMAD YANI NO 125 KENDARI",
+    "STATION": "04",
+    "IP": "10.54.189.37"
+  },
+  {
+    "TOKO": "TPIC",
+    "NAMA": "AHMAD YANI KENDARI",
+    "STATION": "TIMBANGAN",
+    "IP": "10.54.189.47"
+  },
+  {
+    "TOKO": "TPIC",
+    "NAMA": "AHMAD YANI NO 125 KENDARI",
+    "STATION": "STB",
+    "IP": "10.54.189.50"
+  },
+  {
+    "TOKO": "TPIC",
+    "NAMA": "AHMAD YANI NO 125 KENDARI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.189.52"
+  },
+  {
+    "TOKO": "TPIC",
+    "NAMA": "AHMAD YANI NO 125 KENDARI",
+    "STATION": "I1",
+    "IP": "10.54.189.53"
+  },
+  {
+    "TOKO": "TPIC",
+    "NAMA": "AHMAD YANI NO 125 KE",
+    "STATION": "DVR",
+    "IP": "10.54.189.59"
+  },
+  {
+    "TOKO": "TPIC",
+    "NAMA": "AHMAD YANI NO 125 KE",
+    "STATION": "DVR2",
+    "IP": "10.54.189.60"
+  },
+  {
+    "TOKO": "TPII",
+    "NAMA": "LABOTA NO 22 MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.135.114"
+  },
+  {
+    "TOKO": "TPII",
+    "NAMA": "LABOTA NO 22 MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.135.116"
+  },
+  {
+    "TOKO": "TPII",
+    "NAMA": "LABOTA NO 22 MOROWA",
+    "STATION": "DVR",
+    "IP": "10.54.135.123"
+  },
+  {
+    "TOKO": "TPII",
+    "NAMA": "LABOTA NO 22 MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.135.97"
+  },
+  {
+    "TOKO": "TPII",
+    "NAMA": "LABOTA NO 22 MOROWA",
+    "STATION": "01",
+    "IP": "10.54.135.98"
+  },
+  {
+    "TOKO": "TPII",
+    "NAMA": "LABOTA NO 22 MOROWA",
+    "STATION": "02",
+    "IP": "10.54.135.99"
+  },
+  {
+    "TOKO": "TPIW",
+    "NAMA": "LAPAI KOLAKA UTARA",
+    "STATION": "01",
+    "IP": "10.54.122.226"
+  },
+  {
+    "TOKO": "TPIW",
+    "NAMA": "LAPAI KOLAKA UTARA",
+    "STATION": "02",
+    "IP": "10.54.122.227"
+  },
+  {
+    "TOKO": "TPIW",
+    "NAMA": "LAPAI",
+    "STATION": "STB",
+    "IP": "10.54.122.242"
+  },
+  {
+    "TOKO": "TPIW",
+    "NAMA": "LAPAI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.122.244"
+  },
+  {
+    "TOKO": "TPIW",
+    "NAMA": "LAPAI KOLAKA UTARA",
+    "STATION": "DVR",
+    "IP": "10.54.122.251"
+  },
+  {
+    "TOKO": "TPIW",
+    "NAMA": "LAPAI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.122.254"
+  },
+  {
+    "TOKO": "TPRB",
+    "NAMA": "ANEKA MARGA BOMBANA",
+    "STATION": "01",
+    "IP": "10.54.123.226"
+  },
+  {
+    "TOKO": "TPRB",
+    "NAMA": "ANEKA MARGA BOMBANA",
+    "STATION": "02",
+    "IP": "10.54.123.227"
+  },
+  {
+    "TOKO": "TPRB",
+    "NAMA": "ANEKA MARGA BOMBANA",
+    "STATION": "STB",
+    "IP": "10.54.123.242"
+  },
+  {
+    "TOKO": "TPRB",
+    "NAMA": "ANEKA MARGA BOMBANA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.123.244"
+  },
+  {
+    "TOKO": "TPRB",
+    "NAMA": "ANEKA MARGA - BOMBANA",
+    "STATION": "DVR",
+    "IP": "10.54.123.251"
+  },
+  {
+    "TOKO": "TPRB",
+    "NAMA": "ANEKA MARGA BOMBANA",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.123.254"
+  },
+  {
+    "TOKO": "TPRW",
+    "NAMA": "GUNUNG JAYA  KOLTIM",
+    "STATION": "ModemVsat",
+    "IP": "10.54.123.193"
+  },
+  {
+    "TOKO": "TPRW",
+    "NAMA": "GUNUNG JAYA - KOLAKA TIMU/",
+    "STATION": "01",
+    "IP": "10.54.123.194"
+  },
+  {
+    "TOKO": "TPRW",
+    "NAMA": "GUNUNG JAYA KOLTIM",
+    "STATION": "02",
+    "IP": "10.54.123.195"
+  },
+  {
+    "TOKO": "TPRW",
+    "NAMA": "GUNUNG JAYA  KOLTIM",
+    "STATION": "STB",
+    "IP": "10.54.123.210"
+  },
+  {
+    "TOKO": "TPRW",
+    "NAMA": "GUNUNG JAYA  KOLTIM",
+    "STATION": "RBWDCP",
+    "IP": "10.54.123.212"
+  },
+  {
+    "TOKO": "TPRW",
+    "NAMA": "GUNUNG JAYA - KOLAKA TIMUR",
+    "STATION": "DVR",
+    "IP": "10.54.123.219"
+  },
+  {
+    "TOKO": "TPTW",
+    "NAMA": "TIRAWUTA KOLAKA TIMUR",
+    "STATION": "01",
+    "IP": "10.54.71.226"
+  },
+  {
+    "TOKO": "TPTW",
+    "NAMA": "TIRAWUTA KOLAKA TIMUR",
+    "STATION": "02",
+    "IP": "10.54.71.227"
+  },
+  {
+    "TOKO": "TPTW",
+    "NAMA": "TIRAWUTA",
+    "STATION": "STB",
+    "IP": "10.54.71.242"
+  },
+  {
+    "TOKO": "TPTW",
+    "NAMA": "TIRAWUTA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.71.244"
+  },
+  {
+    "TOKO": "TPTW",
+    "NAMA": "TIRAWUTA KOLAKA TIMUR",
+    "STATION": "DVR",
+    "IP": "10.54.71.251"
+  },
+  {
+    "TOKO": "TPTW",
+    "NAMA": "TIRAWUTA",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.71.254"
+  },
+  {
+    "TOKO": "TQ1Z",
+    "NAMA": "BAHOMAKMUR BLOK E",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.140.65"
+  },
+  {
+    "TOKO": "TQ1Z",
+    "NAMA": "BAHOMAKMUR BLOK E",
+    "STATION": "01",
+    "IP": "10.54.140.66"
+  },
+  {
+    "TOKO": "TQ1Z",
+    "NAMA": "BAHOMAKMUR BLOK E",
+    "STATION": "02",
+    "IP": "10.54.140.67"
+  },
+  {
+    "TOKO": "TQ1Z",
+    "NAMA": "BAHOMAKMUR BLOK E",
+    "STATION": "STB",
+    "IP": "10.54.140.82"
+  },
+  {
+    "TOKO": "TQ1Z",
+    "NAMA": "BAHOMAKMUR BLOK E",
+    "STATION": "RBWDCP",
+    "IP": "10.54.140.84"
+  },
+  {
+    "TOKO": "TQ1Z",
+    "NAMA": "BAHOMAKMUR BLOK E",
+    "STATION": "DVR",
+    "IP": "10.54.140.91"
+  },
+  {
+    "TOKO": "TQ8F",
+    "NAMA": "MUH YAMIN KENDARI",
+    "STATION": "01",
+    "IP": "10.54.122.130"
+  },
+  {
+    "TOKO": "TQ8F",
+    "NAMA": "MUH YAMIN KENDARI",
+    "STATION": "02",
+    "IP": "10.54.122.131"
+  },
+  {
+    "TOKO": "TQ8F",
+    "NAMA": "MUH YAMIN KENDARI",
+    "STATION": "03",
+    "IP": "10.54.122.132"
+  },
+  {
+    "TOKO": "TQ8F",
+    "NAMA": "MUH YAMIN KENDARI",
+    "STATION": "04",
+    "IP": "10.54.122.133"
+  },
+  {
+    "TOKO": "TQ8F",
+    "NAMA": "MUH YAMIN KENDARI",
+    "STATION": "STB",
+    "IP": "10.54.122.146"
+  },
+  {
+    "TOKO": "TQ8F",
+    "NAMA": "MUH YAMIN KENDARI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.122.148"
+  },
+  {
+    "TOKO": "TQ8F",
+    "NAMA": "MUH YAMIN KENDARI",
+    "STATION": "DVR",
+    "IP": "10.54.122.155"
+  },
+  {
+    "TOKO": "TQ8F",
+    "NAMA": "MUH YAMIN KENDARI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.122.158"
+  },
+  {
+    "TOKO": "TQEX",
+    "NAMA": "LAMBANDIA KOLAKA TIMUR",
+    "STATION": "ModemVsat",
+    "IP": "10.54.124.193"
+  },
+  {
+    "TOKO": "TQEX",
+    "NAMA": "LAMBANDIA KOLAKA TIMUR",
+    "STATION": "01",
+    "IP": "10.54.124.194"
+  },
+  {
+    "TOKO": "TQEX",
+    "NAMA": "LAMBANDIA KOLAKA TIMUR",
+    "STATION": "02",
+    "IP": "10.54.124.195"
+  },
+  {
+    "TOKO": "TQEX",
+    "NAMA": "LAMBANDIA KOLAKA TIMUR",
+    "STATION": "STB",
+    "IP": "10.54.124.210"
+  },
+  {
+    "TOKO": "TQEX",
+    "NAMA": "LAMBANDIA KOLAKA TIMUR",
+    "STATION": "RBWDCP",
+    "IP": "10.54.124.212"
+  },
+  {
+    "TOKO": "TQEX",
+    "NAMA": "LAMBANDIA",
+    "STATION": "DVR",
+    "IP": "10.54.124.219"
+  },
+  {
+    "TOKO": "TQFT",
+    "NAMA": "TAMPO NO 94 MUNA",
+    "STATION": "MODEMVSAT",
+    "IP": "10.54.105.1"
+  },
+  {
+    "TOKO": "TQFT",
+    "NAMA": "TAMPO NO 94 MUNA",
+    "STATION": "STB",
+    "IP": "10.54.105.18"
+  },
+  {
+    "TOKO": "TQFT",
+    "NAMA": "TAMPO NO 94 MUNA",
+    "STATION": "01",
+    "IP": "10.54.105.2"
+  },
+  {
+    "TOKO": "TQFT",
+    "NAMA": "TAMPO NO 94 MUNA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.105.20"
+  },
+  {
+    "TOKO": "TQFT",
+    "NAMA": "TAMPO NO 94 MUNA",
+    "STATION": "DVR",
+    "IP": "10.54.105.27"
+  },
+  {
+    "TOKO": "TQFT",
+    "NAMA": "TAMPO NO 94 MUNA",
+    "STATION": "02",
+    "IP": "10.54.105.3"
+  },
+  {
+    "TOKO": "TQFT",
+    "NAMA": "TAMPO NO 94 MUNA",
+    "STATION": "03",
+    "IP": "10.54.105.4"
+  },
+  {
+    "TOKO": "TQZQ",
+    "NAMA": "LASALEPA MUNA",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.138.193"
+  },
+  {
+    "TOKO": "TQZQ",
+    "NAMA": "LASALEPA - MUNA",
+    "STATION": "01",
+    "IP": "10.54.138.194"
+  },
+  {
+    "TOKO": "TQZQ",
+    "NAMA": "LASALEPA - MUNA",
+    "STATION": "02",
+    "IP": "10.54.138.195"
+  },
+  {
+    "TOKO": "TQZQ",
+    "NAMA": "LASALEPA MUNA",
+    "STATION": "STB",
+    "IP": "10.54.138.210"
+  },
+  {
+    "TOKO": "TQZQ",
+    "NAMA": "LASALEPA MUNA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.138.212"
+  },
+  {
+    "TOKO": "TQZQ",
+    "NAMA": "LASALEPA - MUNA",
+    "STATION": "DVR",
+    "IP": "10.54.138.219"
+  },
+  {
+    "TOKO": "TREB",
+    "NAMA": "PUTE MATA - KOLAKA TIMUR",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.15.1"
+  },
+  {
+    "TOKO": "TREB",
+    "NAMA": "PUTE MATA - KOLAKA TIMUR",
+    "STATION": "STB",
+    "IP": "10.54.15.18"
+  },
+  {
+    "TOKO": "TREB",
+    "NAMA": "PUTE MATA - KOLAKA TIMUR/",
+    "STATION": "01",
+    "IP": "10.54.15.2"
+  },
+  {
+    "TOKO": "TREB",
+    "NAMA": "PUTE MATA - KOLAKA TIMUR",
+    "STATION": "RBWDCP",
+    "IP": "10.54.15.20"
+  },
+  {
+    "TOKO": "TREB",
+    "NAMA": "PUTE MATA - KOLAKA TIMUR",
+    "STATION": "DVR",
+    "IP": "10.54.15.27"
+  },
+  {
+    "TOKO": "TREB",
+    "NAMA": "PUTE MATA - KOLAKA TIMUR/",
+    "STATION": "02",
+    "IP": "10.54.15.3"
+  },
+  {
+    "TOKO": "TRQN",
+    "NAMA": "BATAS KOTA KONAWE SELATAN",
+    "STATION": "01",
+    "IP": "10.54.73.226"
+  },
+  {
+    "TOKO": "TRQN",
+    "NAMA": "BATAS KOTA KONAWE SELATAN",
+    "STATION": "02",
+    "IP": "10.54.73.227"
+  },
+  {
+    "TOKO": "TRQN",
+    "NAMA": "BATAS KOTA KONAWE SELATAN",
+    "STATION": "03",
+    "IP": "10.54.73.228"
+  },
+  {
+    "TOKO": "TRQN",
+    "NAMA": "BATAS KOTA KONAWE SELATAN",
+    "STATION": "04",
+    "IP": "10.54.73.229"
+  },
+  {
+    "TOKO": "TRQN",
+    "NAMA": "BATAS KOTA",
+    "STATION": "TIMBANGAN",
+    "IP": "10.54.73.239"
+  },
+  {
+    "TOKO": "TRQN",
+    "NAMA": "BATAS KOTA",
+    "STATION": "STB",
+    "IP": "10.54.73.242"
+  },
+  {
+    "TOKO": "TRQN",
+    "NAMA": "BATAS KOTA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.73.244"
+  },
+  {
+    "TOKO": "TRQN",
+    "NAMA": "BATAS KOTA KONAWE SELATAN",
+    "STATION": "I1",
+    "IP": "10.54.73.245"
+  },
+  {
+    "TOKO": "TRQN",
+    "NAMA": "FRESH BATAS KOTA",
+    "STATION": "DVR",
+    "IP": "10.54.73.251"
+  },
+  {
+    "TOKO": "TRQN",
+    "NAMA": "BATAS KOTA",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.73.254"
+  },
+  {
+    "TOKO": "TRZL",
+    "NAMA": "MORAMO KONAWE SELATAN",
+    "STATION": "ModemVsat",
+    "IP": "10.54.75.33"
+  },
+  {
+    "TOKO": "TRZL",
+    "NAMA": "MORAMO KONAWE SELATAN",
+    "STATION": "01",
+    "IP": "10.54.75.34"
+  },
+  {
+    "TOKO": "TRZL",
+    "NAMA": "MORAMO KONAWE SELATAN",
+    "STATION": "02",
+    "IP": "10.54.75.35"
+  },
+  {
+    "TOKO": "TRZL",
+    "NAMA": "MORAMO KONAWE SELATAN",
+    "STATION": "STB",
+    "IP": "10.54.75.50"
+  },
+  {
+    "TOKO": "TRZL",
+    "NAMA": "MORAMO KONAWE SELATAN",
+    "STATION": "RBWDCP",
+    "IP": "10.54.75.52"
+  },
+  {
+    "TOKO": "TRZL",
+    "NAMA": "MORAMO KONAWE SELATAN",
+    "STATION": "DVR",
+    "IP": "10.54.75.59"
+  },
+  {
+    "TOKO": "TS1B",
+    "NAMA": "LALAMPU NO 144 MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.137.33"
+  },
+  {
+    "TOKO": "TS1B",
+    "NAMA": "LALAMPU NO.144 MOROWALI",
+    "STATION": "01",
+    "IP": "10.54.137.34"
+  },
+  {
+    "TOKO": "TS1B",
+    "NAMA": "LALAMPU NO.144 MOROWALI",
+    "STATION": "02",
+    "IP": "10.54.137.35"
+  },
+  {
+    "TOKO": "TS1B",
+    "NAMA": "LALAMPU NO 144 MOROWALI",
+    "STATION": "03",
+    "IP": "10.54.137.36"
+  },
+  {
+    "TOKO": "TS1B",
+    "NAMA": "LALAMPU NO 144 MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.137.50"
+  },
+  {
+    "TOKO": "TS1B",
+    "NAMA": "LALAMPU NO 144 MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.137.52"
+  },
+  {
+    "TOKO": "TS1B",
+    "NAMA": "LALAMPU NO. 144 MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.137.59"
+  },
+  {
+    "TOKO": "TS2W",
+    "NAMA": "WOSU NO. 31 - MOROWALI",
+    "STATION": "ModemVsat",
+    "IP": "10.54.124.33"
+  },
+  {
+    "TOKO": "TS2W",
+    "NAMA": "WOSU NO. 31",
+    "STATION": "01",
+    "IP": "10.54.124.34"
+  },
+  {
+    "TOKO": "TS2W",
+    "NAMA": "WOSU NO. 31",
+    "STATION": "02",
+    "IP": "10.54.124.35"
+  },
+  {
+    "TOKO": "TS2W",
+    "NAMA": "WOSU NO. 31 - MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.124.50"
+  },
+  {
+    "TOKO": "TS2W",
+    "NAMA": "WOSU NO. 31 - MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.124.52"
+  },
+  {
+    "TOKO": "TS2W",
+    "NAMA": "WOSU NO. 31 - MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.124.59"
+  },
+  {
+    "TOKO": "TS5P",
+    "NAMA": "BUNGKU PESISIR MOROWALI",
+    "STATION": "ModemVsat",
+    "IP": "10.54.68.193"
+  },
+  {
+    "TOKO": "TS5P",
+    "NAMA": "BUNGKU PESISIR MOROWALI",
+    "STATION": "01",
+    "IP": "10.54.68.194"
+  },
+  {
+    "TOKO": "TS5P",
+    "NAMA": "BUNGKU PESISIR MOROWALI",
+    "STATION": "02",
+    "IP": "10.54.68.195"
+  },
+  {
+    "TOKO": "TS5P",
+    "NAMA": "BUNGKU PESISIR MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.68.210"
+  },
+  {
+    "TOKO": "TS5P",
+    "NAMA": "BUNGKU PESISIR MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.68.212"
+  },
+  {
+    "TOKO": "TS5P",
+    "NAMA": "BUNGKU PESISIR MOROW",
+    "STATION": "DVR",
+    "IP": "10.54.68.219"
+  },
+  {
+    "TOKO": "TSDO",
+    "NAMA": "LAMBUYA KONAWE",
+    "STATION": "01",
+    "IP": "10.54.92.226"
+  },
+  {
+    "TOKO": "TSDO",
+    "NAMA": "LAMBUYA KONAWE",
+    "STATION": "02",
+    "IP": "10.54.92.227"
+  },
+  {
+    "TOKO": "TSDO",
+    "NAMA": "LAMBUYA KONAWE",
+    "STATION": "STB",
+    "IP": "10.54.92.242"
+  },
+  {
+    "TOKO": "TSDO",
+    "NAMA": "LAMBUYA KONAWE",
+    "STATION": "RBWDCP",
+    "IP": "10.54.92.244"
+  },
+  {
+    "TOKO": "TSDO",
+    "NAMA": "LAMBUYA KONAWE",
+    "STATION": "DVR",
+    "IP": "10.54.92.251"
+  },
+  {
+    "TOKO": "TSDO",
+    "NAMA": "LAMBUYA KONAWE",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.92.254"
+  },
+  {
+    "TOKO": "TSI2",
+    "NAMA": "POLEANG BOMBANA",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.48.225"
+  },
+  {
+    "TOKO": "TSI2",
+    "NAMA": "POLEANG - BOMBANA",
+    "STATION": "01",
+    "IP": "10.54.48.226"
+  },
+  {
+    "TOKO": "TSI2",
+    "NAMA": "POLEANG - BOMBANA",
+    "STATION": "02",
+    "IP": "10.54.48.227"
+  },
+  {
+    "TOKO": "TSI2",
+    "NAMA": "POLEANG BOMBANA",
+    "STATION": "STB",
+    "IP": "10.54.48.242"
+  },
+  {
+    "TOKO": "TSI2",
+    "NAMA": "POLEANG BOMBANA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.48.244"
+  },
+  {
+    "TOKO": "TSI2",
+    "NAMA": "POLEANG - BOMBANA",
+    "STATION": "DVR",
+    "IP": "10.54.48.251"
+  },
+  {
+    "TOKO": "TSVH",
+    "NAMA": "AMBUNU NO 29 MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.135.65"
+  },
+  {
+    "TOKO": "TSVH",
+    "NAMA": "AMBUNU NO 29 MOROWALI",
+    "STATION": "01",
+    "IP": "10.54.135.66"
+  },
+  {
+    "TOKO": "TSVH",
+    "NAMA": "AMBUNU NO 29 MOROWALI",
+    "STATION": "02",
+    "IP": "10.54.135.67"
+  },
+  {
+    "TOKO": "TSVH",
+    "NAMA": "AMBUNU NO 29 MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.135.82"
+  },
+  {
+    "TOKO": "TSVH",
+    "NAMA": "AMBUNU NO 29 MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.135.84"
+  },
+  {
+    "TOKO": "TSVH",
+    "NAMA": "AMBUNU NO 29 MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.135.91"
+  },
+  {
+    "TOKO": "TTBA",
+    "NAMA": "ANGGOPIU",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.34.33"
+  },
+  {
+    "TOKO": "TTBA",
+    "NAMA": "ANGGOPIU KONAWE",
+    "STATION": "01",
+    "IP": "10.54.34.34"
+  },
+  {
+    "TOKO": "TTBA",
+    "NAMA": "ANGGOPIU KONAWE",
+    "STATION": "02",
+    "IP": "10.54.34.35"
+  },
+  {
+    "TOKO": "TTBA",
+    "NAMA": "ANGGOPIU",
+    "STATION": "STB",
+    "IP": "10.54.34.50"
+  },
+  {
+    "TOKO": "TTBA",
+    "NAMA": "ANGGOPIU",
+    "STATION": "RBWDCP",
+    "IP": "10.54.34.52"
+  },
+  {
+    "TOKO": "TTBA",
+    "NAMA": "ANGGOPIU KONAWE",
+    "STATION": "DVR",
+    "IP": "10.54.34.59"
+  },
+  {
+    "TOKO": "TTBL",
+    "NAMA": "LANTULA JAYA - MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.44.33"
+  },
+  {
+    "TOKO": "TTBL",
+    "NAMA": "LANTULA JAYA - MOROWALI/",
+    "STATION": "01",
+    "IP": "10.54.44.34"
+  },
+  {
+    "TOKO": "TTBL",
+    "NAMA": "LANTULA JAYA - MOROWALI",
+    "STATION": "02",
+    "IP": "10.54.44.35"
+  },
+  {
+    "TOKO": "TTBL",
+    "NAMA": "LANTULA JAYA - MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.44.50"
+  },
+  {
+    "TOKO": "TTBL",
+    "NAMA": "LANTULA JAYA - MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.44.52"
+  },
+  {
+    "TOKO": "TTBL",
+    "NAMA": "LANTULA JAYA - MOROWAL68:6D:BC:DB:6A:F9I_",
+    "STATION": "DVR",
+    "IP": "172.31.31.27"
+  },
+  {
+    "TOKO": "TTCD",
+    "NAMA": "ONEPUTE JAYA NO 15 M",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.63.225"
+  },
+  {
+    "TOKO": "TTCD",
+    "NAMA": "ONEPUTE JAYA NO 15 M",
+    "STATION": "01",
+    "IP": "10.54.63.226"
+  },
+  {
+    "TOKO": "TTCD",
+    "NAMA": "ONEPUTE JAYA NO 15 M",
+    "STATION": "02",
+    "IP": "10.54.63.227"
+  },
+  {
+    "TOKO": "TTCD",
+    "NAMA": "ONEPUTE JAYA NO 15 MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.63.242"
+  },
+  {
+    "TOKO": "TTCD",
+    "NAMA": "ONEPUTE JAYA NO 15 M",
+    "STATION": "RBWDCP",
+    "IP": "10.54.63.244"
+  },
+  {
+    "TOKO": "TTCD",
+    "NAMA": "ONEPUTE JAYA NO 15 M",
+    "STATION": "DVR",
+    "IP": "10.54.63.251"
+  },
+  {
+    "TOKO": "TTRW",
+    "NAMA": "MAYJEND S PARMAN KENDARI",
+    "STATION": "01",
+    "IP": "10.54.66.226"
+  },
+  {
+    "TOKO": "TTRW",
+    "NAMA": "MAYJEND S PARMAN KENDARI",
+    "STATION": "02",
+    "IP": "10.54.66.227"
+  },
+  {
+    "TOKO": "TTRW",
+    "NAMA": "MAYJEND S PARMAN",
+    "STATION": "03",
+    "IP": "10.54.66.228"
+  },
+  {
+    "TOKO": "TTRW",
+    "NAMA": "MAYJEND S PARMAN",
+    "STATION": "04",
+    "IP": "10.54.66.229"
+  },
+  {
+    "TOKO": "TTRW",
+    "NAMA": "MAYJEND S. PARMAN",
+    "STATION": "TIMBANGAN",
+    "IP": "10.54.66.239"
+  },
+  {
+    "TOKO": "TTRW",
+    "NAMA": "MAYJEND S PARMAN KENDARI",
+    "STATION": "STB",
+    "IP": "10.54.66.242"
+  },
+  {
+    "TOKO": "TTRW",
+    "NAMA": "MAYJEND S PARMAN KENDARI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.66.244"
+  },
+  {
+    "TOKO": "TTRW",
+    "NAMA": "MAYJEND S PARMAN KENDARI",
+    "STATION": "I1",
+    "IP": "10.54.66.245"
+  },
+  {
+    "TOKO": "TTRW",
+    "NAMA": "FRESH MAYJEND S PARMAN",
+    "STATION": "DVR",
+    "IP": "10.54.66.251"
+  },
+  {
+    "TOKO": "TTRW",
+    "NAMA": "MAYJEND S PARMAN KEND",
+    "STATION": "DVR2",
+    "IP": "10.54.66.252"
+  },
+  {
+    "TOKO": "TTRW",
+    "NAMA": "MAYJEND S PARMAN KENDARI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.66.254"
+  },
+  {
+    "TOKO": "TU4S",
+    "NAMA": "WAWOLURI KONAWE UTARA",
+    "STATION": "ModemVsat",
+    "IP": "10.54.77.161"
+  },
+  {
+    "TOKO": "TU4S",
+    "NAMA": "WAWOLURI KONAWE UTARA",
+    "STATION": "01",
+    "IP": "10.54.77.162"
+  },
+  {
+    "TOKO": "TU4S",
+    "NAMA": "WAWOLURI KONAWE UTARA",
+    "STATION": "02",
+    "IP": "10.54.77.163"
+  },
+  {
+    "TOKO": "TU4S",
+    "NAMA": "WAWOLURI KONAWE UTARA",
+    "STATION": "STB",
+    "IP": "10.54.77.178"
+  },
+  {
+    "TOKO": "TU4S",
+    "NAMA": "WAWOLURI KONAWE UTARA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.77.180"
+  },
+  {
+    "TOKO": "TU4S",
+    "NAMA": "WAWOLURI KONAWE UTARA",
+    "STATION": "DVR",
+    "IP": "10.54.77.187"
+  },
+  {
+    "TOKO": "TUBL",
+    "NAMA": "ABELI - KENDARI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.135.161"
+  },
+  {
+    "TOKO": "TUBL",
+    "NAMA": "ABELI - KENDARI",
+    "STATION": "01",
+    "IP": "10.54.135.162"
+  },
+  {
+    "TOKO": "TUBL",
+    "NAMA": "ABELI - KENDARI",
+    "STATION": "02",
+    "IP": "10.54.135.163"
+  },
+  {
+    "TOKO": "TUBL",
+    "NAMA": "ABELI - KENDARI",
+    "STATION": "STB",
+    "IP": "10.54.135.178"
+  },
+  {
+    "TOKO": "TUBL",
+    "NAMA": "ABELI - KENDARI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.135.180"
+  },
+  {
+    "TOKO": "TUBL",
+    "NAMA": "ABELI - KENDARI",
+    "STATION": "DVR",
+    "IP": "10.54.135.187"
+  },
+  {
+    "TOKO": "TVDZ",
+    "NAMA": "POLEANG UTARA",
+    "STATION": "ModemVsat",
+    "IP": "10.54.98.129"
+  },
+  {
+    "TOKO": "TVDZ",
+    "NAMA": "POLEANG UTARA BOMBANA",
+    "STATION": "01",
+    "IP": "10.54.98.130"
+  },
+  {
+    "TOKO": "TVDZ",
+    "NAMA": "POLEANG UTARA BOMBANA",
+    "STATION": "02",
+    "IP": "10.54.98.131"
+  },
+  {
+    "TOKO": "TVDZ",
+    "NAMA": "POLEANG UTARA",
+    "STATION": "STB",
+    "IP": "10.54.98.146"
+  },
+  {
+    "TOKO": "TVDZ",
+    "NAMA": "POLEANG UTARA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.98.148"
+  },
+  {
+    "TOKO": "TVDZ",
+    "NAMA": "POLEANG UTARA BOMBANA",
+    "STATION": "DVR",
+    "IP": "10.54.98.155"
+  },
+  {
+    "TOKO": "TVE5",
+    "NAMA": "TOLALA - KOLAKA UTARA",
+    "STATION": "ModemVsat",
+    "IP": "10.54.119.33"
+  },
+  {
+    "TOKO": "TVE5",
+    "NAMA": "TOLALA KOLAKA UTARA",
+    "STATION": "01",
+    "IP": "10.54.119.34"
+  },
+  {
+    "TOKO": "TVE5",
+    "NAMA": "TOLALA KOLAKA UTARA",
+    "STATION": "02",
+    "IP": "10.54.119.35"
+  },
+  {
+    "TOKO": "TVE5",
+    "NAMA": "TOLALA - KOLAKA UTARA",
+    "STATION": "STB",
+    "IP": "10.54.119.50"
+  },
+  {
+    "TOKO": "TVE5",
+    "NAMA": "TOLALA - KOLAKA UTARA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.119.52"
+  },
+  {
+    "TOKO": "TVE5",
+    "NAMA": "TOLALA - KOLAKA UTARA",
+    "STATION": "DVR",
+    "IP": "10.54.119.59"
+  },
+  {
+    "TOKO": "TVGZ",
+    "NAMA": "TINANGGEA KONAWE SELATAN",
+    "STATION": "ModemVsat",
+    "IP": "10.54.83.161"
+  },
+  {
+    "TOKO": "TVGZ",
+    "NAMA": "TINANGGEA  KONAWE SELATAN",
+    "STATION": "01",
+    "IP": "10.54.83.162"
+  },
+  {
+    "TOKO": "TVGZ",
+    "NAMA": "TINANGGEA  KONAWE SELATAN",
+    "STATION": "02",
+    "IP": "10.54.83.163"
+  },
+  {
+    "TOKO": "TVGZ",
+    "NAMA": "TINANGGEA  KONAWE SELATAN",
+    "STATION": "MESINKOPI",
+    "IP": "10.54.83.171"
+  },
+  {
+    "TOKO": "TVGZ",
+    "NAMA": "TINANGGEA KONAWE SELATAN",
+    "STATION": "STB",
+    "IP": "10.54.83.178"
+  },
+  {
+    "TOKO": "TVGZ",
+    "NAMA": "TINANGGEA KONAWE SELATAN",
+    "STATION": "RBWDCP",
+    "IP": "10.54.83.180"
+  },
+  {
+    "TOKO": "TVGZ",
+    "NAMA": "TINANGGEA KONAWE SELATAN",
+    "STATION": "DVR",
+    "IP": "10.54.83.187"
+  },
+  {
+    "TOKO": "TVHM",
+    "NAMA": "D.I PANJAITAN NO 186",
+    "STATION": "03",
+    "IP": "10.54.70.100"
+  },
+  {
+    "TOKO": "TVHM",
+    "NAMA": "D.I PANJAITAN NO 186",
+    "STATION": "04",
+    "IP": "10.54.70.101"
+  },
+  {
+    "TOKO": "TVHM",
+    "NAMA": "D.I PANJAITAN NO 186 KENDARI",
+    "STATION": "STB",
+    "IP": "10.54.70.114"
+  },
+  {
+    "TOKO": "TVHM",
+    "NAMA": "D.I PANJAITAN NO 186 KENDARI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.70.116"
+  },
+  {
+    "TOKO": "TVHM",
+    "NAMA": "D.I PANJAITAN NO.186 - KENDA",
+    "STATION": "DVR",
+    "IP": "10.54.70.123"
+  },
+  {
+    "TOKO": "TVHM",
+    "NAMA": "D.I PANJAITAN NO 186 KENDARI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.70.97"
+  },
+  {
+    "TOKO": "TVHM",
+    "NAMA": "D.I PANJAITAN NO 186 KENDARI",
+    "STATION": "01",
+    "IP": "10.54.70.98"
+  },
+  {
+    "TOKO": "TVHM",
+    "NAMA": "D.I PANJAITAN NO 186 KENDARI",
+    "STATION": "02",
+    "IP": "10.54.70.99"
+  },
+  {
+    "TOKO": "TVIJ",
+    "NAMA": "PONDIDAHA KONAWE",
+    "STATION": "01",
+    "IP": "10.54.75.130"
+  },
+  {
+    "TOKO": "TVIJ",
+    "NAMA": "PONDIDAHA KONAWE",
+    "STATION": "02",
+    "IP": "10.54.75.131"
+  },
+  {
+    "TOKO": "TVIJ",
+    "NAMA": "PONDIDAHA KONAWE",
+    "STATION": "03",
+    "IP": "10.54.75.132"
+  },
+  {
+    "TOKO": "TVIJ",
+    "NAMA": "PONDIDAHA KONAWE",
+    "STATION": "STB",
+    "IP": "10.54.75.146"
+  },
+  {
+    "TOKO": "TVIJ",
+    "NAMA": "PONDIDAHA KONAWE",
+    "STATION": "RBWDCP",
+    "IP": "10.54.75.148"
+  },
+  {
+    "TOKO": "TVIJ",
+    "NAMA": "PONDIDAHA KONAWE",
+    "STATION": "DVR",
+    "IP": "10.54.75.155"
+  },
+  {
+    "TOKO": "TVIJ",
+    "NAMA": "PONDIDAHA KONAWE",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.75.158"
+  },
+  {
+    "TOKO": "TVYL",
+    "NAMA": "PADABAHO NO 2 MOROWALI",
+    "STATION": "03",
+    "IP": "10.54.58.100"
+  },
+  {
+    "TOKO": "TVYL",
+    "NAMA": "PADABAHO NO 2 MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.58.114"
+  },
+  {
+    "TOKO": "TVYL",
+    "NAMA": "PADABAHO NO 2 MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.58.116"
+  },
+  {
+    "TOKO": "TVYL",
+    "NAMA": "PADABAHO NO. 2 - MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.58.123"
+  },
+  {
+    "TOKO": "TVYL",
+    "NAMA": "PADABAHO NO 2 MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.58.97"
+  },
+  {
+    "TOKO": "TVYL",
+    "NAMA": "PADABAHO NO. 2 MOROWALI",
+    "STATION": "01",
+    "IP": "10.54.58.98"
+  },
+  {
+    "TOKO": "TVYL",
+    "NAMA": "PADABAHO NO. 2 MOROWALI",
+    "STATION": "02",
+    "IP": "10.54.58.99"
+  },
+  {
+    "TOKO": "TWHL",
+    "NAMA": "IDM MOLAWE - KONAWE UTARA",
+    "STATION": "01",
+    "IP": "10.54.82.34"
+  },
+  {
+    "TOKO": "TWHL",
+    "NAMA": "IDM MOLAWE - KONAWE UTARA",
+    "STATION": "02",
+    "IP": "10.54.82.35"
+  },
+  {
+    "TOKO": "TWHL",
+    "NAMA": "MOLAWE - KONAWE UTARA",
+    "STATION": "STB",
+    "IP": "10.54.82.50"
+  },
+  {
+    "TOKO": "TWHL",
+    "NAMA": "MOLAWE - KONAWE UTARA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.82.52"
+  },
+  {
+    "TOKO": "TWHL",
+    "NAMA": "MOLAWE - KONAWE UTARA",
+    "STATION": "DVR",
+    "IP": "10.54.82.59"
+  },
+  {
+    "TOKO": "TWHL",
+    "NAMA": "MOLAWE - KONAWE UTARA",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.82.62"
+  },
+  {
+    "TOKO": "TWJG",
+    "NAMA": "ASERA 96 KONAWE UTARA",
+    "STATION": "STB",
+    "IP": "10.54.13.114"
+  },
+  {
+    "TOKO": "TWJG",
+    "NAMA": "ASERA 96 KONAWE UTARA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.13.116"
+  },
+  {
+    "TOKO": "TWJG",
+    "NAMA": "ASERA 96",
+    "STATION": "DVR",
+    "IP": "10.54.13.123"
+  },
+  {
+    "TOKO": "TWJG",
+    "NAMA": "ASERA 96 KONAWE UTARA",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.13.97"
+  },
+  {
+    "TOKO": "TWJG",
+    "NAMA": "ASERA 96 KONAWE UTARA",
+    "STATION": "01",
+    "IP": "10.54.13.98"
+  },
+  {
+    "TOKO": "TWJG",
+    "NAMA": "ASERA 96 KONAWE UTARA",
+    "STATION": "02",
+    "IP": "10.54.13.99"
+  },
+  {
+    "TOKO": "TWYO",
+    "NAMA": "ANGGALOMOARE KONAWE",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.51.225"
+  },
+  {
+    "TOKO": "TWYO",
+    "NAMA": "ANGGALOMOARE - KONAWE/",
+    "STATION": "01",
+    "IP": "10.54.51.226"
+  },
+  {
+    "TOKO": "TWYO",
+    "NAMA": "ANGGALOMOARE - KONAWE/",
+    "STATION": "02",
+    "IP": "10.54.51.227"
+  },
+  {
+    "TOKO": "TWYO",
+    "NAMA": "ANGGALOMOARE KONAWE",
+    "STATION": "STB",
+    "IP": "10.54.51.242"
+  },
+  {
+    "TOKO": "TWYO",
+    "NAMA": "ANGGALOMOARE KONAWE",
+    "STATION": "RBWDCP",
+    "IP": "10.54.51.244"
+  },
+  {
+    "TOKO": "TWYO",
+    "NAMA": "ANGGALOMOARE - KONAWE",
+    "STATION": "DVR",
+    "IP": "10.54.51.251"
+  },
+  {
+    "TOKO": "TX0Z",
+    "NAMA": "TONGKUNO NO 125 MUNA",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.138.161"
+  },
+  {
+    "TOKO": "TX0Z",
+    "NAMA": "TONGKUNO NO 125 MUNA",
+    "STATION": "01",
+    "IP": "10.54.138.162"
+  },
+  {
+    "TOKO": "TX0Z",
+    "NAMA": "TONGKUNO NO 125 MUNA",
+    "STATION": "02",
+    "IP": "10.54.138.163"
+  },
+  {
+    "TOKO": "TX0Z",
+    "NAMA": "TONGKUNO NO 125 MUNA",
+    "STATION": "STB",
+    "IP": "10.54.138.178"
+  },
+  {
+    "TOKO": "TX0Z",
+    "NAMA": "TONGKUNO NO 125 MUNA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.138.180"
+  },
+  {
+    "TOKO": "TX0Z",
+    "NAMA": "TONGKUNO NO 125 MUNA",
+    "STATION": "DVR",
+    "IP": "10.54.138.187"
+  },
+  {
+    "TOKO": "TX9P",
+    "NAMA": "MT HARYONO KENDARI",
+    "STATION": "03",
+    "IP": "10.54.56.100"
+  },
+  {
+    "TOKO": "TX9P",
+    "NAMA": "MT HARYONO KENDARI",
+    "STATION": "04",
+    "IP": "10.54.56.101"
+  },
+  {
+    "TOKO": "TX9P",
+    "NAMA": "MT HARYONO KENDARI",
+    "STATION": "TIMBANGAN",
+    "IP": "10.54.56.111"
+  },
+  {
+    "TOKO": "TX9P",
+    "NAMA": "MT HARYONO KENDARI",
+    "STATION": "STB",
+    "IP": "10.54.56.114"
+  },
+  {
+    "TOKO": "TX9P",
+    "NAMA": "MT HARYONO KENDARI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.56.116"
+  },
+  {
+    "TOKO": "TX9P",
+    "NAMA": "MT HARYONO KENDARI",
+    "STATION": "I1",
+    "IP": "10.54.56.117"
+  },
+  {
+    "TOKO": "TX9P",
+    "NAMA": "MT. HARYONO - KENDARI",
+    "STATION": "DVR",
+    "IP": "10.54.56.123"
+  },
+  {
+    "TOKO": "TX9P",
+    "NAMA": "MT HARYONO KENDARI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.56.97"
+  },
+  {
+    "TOKO": "TX9P",
+    "NAMA": "MT HARYONO KENDARI",
+    "STATION": "01",
+    "IP": "10.54.56.98"
+  },
+  {
+    "TOKO": "TX9P",
+    "NAMA": "MT HARYONO KENDARI",
+    "STATION": "02",
+    "IP": "10.54.56.99"
+  },
+  {
+    "TOKO": "TXAD",
+    "NAMA": "PENANGGO JAYA KOLAKA TIMUR",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.52.193"
+  },
+  {
+    "TOKO": "TXAD",
+    "NAMA": "PENANGGO JAYA",
+    "STATION": "01",
+    "IP": "10.54.52.194"
+  },
+  {
+    "TOKO": "TXAD",
+    "NAMA": "PENANGGO JAYA",
+    "STATION": "02",
+    "IP": "10.54.52.195"
+  },
+  {
+    "TOKO": "TXAD",
+    "NAMA": "PENANGGO JAYA KOLAKA TIMUR",
+    "STATION": "STB",
+    "IP": "10.54.52.210"
+  },
+  {
+    "TOKO": "TXAD",
+    "NAMA": "PENANGGO JAYA KOLAKA TIMUR",
+    "STATION": "RBWDCP",
+    "IP": "10.54.52.212"
+  },
+  {
+    "TOKO": "TXAD",
+    "NAMA": "PENANGGO JAYA - KOLAKA TIMUR",
+    "STATION": "DVR",
+    "IP": "10.54.52.219"
+  },
+  {
+    "TOKO": "TXBQ",
+    "NAMA": "19 NOPEMBER (GS)",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.27.193"
+  },
+  {
+    "TOKO": "TXBQ",
+    "NAMA": "19 NOPEMBER - KOLAKA",
+    "STATION": "01",
+    "IP": "10.54.27.194"
+  },
+  {
+    "TOKO": "TXBQ",
+    "NAMA": "19 NOPEMBER - KOLAKA",
+    "STATION": "02",
+    "IP": "10.54.27.195"
+  },
+  {
+    "TOKO": "TXBQ",
+    "NAMA": "19 NOPEMBER (GS)",
+    "STATION": "STB",
+    "IP": "10.54.27.210"
+  },
+  {
+    "TOKO": "TXBQ",
+    "NAMA": "19 NOPEMBER (GS)",
+    "STATION": "RBWDCP",
+    "IP": "10.54.27.212"
+  },
+  {
+    "TOKO": "TXBQ",
+    "NAMA": "19 NOPEMBER - KOLAKA",
+    "STATION": "DVR",
+    "IP": "10.54.27.219"
+  },
+  {
+    "TOKO": "TXJJ",
+    "NAMA": "BAHODOPI MOROWALI",
+    "STATION": "01",
+    "IP": "10.54.100.34"
+  },
+  {
+    "TOKO": "TXJJ",
+    "NAMA": "BAHODOPI MOROWALI",
+    "STATION": "02",
+    "IP": "10.54.100.35"
+  },
+  {
+    "TOKO": "TXJJ",
+    "NAMA": "BAHODOPI MOROWALI",
+    "STATION": "03",
+    "IP": "10.54.100.36"
+  },
+  {
+    "TOKO": "TXJJ",
+    "NAMA": "BAHODOPI - MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.100.50"
+  },
+  {
+    "TOKO": "TXJJ",
+    "NAMA": "BAHODOPI - MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.100.52"
+  },
+  {
+    "TOKO": "TXJJ",
+    "NAMA": "BAHODOPI - MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.100.59"
+  },
+  {
+    "TOKO": "TXJJ",
+    "NAMA": "BAHODOPI - MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.100.62"
+  },
+  {
+    "TOKO": "TXOR",
+    "NAMA": "KABANGKA MUNA",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.135.1"
+  },
+  {
+    "TOKO": "TXOR",
+    "NAMA": "KABANGKA MUNA",
+    "STATION": "STB",
+    "IP": "10.54.135.18"
+  },
+  {
+    "TOKO": "TXOR",
+    "NAMA": "KABANGKA MUNA",
+    "STATION": "01",
+    "IP": "10.54.135.2"
+  },
+  {
+    "TOKO": "TXOR",
+    "NAMA": "KABANGKA MUNA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.135.20"
+  },
+  {
+    "TOKO": "TXOR",
+    "NAMA": "KABANGKA MUNA",
+    "STATION": "DVR",
+    "IP": "10.54.135.27"
+  },
+  {
+    "TOKO": "TXOR",
+    "NAMA": "KABANGKA MUNA",
+    "STATION": "02",
+    "IP": "10.54.135.3"
+  },
+  {
+    "TOKO": "TY53",
+    "NAMA": "KONTUKOWUNA MUNA",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.136.161"
+  },
+  {
+    "TOKO": "TY53",
+    "NAMA": "KONTUKOWUNA MUNA",
+    "STATION": "01",
+    "IP": "10.54.136.162"
+  },
+  {
+    "TOKO": "TY53",
+    "NAMA": "KONTUKOWUNA MUNA",
+    "STATION": "02",
+    "IP": "10.54.136.163"
+  },
+  {
+    "TOKO": "TY53",
+    "NAMA": "KONTUKOWUNA MUNA",
+    "STATION": "STB",
+    "IP": "10.54.136.178"
+  },
+  {
+    "TOKO": "TY53",
+    "NAMA": "KONTUKOWUNA MUNA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.136.180"
+  },
+  {
+    "TOKO": "TY53",
+    "NAMA": "KONTUKOWUNA MUNA",
+    "STATION": "DVR",
+    "IP": "10.54.136.187"
+  },
+  {
+    "TOKO": "TY9G",
+    "NAMA": "LANGGIKIMA NO.10 KONUT",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.53.161"
+  },
+  {
+    "TOKO": "TY9G",
+    "NAMA": "POROS LANGGIKIMA NO.10 KONAWE UTARA",
+    "STATION": "01",
+    "IP": "10.54.53.162"
+  },
+  {
+    "TOKO": "TY9G",
+    "NAMA": "POROS LANGGIKIMA NO.10 KONAWE UTARA",
+    "STATION": "02",
+    "IP": "10.54.53.163"
+  },
+  {
+    "TOKO": "TY9G",
+    "NAMA": "POROS LANGGIKIMA NO.",
+    "STATION": "03",
+    "IP": "10.54.53.164"
+  },
+  {
+    "TOKO": "TY9G",
+    "NAMA": "LANGGIKIMA NO.10 KONUT",
+    "STATION": "STB",
+    "IP": "10.54.53.178"
+  },
+  {
+    "TOKO": "TY9G",
+    "NAMA": "LANGGIKIMA NO.10 KONUT",
+    "STATION": "RBWDCP",
+    "IP": "10.54.53.180"
+  },
+  {
+    "TOKO": "TY9G",
+    "NAMA": "LANGGIKIMA NO.10 KONU",
+    "STATION": "DVR",
+    "IP": "10.54.53.187"
+  },
+  {
+    "TOKO": "TZDA",
+    "NAMA": "KAPTEN PIERE TENDEAN",
+    "STATION": "03",
+    "IP": "10.54.66.100"
+  },
+  {
+    "TOKO": "TZDA",
+    "NAMA": "KAPTEN PIERE TENDEAN",
+    "STATION": "04",
+    "IP": "10.54.66.101"
+  },
+  {
+    "TOKO": "TZDA",
+    "NAMA": "KAPTEN PIERE TENDEAN ( admin gudang )",
+    "STATION": "05",
+    "IP": "10.54.66.102"
+  },
+  {
+    "TOKO": "TZDA",
+    "NAMA": "KAPTEN PIERE TENDEAN",
+    "STATION": "TIMBANGAN",
+    "IP": "10.54.66.111"
+  },
+  {
+    "TOKO": "TZDA",
+    "NAMA": "KAPTEN PIERE TENDEAN",
+    "STATION": "STB",
+    "IP": "10.54.66.114"
+  },
+  {
+    "TOKO": "TZDA",
+    "NAMA": "KAPTEN PIERE TENDEAN",
+    "STATION": "RBWDCP",
+    "IP": "10.54.66.116"
+  },
+  {
+    "TOKO": "TZDA",
+    "NAMA": "KAPTEN PIERE TENDEAN KEND",
+    "STATION": "I1",
+    "IP": "10.54.66.117"
+  },
+  {
+    "TOKO": "TZDA",
+    "NAMA": "FRESH KAPTEN PIERE TENDEAN",
+    "STATION": "DVR",
+    "IP": "10.54.66.123"
+  },
+  {
+    "TOKO": "TZDA",
+    "NAMA": "KAPTEN PIERE TENDEAN",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.66.126"
+  },
+  {
+    "TOKO": "TZDA",
+    "NAMA": "KAPTEN PIERE TENDEAN KEND",
+    "STATION": "01",
+    "IP": "10.54.66.98"
+  },
+  {
+    "TOKO": "TZDA",
+    "NAMA": "KAPTEN PIERE TENDEAN KEND",
+    "STATION": "02",
+    "IP": "10.54.66.99"
+  },
+  {
+    "TOKO": "TZMA",
+    "NAMA": "POROS MAKARTI JAYA NO 66 MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.136.225"
+  },
+  {
+    "TOKO": "TZMA",
+    "NAMA": "POROS MAKARTI JAYA NO 66 MOROWALI",
+    "STATION": "01",
+    "IP": "10.54.136.226"
+  },
+  {
+    "TOKO": "TZMA",
+    "NAMA": "POROS MAKARTI JAYA NO 6",
+    "STATION": "02",
+    "IP": "10.54.136.227"
+  },
+  {
+    "TOKO": "TZMA",
+    "NAMA": "POROS MAKARTI JAYA NO 66 MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.136.242"
+  },
+  {
+    "TOKO": "TZMA",
+    "NAMA": "POROS MAKARTI JAYA NO 66 MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.136.244"
+  },
+  {
+    "TOKO": "TZMA",
+    "NAMA": "POROS MAKARTI JAYA NO 6",
+    "STATION": "DVR",
+    "IP": "10.54.136.251"
+  },
+  {
+    "TOKO": "TZQ9",
+    "NAMA": "TRANS BAHOMAKMUR NO. 30 - MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.78.33"
+  },
+  {
+    "TOKO": "TZQ9",
+    "NAMA": "TRANS BAHOMAKMUR NO. 30 - MOROWALI",
+    "STATION": "01",
+    "IP": "10.54.78.34"
+  },
+  {
+    "TOKO": "TZQ9",
+    "NAMA": "TRANS BAHOMAKMUR NO. 30 - MOROWALI",
+    "STATION": "02",
+    "IP": "10.54.78.35"
+  },
+  {
+    "TOKO": "TZQ9",
+    "NAMA": "TRANS BAHOMAKMUR NO. 30 - MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.78.50"
+  },
+  {
+    "TOKO": "TZQ9",
+    "NAMA": "TRANS BAHOMAKMUR NO. 30 - MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.78.52"
+  },
+  {
+    "TOKO": "TZQ9",
+    "NAMA": "TRANS BAHOMAKMUR NO. 30 - MOROWALI",
+    "STATION": "DVR",
+    "IP": "10.54.78.59"
+  },
+  {
+    "TOKO": "TZSP",
+    "NAMA": "POROS BANDARA KONAWE SELA",
+    "STATION": "01",
+    "IP": "10.54.110.34"
+  },
+  {
+    "TOKO": "TZSP",
+    "NAMA": "POROS BANDARA KONAWE SELA",
+    "STATION": "02",
+    "IP": "10.54.110.35"
+  },
+  {
+    "TOKO": "TZSP",
+    "NAMA": "POROS BANDARA AMBAIPUA",
+    "STATION": "STB",
+    "IP": "10.54.110.50"
+  },
+  {
+    "TOKO": "TZSP",
+    "NAMA": "POROS BANDARA AMBAIPUA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.110.52"
+  },
+  {
+    "TOKO": "TZSP",
+    "NAMA": "POROS BANDARA",
+    "STATION": "DVR",
+    "IP": "10.54.110.59"
+  },
+  {
+    "TOKO": "TZSP",
+    "NAMA": "POROS BANDARA AMBAIPUA",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.110.62"
+  },
+  {
+    "TOKO": "TZWP",
+    "NAMA": "KULISUSU NO 40 BUTON UTARA",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.58.225"
+  },
+  {
+    "TOKO": "TZWP",
+    "NAMA": "KULISUSU NO 40 BUTON UTARA",
+    "STATION": "01",
+    "IP": "10.54.58.226"
+  },
+  {
+    "TOKO": "TZWP",
+    "NAMA": "KULISUSU NO 40 BUTON UTARA",
+    "STATION": "02",
+    "IP": "10.54.58.227"
+  },
+  {
+    "TOKO": "TZWP",
+    "NAMA": "KULISUSU NO 40 BUTON U",
+    "STATION": "03",
+    "IP": "10.54.58.228"
+  },
+  {
+    "TOKO": "TZWP",
+    "NAMA": "KULISUSU NO 40 BUTON UTARA",
+    "STATION": "STB",
+    "IP": "10.54.58.242"
+  },
+  {
+    "TOKO": "TZWP",
+    "NAMA": "KULISUSU NO 40 BUTON UTARA",
+    "STATION": "RBWDCP",
+    "IP": "10.54.58.244"
+  },
+  {
+    "TOKO": "TZWP",
+    "NAMA": "KULISUSU NO 40 BUTON UTARA",
+    "STATION": "DVR",
+    "IP": "10.54.58.251"
+  },
+  {
+    "TOKO": "TZZR",
+    "NAMA": "TRANS BAHOMAKMUR NO 20 MOROWALI",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.139.1"
+  },
+  {
+    "TOKO": "TZZR",
+    "NAMA": "TRANS BAHOMAKMUR NO 20 MOROWALI",
+    "STATION": "STB",
+    "IP": "10.54.139.18"
+  },
+  {
+    "TOKO": "TZZR",
+    "NAMA": "TRANS BAHOMAKMUR NO 20",
+    "STATION": "01",
+    "IP": "10.54.139.2"
+  },
+  {
+    "TOKO": "TZZR",
+    "NAMA": "TRANS BAHOMAKMUR NO 20 MOROWALI",
+    "STATION": "RBWDCP",
+    "IP": "10.54.139.20"
+  },
+  {
+    "TOKO": "TZZR",
+    "NAMA": "TRANS BAHOMAKMUR NO 20",
+    "STATION": "DVR",
+    "IP": "10.54.139.27"
+  },
+  {
+    "TOKO": "TZZR",
+    "NAMA": "TRANS BAHOMAKMUR NO 20",
+    "STATION": "02",
+    "IP": "10.54.139.3"
+  },
+  {
+    "TOKO": "FC1H",
+    "NAMA": "WOLTER MONGINSIDI BAU-BAU",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.134.129"
+  },
+  {
+    "TOKO": "FC1H",
+    "NAMA": "WOLTER MONGINSIDI BAU-BAU",
+    "STATION": "01",
+    "IP": "10.54.134.130"
+  },
+  {
+    "TOKO": "FC1H",
+    "NAMA": "WOLTER MONGINSIDI BAU-BAU",
+    "STATION": "02",
+    "IP": "10.54.134.131"
+  },
+  {
+    "TOKO": "FC1H",
+    "NAMA": "WOLTER MONGINSIDI BAU-BAU",
+    "STATION": "STB",
+    "IP": "10.54.134.146"
+  },
+  {
+    "TOKO": "FC1H",
+    "NAMA": "WOLTER MONGINSIDI BAU-BAU",
+    "STATION": "RBWDCP",
+    "IP": "10.54.134.148"
+  },
+  {
+    "TOKO": "FC1H",
+    "NAMA": "WOLTER MONGINSINDI BAU BAU",
+    "STATION": "DVR",
+    "IP": "10.54.134.155"
+  },
+  {
+    "TOKO": "T1TL",
+    "NAMA": "PALM BEACH  BAUBAU",
+    "STATION": "STB",
+    "IP": "10.54.51.114"
+  },
+  {
+    "TOKO": "T1TL",
+    "NAMA": "PALM BEACH  BAUBAU",
+    "STATION": "RBWDCP",
+    "IP": "10.54.51.116"
+  },
+  {
+    "TOKO": "T1TL",
+    "NAMA": "PALM BEACH  BAUBAU",
+    "STATION": "DVR",
+    "IP": "10.54.51.123"
+  },
+  {
+    "TOKO": "T1TL",
+    "NAMA": "PALM BEACH  BAUBAU",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.51.97"
+  },
+  {
+    "TOKO": "T1TL",
+    "NAMA": "PALM BEACH BAUBAU",
+    "STATION": "01",
+    "IP": "10.54.51.98"
+  },
+  {
+    "TOKO": "T1TL",
+    "NAMA": "PALM BEACH BAUBAU",
+    "STATION": "02",
+    "IP": "10.54.51.99"
+  },
+  {
+    "TOKO": "T3ES",
+    "NAMA": "KOKALUKUNA BAU BAU",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.50.161"
+  },
+  {
+    "TOKO": "T3ES",
+    "NAMA": "KOKALUKUNA BAU-BAU",
+    "STATION": "01",
+    "IP": "10.54.50.162"
+  },
+  {
+    "TOKO": "T3ES",
+    "NAMA": "KOKALUKUNA BAU-BAU",
+    "STATION": "02",
+    "IP": "10.54.50.163"
+  },
+  {
+    "TOKO": "T3ES",
+    "NAMA": "KOKALUKUNA BAU BAU",
+    "STATION": "STB",
+    "IP": "10.54.50.178"
+  },
+  {
+    "TOKO": "T3ES",
+    "NAMA": "KOKALUKUNA BAU BAU",
+    "STATION": "RBWDCP",
+    "IP": "10.54.50.180"
+  },
+  {
+    "TOKO": "T3ES",
+    "NAMA": "KOKALUKUNA BAU BAU",
+    "STATION": "DVR",
+    "IP": "10.54.50.187"
+  },
+  {
+    "TOKO": "T4N1",
+    "NAMA": "POROS ANOA BUNGI BAU-BAU",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.54.193"
+  },
+  {
+    "TOKO": "T4N1",
+    "NAMA": "POROS ANOA BUNGI BAU-BAU",
+    "STATION": "01",
+    "IP": "10.54.54.194"
+  },
+  {
+    "TOKO": "T4N1",
+    "NAMA": "POROS ANOA BUNGI BAU-BAU",
+    "STATION": "02",
+    "IP": "10.54.54.195"
+  },
+  {
+    "TOKO": "T4N1",
+    "NAMA": "POROS ANOA BUNGI BAU-BAU",
+    "STATION": "STB",
+    "IP": "10.54.54.210"
+  },
+  {
+    "TOKO": "T4N1",
+    "NAMA": "POROS ANOA BUNGI BAU-BAU",
+    "STATION": "RBWDCP",
+    "IP": "10.54.54.212"
+  },
+  {
+    "TOKO": "T4N1",
+    "NAMA": "POROS ANOA BUNGI BAU BAU",
+    "STATION": "DVR",
+    "IP": "10.54.54.219"
+  },
+  {
+    "TOKO": "T4WQ",
+    "NAMA": "BUDI UTOMO BAU-BAU",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.53.193"
+  },
+  {
+    "TOKO": "T4WQ",
+    "NAMA": "BUDI UTOMO BAU-BAU",
+    "STATION": "01",
+    "IP": "10.54.53.194"
+  },
+  {
+    "TOKO": "T4WQ",
+    "NAMA": "BUDI UTOMO BAU-BAU",
+    "STATION": "02",
+    "IP": "10.54.53.195"
+  },
+  {
+    "TOKO": "T4WQ",
+    "NAMA": "BUDI UTOMO BAU-BAU",
+    "STATION": "STB",
+    "IP": "10.54.53.210"
+  },
+  {
+    "TOKO": "T4WQ",
+    "NAMA": "BUDI UTOMO BAU-BAU",
+    "STATION": "RBWDCP",
+    "IP": "10.54.53.212"
+  },
+  {
+    "TOKO": "T4WQ",
+    "NAMA": "BUDI UTOMO BAU-BAU",
+    "STATION": "DVR",
+    "IP": "10.54.53.219"
+  },
+  {
+    "TOKO": "T6DH",
+    "NAMA": "BETOAMBARI UJUNG",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.52.225"
+  },
+  {
+    "TOKO": "T6DH",
+    "NAMA": "BETOAMBARI UJUANG - BAUBAU",
+    "STATION": "01",
+    "IP": "10.54.52.226"
+  },
+  {
+    "TOKO": "T6DH",
+    "NAMA": "BETOAMBARI UJUNG BAU-BAU",
+    "STATION": "02",
+    "IP": "10.54.52.227"
+  },
+  {
+    "TOKO": "T6DH",
+    "NAMA": "BETOAMBARI UJUNG",
+    "STATION": "STB",
+    "IP": "10.54.52.242"
+  },
+  {
+    "TOKO": "T6DH",
+    "NAMA": "BETOAMBARI UJUNG",
+    "STATION": "RBWDCP",
+    "IP": "10.54.52.244"
+  },
+  {
+    "TOKO": "T6DH",
+    "NAMA": "BETOAMBARI UJUNG",
+    "STATION": "DVR",
+    "IP": "10.54.52.251"
+  },
+  {
+    "TOKO": "TCM9",
+    "NAMA": "WOLIO INDAH BAU BAU",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.51.129"
+  },
+  {
+    "TOKO": "TCM9",
+    "NAMA": "WOLIO INDAH BAUBAU",
+    "STATION": "01",
+    "IP": "10.54.51.130"
+  },
+  {
+    "TOKO": "TCM9",
+    "NAMA": "WOLIO INDAH BAUBAU",
+    "STATION": "02",
+    "IP": "10.54.51.131"
+  },
+  {
+    "TOKO": "TCM9",
+    "NAMA": "WOLIO INDAH BAU BAU",
+    "STATION": "STB",
+    "IP": "10.54.51.146"
+  },
+  {
+    "TOKO": "TCM9",
+    "NAMA": "WOLIO INDAH BAU BAU",
+    "STATION": "RBWDCP",
+    "IP": "10.54.51.148"
+  },
+  {
+    "TOKO": "TCM9",
+    "NAMA": "WOLIO INDAH BAU BAU",
+    "STATION": "DVR",
+    "IP": "10.54.51.155"
+  },
+  {
+    "TOKO": "TH2U",
+    "NAMA": "SORAWOLIO - BAU BAU",
+    "STATION": "01",
+    "IP": "10.54.139.162"
+  },
+  {
+    "TOKO": "TMZU",
+    "NAMA": "BATARAGURU NO 174 BAU-BAU",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.139.193"
+  },
+  {
+    "TOKO": "TMZU",
+    "NAMA": "BATARAGURU BAU BAU",
+    "STATION": "01",
+    "IP": "10.54.139.194"
+  },
+  {
+    "TOKO": "TMZU",
+    "NAMA": "BATARAGURU BAU BAU",
+    "STATION": "02",
+    "IP": "10.54.139.195"
+  },
+  {
+    "TOKO": "TMZU",
+    "NAMA": "BATARAGURU NO 174 BAU-BAU",
+    "STATION": "STB",
+    "IP": "10.54.139.210"
+  },
+  {
+    "TOKO": "TMZU",
+    "NAMA": "BATARAGURU NO 174 BAU-BAU",
+    "STATION": "RBWDCP",
+    "IP": "10.54.139.212"
+  },
+  {
+    "TOKO": "TR8S",
+    "NAMA": "PATTIMURA - BAU-BAU",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.54.1"
+  },
+  {
+    "TOKO": "TR8S",
+    "NAMA": "PATTIMURA - BAU-BAU",
+    "STATION": "STB",
+    "IP": "10.54.54.18"
+  },
+  {
+    "TOKO": "TR8S",
+    "NAMA": "PATIMURA BAU-BAU",
+    "STATION": "01",
+    "IP": "10.54.54.2"
+  },
+  {
+    "TOKO": "TR8S",
+    "NAMA": "PATTIMURA - BAU-BAU",
+    "STATION": "RBWDCP",
+    "IP": "10.54.54.20"
+  },
+  {
+    "TOKO": "TR8S",
+    "NAMA": "PATIMURA - BAU-BAU",
+    "STATION": "DVR",
+    "IP": "10.54.54.27"
+  },
+  {
+    "TOKO": "TR8S",
+    "NAMA": "PATIMURA BAU-BAU",
+    "STATION": "02",
+    "IP": "10.54.54.3"
+  },
+  {
+    "TOKO": "TRAO",
+    "NAMA": "BETOAMBARI NO. 77 - BAU BAU",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.49.193"
+  },
+  {
+    "TOKO": "TRAO",
+    "NAMA": "BETOAMBARI NO 77 BAU-BAU",
+    "STATION": "01",
+    "IP": "10.54.49.194"
+  },
+  {
+    "TOKO": "TRAO",
+    "NAMA": "BETOAMBARI NO 77 BAU-BAU",
+    "STATION": "02",
+    "IP": "10.54.49.195"
+  },
+  {
+    "TOKO": "TRAO",
+    "NAMA": "BETOAMBARI NO. 77 - BA",
+    "STATION": "03",
+    "IP": "10.54.49.196"
+  },
+  {
+    "TOKO": "TRAO",
+    "NAMA": "BETOAMBARI NO. 77 - BAU BAU",
+    "STATION": "STB",
+    "IP": "10.54.49.210"
+  },
+  {
+    "TOKO": "TRAO",
+    "NAMA": "BETOAMBARI NO. 77 - BAU BAU",
+    "STATION": "RBWDCP",
+    "IP": "10.54.49.212"
+  },
+  {
+    "TOKO": "TRAO",
+    "NAMA": "BETOAMBARI NO. 77 - BAU BAU",
+    "STATION": "DVR",
+    "IP": "10.54.49.219"
+  },
+  {
+    "TOKO": "TRGZ",
+    "NAMA": "R.A. KARTINI NO 14 BAU BAU",
+    "STATION": "RBKONEKSI",
+    "IP": "10.54.134.193"
+  },
+  {
+    "TOKO": "TRGZ",
+    "NAMA": "R.A. KARTINI NO 14 BAU",
+    "STATION": "01",
+    "IP": "10.54.134.194"
+  },
+  {
+    "TOKO": "TRGZ",
+    "NAMA": "R.A. KARTINI NO 14 BAU",
+    "STATION": "02",
+    "IP": "10.54.134.195"
+  },
+  {
+    "TOKO": "TRGZ",
+    "NAMA": "R.A. KARTINI NO 14 BAU",
+    "STATION": "03",
+    "IP": "10.54.134.196"
+  },
+  {
+    "TOKO": "TRGZ",
+    "NAMA": "R.A. KARTINI NO 14 BAU BAU",
+    "STATION": "STB",
+    "IP": "10.54.134.210"
+  },
+  {
+    "TOKO": "TRGZ",
+    "NAMA": "R.A. KARTINI NO 14 BAU BAU",
+    "STATION": "RBWDCP",
+    "IP": "10.54.134.212"
+  },
+  {
+    "TOKO": "TRGZ",
+    "NAMA": "R.A. KARTINI NO 14 BAU BAU",
+    "STATION": "DVR",
+    "IP": "10.54.134.219"
+  }
+]
