@@ -1,5 +1,13 @@
 {
-  "version": "1.0.2",
-  "url": "https://server-anda.com/builds/app-1.2.3.zip",
-  "sha256": "opsional_hash_sha256_zip"
+  "version": "1.0.0",
+  "zipUrl": "https://raw.githubusercontent.com/DROISD123/vnc/main/update.zip",
+
+  "notes": "Initial online build",
+  "publishedAt": "2025-08-15T10:00:00Z",
+
+  "sha256": "PUT_SHA256_HEX_DISINI",
+  "size": 0,
+
+  "mandatory": false,
+  "minSupported": "1.0.0"
 }
