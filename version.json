@@ -1,10 +1,10 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "zipUrl": "https://raw.githubusercontent.com/DROISD123/vnc/main/update.zip",
   "notes": "Perbaikan bug dan peningkatan performa",
   "changes": [
-    "Tambah menu Info User",
-    "Perbaiki tombol Update menggantung",
-    "UI Updater: tampilkan changelog & daftar file"
+    "Update tampilan abou",
+    "Perbaiki tampilan foter berlebih",
+    "update awal vpn menu"
   ]
 }
