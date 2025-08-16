@@ -9,7 +9,7 @@
       "notes": "Server IP langsung"
     },
     {
-      "name": "L2TP –indra",
+      "name": "L2TP–indra",
       "server": "152.42.251.214",
       "proto": "l2tp",
       "username": "edp",
