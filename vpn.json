@@ -9,12 +9,12 @@
       "notes": "Server IP langsung"
     },
     {
-      "name": "L2TP – Cabang",
-      "server": "vpn.cabang.co.id",
+      "name": "L2TP –indra",
+      "server": "152.42.251.214",
       "proto": "l2tp",
       "psk": "rahasiaPSK",
-      "username": "userB",
-      "password": "passB",
+      "username": "edp",
+      "password": "123456",
       "notes": "L2TP pakai PSK"
     }
   ]
