@@ -9,7 +9,7 @@
       "notes": "Server IP langsung"
     },
     {
-      "name": "L2TP–indra",
+      "name": "indra",
       "server": "152.42.251.214",
       "proto": "l2tp",
       "psk":"123123",
@@ -17,5 +17,24 @@
       "password": "123456",
       "notes": "L2TP pakai PSK"
     }
+     {
+      "name": "ilman",
+      "server": "152.42.251.214",
+      "proto": "l2tp",
+      "psk":"123123",
+      "username": "ilman",
+      "password": "ilmanl2tp",
+      "notes": "L2TP pakai PSK"
+    }
+     {
+      "name": "yuhan",
+      "server": "152.42.251.214",
+      "proto": "l2tp",
+      "psk":"123123",
+      "username": "yuhan",
+      "password": "yuhanl2tp",
+      "notes": "L2TP pakai PSK"
+    }
   ]
 }
+
