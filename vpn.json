@@ -12,7 +12,6 @@
       "name": "L2TP –indra",
       "server": "152.42.251.214",
       "proto": "l2tp",
-      "psk": "rahasiaPSK",
       "username": "edp",
       "password": "123456",
       "notes": "L2TP pakai PSK"
