@@ -1,0 +1,4 @@
+[
+  { "name": "HQ PPTP", "server": "vpn.hq.example", "proto": "pptp", "username": "u", "password": "p" },
+  { "name": "Branch L2TP", "server": "vpn.b1.example", "proto": "l2tp", "username": "u2", "password": "p2", "psk": "MyPSK" }
+]
