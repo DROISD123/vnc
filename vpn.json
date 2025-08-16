@@ -15,8 +15,7 @@
       "username": "edp",
       "password": "123456",
       "notes": "Server IP langsung"
-    }
-     {
+    },     {
       "name": "ilman",
       "server": "152.42.251.214",
       "proto": "l2tp",
@@ -24,7 +23,7 @@
       "username": "ilman",
       "password": "ilmanl2tp",
       "notes": "L2TP pakai PSK"
-    }
+    },
      {
       "name": "yuhan",
       "server": "152.42.251.214",
