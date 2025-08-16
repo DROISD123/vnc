@@ -1,5 +1,21 @@
 {
   "profiles": [
-    { "server": "10.1.2.3", "proto": "pptp", "username": "userA", "password": "passA", "notes": "Server IP langsung" }
+    {
+      "name": "PPTP – Kantor",
+      "server": "10.1.2.3",
+      "proto": "pptp",
+      "username": "userA",
+      "password": "passA",
+      "notes": "Server IP langsung"
+    },
+    {
+      "name": "L2TP – Cabang",
+      "server": "vpn.cabang.co.id",
+      "proto": "l2tp",
+      "psk": "rahasiaPSK",
+      "username": "userB",
+      "password": "passB",
+      "notes": "L2TP pakai PSK"
+    }
   ]
 }
