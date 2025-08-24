@@ -1,8 +1,8 @@
 {
-  "version": "1.0.3",
+  "version": "1.1.0",
   "zipUrl": "https://raw.githubusercontent.com/DROISD123/vnc/main/update.zip",
   "notes": "Perbaikan bug dan peningkatan performa",
   "changes": [
-    "update  vpn menu"
+    "bug fix"
   ]
 }
