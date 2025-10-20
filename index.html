@@ -10,27 +10,21 @@
     tailwind.config = { darkMode: 'class' };
   </script>
   <style>
-    /* Haluskan animasi toggle */
     .trans { transition: all .25s ease; }
     body { font-family: 'Inter', ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, 'Apple Color Emoji', 'Segoe UI Emoji'; }
-  
-/* === Mobile Overflow Fixes === */
-html, body { max-width: 100%; overflow-x: hidden; }
-@supports (overflow: clip) {
-  html, body { overflow-x: clip; } /* use clip when available */
-}
-/* Avoid anchor jumps under fixed header & respect safe-areas */
-:root { --sat: env(safe-area-inset-top); --sab: env(safe-area-inset-bottom); }
-[id] { scroll-margin-top: calc(64px + var(--sat, 0px)); }
-/* Ensure media never exceeds viewport width */
-img, video, svg, canvas { max-width: 100%; height: auto; }
-/* Contain paint for big decorative layers so they don't affect layout width */
-.decor, .fx, .glow { contain: paint; }
-/* Force wrap on very long strings */
-* { word-wrap: break-word; overflow-wrap: anywhere; }
 
-</style>
-  <!-- Font -->
+    /* === Mobile Overflow Fixes === */
+    html, body { max-width: 100%; overflow-x: hidden; }
+    @supports (overflow: clip) {
+      html, body { overflow-x: clip; }
+    }
+    :root { --sat: env(safe-area-inset-top); --sab: env(safe-area-inset-bottom); }
+    [id] { scroll-margin-top: calc(64px + var(--sat, 0px)); }
+    img, video, svg, canvas { max-width: 100%; height: auto; }
+    .decor, .fx, .glow { contain: paint; }
+    * { word-wrap: break-word; overflow-wrap: anywhere; }
+    html { scroll-behavior: smooth; }
+  </style>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
@@ -45,7 +39,7 @@ img, video, svg, canvas { max-width: 100%; height: auto; }
           <span class="hidden sm:inline">VNC Launcher</span>
         </a>
         <!-- Desktop nav -->
-        <nav class="hidden md:flex items-center gap-6 text-sm">
+        <nav class="hidden md:flex items-center gap-6 text-sm" aria-label="Navigasi utama">
           <a href="#beranda" class="text-slate-300 hover:text-white">Beranda</a>
           <a href="#fitur" class="text-slate-300 hover:text-white">Fitur</a>
           <a href="#coba" class="text-slate-300 hover:text-white">Contoh</a>
@@ -54,18 +48,18 @@ img, video, svg, canvas { max-width: 100%; height: auto; }
           <a href="#docs" class="text-slate-300 hover:text-white">Dokumentasi</a>
           <a href="#kontak" class="text-slate-300 hover:text-white">Kontak</a>
           <a href="#download" class="rounded-xl bg-white text-slate-900 px-4 py-2 font-semibold hover:bg-slate-100">Download</a>
-          <button data-theme-toggle class="rounded-xl border border-white/15 bg-white/5 p-2 hover:bg-white/10" aria-label="Toggle theme">
+          <button data-theme-toggle class="rounded-xl border border-white/15 bg-white/5 p-2 hover:bg-white/10" aria-label="Toggle tema" aria-pressed="true">
             <!-- Sun -->
-            <svg class="h-4 w-4" viewBox="0 0 24 24" fill="currentColor"><path d="M12 7a5 5 0 1 1 0 10 5 5 0 0 1 0-10Zm0-5h1v3h-1V2Zm0 17h1v3h-1v-3ZM2 11h3v1H2v-1Zm17 0h3v1h-3v-1ZM4.2 4.2l.7-.7 2.1 2.1-.7.7L4.2 4.2Zm12.8 12.8.7-.7 2.1 2.1-.7.7-2.1-2.1ZM4.2 19.8l2.1-2.1.7.7-2.1 2.1-.7-.7Zm12.8-12.8 2.1-2.1.7.7-2.1 2.1-.7-.7Z"/></svg>
+            <svg class="h-4 w-4" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 7a5 5 0 1 1 0 10 5 5 0 0 1 0-10Zm0-5h1v3h-1V2Zm0 17h1v3h-1v-3ZM2 11h3v1H2v-1Zm17 0h3v1h-3v-1ZM4.2 4.2l.7-.7 2.1 2.1-.7.7L4.2 4.2Zm12.8 12.8.7-.7 2.1 2.1-.7.7-2.1-2.1ZM4.2 19.8l2.1-2.1.7.7-2.1 2.1-.7-.7Zm12.8-12.8 2.1-2.1.7.7-2.1 2.1-.7-.7Z"/></svg>
           </button>
         </nav>
         <!-- Mobile -->
         <div class="md:hidden flex items-center gap-2">
-          <button data-theme-toggle class="rounded-xl border border-white/15 bg-white/5 p-2 hover:bg-white/10" aria-label="Toggle theme">
-            <svg class="h-5 w-5" viewBox="0 0 24 24" fill="currentColor"><path d="M21 12.5A9 9 0 1 1 10.5 3a7 7 0 0 0 10.5 9.5Z"/></svg>
+          <button data-theme-toggle class="rounded-xl border border-white/15 bg-white/5 p-2 hover:bg-white/10" aria-label="Toggle tema" aria-pressed="true">
+            <svg class="h-5 w-5" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M21 12.5A9 9 0 1 1 10.5 3a7 7 0 0 0 10.5 9.5Z"/></svg>
           </button>
-          <button id="btnMenu" class="rounded-xl border border-white/15 bg-white/5 p-2 hover:bg-white/10" aria-label="Menu">
-            <svg class="h-5 w-5" viewBox="0 0 24 24" fill="currentColor"><path d="M3 6h18v2H3V6Zm0 5h18v2H3v-2Zm0 5h18v2H3v-2Z"/></svg>
+          <button id="btnMenu" class="rounded-xl border border-white/15 bg-white/5 p-2 hover:bg-white/10" aria-label="Menu" aria-expanded="false" aria-controls="mobilePanel">
+            <svg class="h-5 w-5" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M3 6h18v2H3V6Zm0 5h18v2H3v-2Zm0 5h18v2H3v-2Z"/></svg>
           </button>
         </div>
       </div>
@@ -81,12 +75,10 @@ img, video, svg, canvas { max-width: 100%; height: auto; }
         <a href="#kontak" class="rounded-lg px-2 py-2 text-slate-200 hover:bg-white/10">Kontak</a>
       </div>
     </div>
-  </div>
-</header>
+  </header>
 
   <!-- HERO -->
   <section id="beranda" class="relative overflow-hidden">
-    <!-- Dekorasi background -->
     <div aria-hidden class="pointer-events-none absolute inset-0 overflow-hidden">
       <div class="absolute -top-32 left-1/2 h-[500px] w-[800px] -translate-x-1/2 rounded-full blur-3xl bg-gradient-to-r from-emerald-500/20 via-cyan-500/20 to-indigo-500/20"></div>
       <div class="absolute -bottom-20 -left-20 h-72 w-72 rounded-full bg-emerald-500/10 blur-2xl"></div>
@@ -109,7 +101,7 @@ img, video, svg, canvas { max-width: 100%; height: auto; }
           <div class="mt-8 flex flex-col sm:flex-row gap-3 sm:justify-center lg:justify-start">
             <a href="#coba" class="group inline-flex items-center justify-center gap-2 rounded-2xl px-5 py-3 text-base font-semibold bg-white text-slate-900 hover:bg-slate-100 trans">
               Coba Demo
-              <svg class="h-4 w-4 group-hover:translate-x-0.5 trans" viewBox="0 0 24 24" fill="currentColor"><path d="M13 5l7 7-7 7v-4H4v-6h9V5Z"/></svg>
+              <svg class="h-4 w-4 group-hover:translate-x-0.5 trans" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M13 5l7 7-7 7v-4H4v-6h9V5Z"/></svg>
             </a>
             <a href="#fitur" class="inline-flex items-center justify-center gap-2 rounded-2xl px-5 py-3 text-base font-semibold border border-white/15 bg-white/5 hover:bg-white/10 trans">
               Lihat Fitur
@@ -118,7 +110,6 @@ img, video, svg, canvas { max-width: 100%; height: auto; }
               Download
             </a>
           </div>
-          <!-- Logo row -->
           <div class="mt-10">
             <div class="text-xs uppercase tracking-widest text-slate-400">Dipakai oleh tim IT & NOC</div>
             <div class="mt-4 grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-4 opacity-80">
@@ -131,24 +122,21 @@ img, video, svg, canvas { max-width: 100%; height: auto; }
             </div>
           </div>
         </div>
-          <!-- Mock window -->
-          <div class="lg:col-span-5">
-          <!-- Mock window -->
+        <div class="lg:col-span-5">
           <div class="relative rounded-3xl border border-white/10 bg-white/5 p-4 backdrop-blur">
             <div class="aspect-[4/3] w-full rounded-2xl relative overflow-hidden">
               <img src="1.png" alt="Tampilan VNC Launcher" class="absolute inset-0 w-full h-full object-cover" loading="lazy">
             </div>
-              <div class="absolute inset-0 p-6 grid grid-rows-3 gap-4">
-                <div class="rounded-xl bg-white/10 h-10 w-1/2"></div>
-                <div class="grid grid-cols-3 gap-4">
-                  <div class="rounded-xl bg-white/10"></div>
-                  <div class="rounded-xl bg-white/10"></div>
-                  <div class="rounded-xl bg-white/10"></div>
-                </div>
-                <div class="grid grid-cols-2 gap-4">
-                  <div class="rounded-xl bg-white/10"></div>
-                  <div class="rounded-xl bg-white/10"></div>
-                </div>
+            <div class="absolute inset-0 p-6 grid grid-rows-3 gap-4 pointer-events-none" aria-hidden="true">
+              <div class="rounded-xl bg-white/10 h-10 w-1/2"></div>
+              <div class="grid grid-cols-3 gap-4">
+                <div class="rounded-xl bg-white/10"></div>
+                <div class="rounded-xl bg-white/10"></div>
+                <div class="rounded-xl bg-white/10"></div>
+              </div>
+              <div class="grid grid-cols-2 gap-4">
+                <div class="rounded-xl bg-white/10"></div>
+                <div class="rounded-xl bg-white/10"></div>
               </div>
             </div>
           </div>
@@ -165,11 +153,10 @@ img, video, svg, canvas { max-width: 100%; height: auto; }
         <p class="mt-3 text-slate-300">Desain memukau, performa optimal, dan UX yang berpihak pada pengguna.</p>
       </div>
       <div class="mt-10 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-        <!-- Card -->
         <div class="rounded-3xl border border-white/10 bg-white/5 p-5 backdrop-blur hover:bg-white/10 trans">
           <div class="flex items-center gap-3">
             <div class="rounded-xl border border-white/15 bg-white/10 p-2 text-emerald-300">
-              <svg class="h-5 w-5" viewBox="0 0 24 24" fill="currentColor"><path d="M4 6a2 2 0 0 1 2-2h3v4H4V6Zm0 6h5v4H6a2 2 0 0 1-2-2v-2Zm9-8h3a2 2 0 0 1 2 2v2h-5V4Zm5 8v2a2 2 0 0 1-2 2h-3v-4h5Z"/></svg>
+              <svg class="h-5 w-5" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M4 6a2 2 0 0 1 2-2h3v4H4V6Zm0 6h5v4H6a2 2 0 0 1-2-2v-2Zm9-8h3a2 2 0 0 1 2 2v2h-5V4Zm5 8v2a2 2 0 0 1-2 2h-3v-4h5Z"/></svg>
             </div>
             <h3 class="font-semibold text-lg">Koneksi 1‑Klik</h3>
           </div>
@@ -178,7 +165,7 @@ img, video, svg, canvas { max-width: 100%; height: auto; }
         <div class="rounded-3xl border border-white/10 bg-white/5 p-5 backdrop-blur hover:bg-white/10 trans">
           <div class="flex items-center gap-3">
             <div class="rounded-xl border border-white/15 bg-white/10 p-2 text-emerald-300">
-              <svg class="h-5 w-5" viewBox="0 0 24 24" fill="currentColor"><path d="M3 13h6v8H3v-8Zm12-10h6v18h-6V3Zm-6 6h6v12H9V9Z"/></svg>
+              <svg class="h-5 w-5" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M3 13h6v8H3v-8Zm12-10h6v18h-6V3Zm-6 6h6v12H9V9Z"/></svg>
             </div>
             <h3 class="font-semibold text-lg">Profil & Bookmark</h3>
           </div>
@@ -187,7 +174,7 @@ img, video, svg, canvas { max-width: 100%; height: auto; }
         <div class="rounded-3xl border border-white/10 bg-white/5 p-5 backdrop-blur hover:bg-white/10 trans">
           <div class="flex items-center gap-3">
             <div class="rounded-xl border border-white/15 bg-white/10 p-2 text-emerald-300">
-              <svg class="h-5 w-5" viewBox="0 0 24 24" fill="currentColor"><path d="M7 4h10a2 2 0 0 1 2 2v9H5V6a2 2 0 0 1 2-2Zm-2 13h14v1a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2v-1Z"/></svg>
+              <svg class="h-5 w-5" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M7 4h10a2 2 0 0 1 2 2v9H5V6a2 2 0 0 1 2-2Zm-2 13h14v1a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2v-1Z"/></svg>
             </div>
             <h3 class="font-semibold text-lg">Kontrol Layanan</h3>
           </div>
@@ -196,7 +183,7 @@ img, video, svg, canvas { max-width: 100%; height: auto; }
         <div class="rounded-3xl border border-white/10 bg-white/5 p-5 backdrop-blur hover:bg-white/10 trans">
           <div class="flex items-center gap-3">
             <div class="rounded-xl border border-white/15 bg-white/10 p-2 text-emerald-300">
-              <svg class="h-5 w-5" viewBox="0 0 24 24" fill="currentColor"><path d="M12 3a9 9 0 1 0 9 9h-2A7 7 0 1 1 12 5V3Zm1 1v8l6 3-.8 1.6L11 13V4h2Z"/></svg>
+              <svg class="h-5 w-5" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 3a9 9 0 1 0 9 9h-2A7 7 0 1 1 12 5V3Zm1 1v8l6 3-.8 1.6L11 13V4h2Z"/></svg>
             </div>
             <h3 class="font-semibold text-lg">Auto‑Update</h3>
           </div>
@@ -205,7 +192,7 @@ img, video, svg, canvas { max-width: 100%; height: auto; }
         <div class="rounded-3xl border border-white/10 bg-white/5 p-5 backdrop-blur hover:bg-white/10 trans">
           <div class="flex items-center gap-3">
             <div class="rounded-xl border border-white/15 bg-white/10 p-2 text-emerald-300">
-              <svg class="h-5 w-5" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a2 2 0 1 1 0 4 2 2 0 0 1 0-4Zm-2 6h4l6 2v2h-5v10h-2v-6h-2v6H7V12H2V10l8-2Z"/></svg>
+              <svg class="h-5 w-5" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2a2 2 0 1 1 0 4 2 2 0 0 1 0-4Zm-2 6h4l6 2v2h-5v10h-2v-6h-2v6H7V12H2V10l8-2Z"/></svg>
             </div>
             <h3 class="font-semibold text-lg">Keamanan & Akses</h3>
           </div>
@@ -214,7 +201,7 @@ img, video, svg, canvas { max-width: 100%; height: auto; }
         <div class="rounded-3xl border border-white/10 bg-white/5 p-5 backdrop-blur hover:bg-white/10 trans">
           <div class="flex items-center gap-3">
             <div class="rounded-xl border border-white/15 bg-white/10 p-2 text-emerald-300">
-              <svg class="h-5 w-5" viewBox="0 0 24 24" fill="currentColor"><path d="M5 3h10l4 4v14a2 2 0 0 1-2 2H5V3Zm10 1.5V8h3.5L15 4.5Z"/></svg>
+              <svg class="h-5 w-5" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M5 3h10l4 4v14a2 2 0 0 1-2 2H5V3Zm10 1.5V8h3.5L15 4.5Z"/></svg>
             </div>
             <h3 class="font-semibold text-lg">Log & Audit</h3>
           </div>
@@ -225,7 +212,7 @@ img, video, svg, canvas { max-width: 100%; height: auto; }
   </section>
 
   <!-- SHOWCASE -->
-<section id="coba" class="py-20">
+  <section id="coba" class="py-20">
     <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
       <div class="grid lg:grid-cols-2 gap-8 items-stretch">
         <div class="relative">
@@ -290,14 +277,14 @@ img, video, svg, canvas { max-width: 100%; height: auto; }
           <span id="badgeX86" class="hidden absolute -top-3 right-6 rounded-full bg-emerald-400/10 text-emerald-300 border border-emerald-400/30 text-xs px-3 py-1">Rekomendasi</span>
           <h3 class="text-xl font-bold">Windows x86</h3>
           <p class="mt-1 text-sm text-slate-300">Untuk perangkat lawas 32‑bit.</p>
-          <a href="#" data-dl="x86" class="mt-6 inline-flex w-full items-center justify-center gap-2 rounded-2xl px-4 py-2 font-semibold border border-white/15 hover:bg-white/10 trans">comming son</a>
+          <a href="#" data-dl="x86" class="mt-6 inline-flex w-full items-center justify-center gap-2 rounded-2xl px-4 py-2 font-semibold border border-white/15 hover:bg-white/10 trans">Segera hadir</a>
         </div>
         <div class="rounded-3xl border border-white/10 bg-white/5 p-6 backdrop-blur relative">
           <h3 class="text-xl font-bold">Tools Tambahan</h3>
-          <p class="mt-1 text-sm text-slate-300">WinBox, Ultravnc, dan skrip utilitas.</p>
+          <p class="mt-1 text-sm text-slate-300">WinBox, UltraVNC, dan skrip utilitas.</p>
           <div class="mt-6 grid gap-2">
-            <a href="https://download.mikrotik.com/routeros/winbox/3.42/winbox64.exe" class="inline-flex items-center justify-center rounded-2xl px-4 py-2 text-sm border border-white/15 hover:bg-white/10 trans">WinBox</a>
-            <a href="https://uvnc.com/" class="inline-flex items-center justify-center rounded-2xl px-4 py-2 text-sm border border-white/15 hover:bg-white/10 trans">Ultravnc</a>
+            <a href="https://download.mikrotik.com/routeros/winbox/3.42/winbox64.exe" class="inline-flex items-center justify-center rounded-2xl px-4 py-2 text-sm border border-white/15 hover:bg-white/10 trans" target="_blank" rel="noopener noreferrer">WinBox</a>
+            <a href="https://uvnc.com/" class="inline-flex items-center justify-center rounded-2xl px-4 py-2 text-sm border border-white/15 hover:bg-white/10 trans" target="_blank" rel="noopener noreferrer">UltraVNC</a>
           </div>
         </div>
       </div>
@@ -315,50 +302,47 @@ img, video, svg, canvas { max-width: 100%; height: auto; }
         </div>
         <div class="flex items-center gap-2 text-sm">
           <span id="lblBulanan" class="font-semibold">Bulanan</span>
-          <button id="toggleYearly" role="switch" aria-checked="true" class="h-6 w-11 rounded-full border border-white/15 bg-white/10 px-0.5 relative">
+          <button id="toggleYearly" role="switch" aria-checked="false" class="h-6 w-11 rounded-full border border-white/15 bg-white/10 px-0.5 relative" aria-label="Bayar tahunan">
             <span id="knob" class="absolute top-0.5 left-[2px] h-5 w-5 rounded-full bg-white shadow"></span>
           </button>
           <span id="lblTahunan" class="text-slate-400">Tahunan</span>
         </div>
       </div>
       <div class="mt-10 grid gap-6 md:grid-cols-3">
-        <!-- Starter -->
         <div class="rounded-3xl border border-white/10 bg-white/5 p-6 backdrop-blur relative" data-monthly="0">
           <h3 class="text-xl font-bold">Free</h3>
           <p class="mt-1 text-sm text-slate-300">Untuk penggunaan personal & uji coba.</p>
           <div class="mt-6 flex items-baseline gap-1"><div class="text-4xl font-extrabold">$<span class="priceValue">0</span></div><div class="text-slate-400 priceSuffix">/bulan</div></div>
           <ul class="mt-6 space-y-2 text-sm">
-            <li class="flex items-start gap-2"><svg class="h-4 w-4 mt-0.5" viewBox="0 0 24 24" fill="currentColor"><path d="M9 16.2 4.8 12l1.4-1.4L9 13.4l8.8-8.8L19.2 6 9 16.2Z"/></svg>Koneksi 1‑klik</li>
-            <li class="flex items-start gap-2"><svg class="h-4 w-4 mt-0.5" viewBox="0 0 24 24" fill="currentColor"><path d="M9 16.2 4.8 12l1.4-1.4L9 13.4l8.8-8.8L19.2 6 9 16.2Z"/></svg>1 teknisi</li>
-            <li class="flex items-start gap-2"><svg class="h-4 w-4 mt-0.5" viewBox="0 0 24 24" fill="currentColor"><path d="M9 16.2 4.8 12l1.4-1.4L9 13.4l8.8-8.8L19.2 6 9 16.2Z"/></svg>Hingga 50 host</li>
-            <li class="flex items-start gap-2"><svg class="h-4 w-4 mt-0.5" viewBox="0 0 24 24" fill="currentColor"><path d="M9 16.2 4.8 12l1.4-1.4L9 13.4l8.8-8.8L19.2 6 9 16.2Z"/></svg>Email support komunitas</li>
+            <li class="flex items-start gap-2"><svg class="h-4 w-4 mt-0.5" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M9 16.2 4.8 12l1.4-1.4L9 13.4l8.8-8.8L19.2 6 9 16.2Z"/></svg>Koneksi 1‑klik</li>
+            <li class="flex items-start gap-2"><svg class="h-4 w-4 mt-0.5" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M9 16.2 4.8 12l1.4-1.4L9 13.4l8.8-8.8L19.2 6 9 16.2Z"/></svg>1 teknisi</li>
+            <li class="flex items-start gap-2"><svg class="h-4 w-4 mt-0.5" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M9 16.2 4.8 12l1.4-1.4L9 13.4l8.8-8.8L19.2 6 9 16.2Z"/></svg>Hingga 50 host</li>
+            <li class="flex items-start gap-2"><svg class="h-4 w-4 mt-0.5" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M9 16.2 4.8 12l1.4-1.4L9 13.4l8.8-8.8L19.2 6 9 16.2Z"/></svg>Email support komunitas</li>
           </ul>
           <a href="#kontak" class="mt-6 inline-flex w-full items-center justify-center gap-2 rounded-2xl px-4 py-2 font-semibold border border-white/15 hover:bg-white/10 trans">Mulai gratis</a>
         </div>
-        <!-- Pro -->
         <div class="rounded-3xl border border-emerald-400/40 bg-white/5 p-6 backdrop-blur relative" data-monthly="19">
           <span class="absolute -top-3 right-6 rounded-full bg-emerald-400/10 text-emerald-300 border border-emerald-400/30 text-xs px-3 py-1">Paling populer</span>
           <h3 class="text-xl font-bold">Pro</h3>
           <p class="mt-1 text-sm text-slate-300">Untuk helpdesk & tim IT yang berkembang.</p>
           <div class="mt-6 flex items-baseline gap-1"><div class="text-4xl font-extrabold">$<span class="priceValue">19</span></div><div class="text-slate-400 priceSuffix">/bulan</div></div>
           <ul class="mt-6 space-y-2 text-sm">
-            <li class="flex items-start gap-2"><svg class="h-4 w-4 mt-0.5" viewBox="0 0 24 24" fill="currentColor"><path d="M9 16.2 4.8 12l1.4-1.4L9 13.4l8.8-8.8L19.2 6 9 16.2Z"/></svg>Semua fitur Free</li>
-            <li class="flex items-start gap-2"><svg class="h-4 w-4 mt-0.5" viewBox="0 0 24 24" fill="currentColor"><path d="M9 16.2 4.8 12l1.4-1.4L9 13.4l8.8-8.8L19.2 6 9 16.2Z"/></svg>5 teknisi</li>
-            <li class="flex items-start gap-2"><svg class="h-4 w-4 mt-0.5" viewBox="0 0 24 24" fill="currentColor"><path d="M9 16.2 4.8 12l1.4-1.4L9 13.4l8.8-8.8L19.2 6 9 16.2Z"/></svg>Analytics & log lanjutan</li>
-            <li class="flex items-start gap-2"><svg class="h-4 w-4 mt-0.5" viewBox="0 0 24 24" fill="currentColor"><path d="M9 16.2 4.8 12l1.4-1.4L9 13.4l8.8-8.8L19.2 6 9 16.2Z"/></svg>Integrasi WinBox/RDP (opsional)</li>
+            <li class="flex items-start gap-2"><svg class="h-4 w-4 mt-0.5" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M9 16.2 4.8 12l1.4-1.4L9 13.4l8.8-8.8L19.2 6 9 16.2Z"/></svg>Semua fitur Free</li>
+            <li class="flex items-start gap-2"><svg class="h-4 w-4 mt-0.5" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M9 16.2 4.8 12l1.4-1.4L9 13.4l8.8-8.8L19.2 6 9 16.2Z"/></svg>5 teknisi</li>
+            <li class="flex items-start gap-2"><svg class="h-4 w-4 mt-0.5" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M9 16.2 4.8 12l1.4-1.4L9 13.4l8.8-8.8L19.2 6 9 16.2Z"/></svg>Analytics & log lanjutan</li>
+            <li class="flex items-start gap-2"><svg class="h-4 w-4 mt-0.5" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M9 16.2 4.8 12l1.4-1.4L9 13.4l8.8-8.8L19.2 6 9 16.2Z"/></svg>Integrasi WinBox/RDP (opsional)</li>
           </ul>
           <a href="#kontak" class="mt-6 inline-flex w-full items-center justify-center gap-2 rounded-2xl px-4 py-2 font-semibold bg-emerald-400 text-slate-900 hover:bg-emerald-300 trans">Pilih Pro</a>
         </div>
-        <!-- Business -->
         <div class="rounded-3xl border border-white/10 bg-white/5 p-6 backdrop-blur relative" data-monthly="49">
           <h3 class="text-xl font-bold">Enterprise</h3>
           <p class="mt-1 text-sm text-slate-300">Untuk NOC/enterprise dengan kebutuhan skala besar.</p>
           <div class="mt-6 flex items-baseline gap-1"><div class="text-4xl font-extrabold">$<span class="priceValue">49</span></div><div class="text-slate-400 priceSuffix">/bulan</div></div>
           <ul class="mt-6 space-y-2 text-sm">
-            <li class="flex items-start gap-2"><svg class="h-4 w-4 mt-0.5" viewBox="0 0 24 24" fill="currentColor"><path d="M9 16.2 4.8 12l1.4-1.4L9 13.4l8.8-8.8L19.2 6 9 16.2Z"/></svg>Semua fitur Pro</li>
-            <li class="flex items-start gap-2"><svg class="h-4 w-4 mt-0.5" viewBox="0 0 24 24" fill="currentColor"><path d="M9 16.2 4.8 12l1.4-1.4L9 13.4l8.8-8.8L19.2 6 9 16.2Z"/></svg>Teknisi & host tak terbatas</li>
-            <li class="flex items-start gap-2"><svg class="h-4 w-4 mt-0.5" viewBox="0 0 24 24" fill="currentColor"><path d="M9 16.2 4.8 12l1.4-1.4L9 13.4l8.8-8.8L19.2 6 9 16.2Z"/></svg>SSO (Azure/Google) & audit</li>
-            <li class="flex items-start gap-2"><svg class="h-4 w-4 mt-0.5" viewBox="0 0 24 24" fill="currentColor"><path d="M9 16.2 4.8 12l1.4-1.4L9 13.4l8.8-8.8L19.2 6 9 16.2Z"/></svg>SLA support prioritas</li>
+            <li class="flex items-start gap-2"><svg class="h-4 w-4 mt-0.5" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M9 16.2 4.8 12l1.4-1.4L9 13.4l8.8-8.8L19.2 6 9 16.2Z"/></svg>Semua fitur Pro</li>
+            <li class="flex items-start gap-2"><svg class="h-4 w-4 mt-0.5" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M9 16.2 4.8 12l1.4-1.4L9 13.4l8.8-8.8L19.2 6 9 16.2Z"/></svg>Teknisi & host tak terbatas</li>
+            <li class="flex items-start gap-2"><svg class="h-4 w-4 mt-0.5" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M9 16.2 4.8 12l1.4-1.4L9 13.4l8.8-8.8L19.2 6 9 16.2Z"/></svg>SSO (Azure/Google) & audit</li>
+            <li class="flex items-start gap-2"><svg class="h-4 w-4 mt-0.5" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M9 16.2 4.8 12l1.4-1.4L9 13.4l8.8-8.8L19.2 6 9 16.2Z"/></svg>SLA support prioritas</li>
           </ul>
           <a href="#kontak" class="mt-6 inline-flex w-full items-center justify-center gap-2 rounded-2xl px-4 py-2 font-semibold border border-white/15 hover:bg-white/10 trans">Hubungi sales</a>
         </div>
@@ -375,10 +359,10 @@ img, video, svg, canvas { max-width: 100%; height: auto; }
           <p id="testiQuote" class="text-lg leading-relaxed">“VNC Launcher memotong waktu koneksi kami dari menit jadi detik.”</p>
           <div id="testiMeta" class="mt-5 text-sm text-slate-300">Arif • IT Support, Retail 300+ cabang</div>
         </div>
-        <div class="mt-4 flex justify-center gap-2">
-          <button class="dot h-2.5 w-2.5 rounded-full bg-white" aria-label="Testimonial 1"></button>
-          <button class="dot h-2.5 w-2.5 rounded-full bg-white/30" aria-label="Testimonial 2"></button>
-          <button class="dot h-2.5 w-2.5 rounded-full bg-white/30" aria-label="Testimonial 3"></button>
+        <div class="mt-4 flex justify-center gap-2" role="tablist" aria-label="Testimoni">
+          <button class="dot h-2.5 w-2.5 rounded-full bg-white" aria-label="Testimonial 1" role="tab"></button>
+          <button class="dot h-2.5 w-2.5 rounded-full bg-white/30" aria-label="Testimonial 2" role="tab"></button>
+          <button class="dot h-2.5 w-2.5 rounded-full bg-white/30" aria-label="Testimonial 3" role="tab"></button>
         </div>
       </div>
     </div>
@@ -390,15 +374,15 @@ img, video, svg, canvas { max-width: 100%; height: auto; }
       <h2 class="text-3xl sm:text-4xl font-bold text-center">FAQ</h2>
       <div class="mt-8 space-y-3">
         <div class="rounded-2xl border border-white/10 bg-white/5">
-          <button class="faq-q w-full flex items-center justify-between gap-4 px-5 py-4"><span class="text-left font-medium">VNC apa yang didukung?</span><span class="text-slate-300">+</span></button>
+          <button class="faq-q w-full flex items-center justify-between gap-4 px-5 py-4" aria-expanded="false"><span class="text-left font-medium">VNC apa yang didukung?</span><span class="text-slate-300">+</span></button>
           <div class="faq-a hidden px-5 pb-4 text-slate-300 text-sm">UltraVNC (direkomendasikan). Kompatibel dengan TightVNC & viewer lain melalui argumen CLI yang bisa dikustom.</div>
         </div>
         <div class="rounded-2xl border border-white/10 bg-white/5">
-          <button class="faq-q w-full flex items-center justify-between gap-4 px-5 py-4"><span class="text-left font-medium">Apakah butuh hak admin?</span><span class="text-slate-300">+</span></button>
+          <button class="faq-q w-full flex items-center justify-between gap-4 px-5 py-4" aria-expanded="false"><span class="text-left font-medium">Apakah butuh hak admin?</span><span class="text-slate-300">+</span></button>
           <div class="faq-a hidden px-5 pb-4 text-slate-300 text-sm">Hak admin diperlukan untuk kontrol layanan/restart. Untuk membuka viewer VNC biasa tidak selalu diperlukan.</div>
         </div>
         <div class="rounded-2xl border border-white/10 bg-white/5">
-          <button class="faq-q w-full flex items-center justify-between gap-4 px-5 py-4"><span class="text-left font-medium">Bagaimana update aplikasi?</span><span class="text-slate-300">+</span></button>
+          <button class="faq-q w-full flex items-center justify-between gap-4 px-5 py-4" aria-expanded="false"><span class="text-left font-medium">Bagaimana update aplikasi?</span><span class="text-slate-300">+</span></button>
           <div class="faq-a hidden px-5 pb-4 text-slate-300 text-sm">Mendukung auto‑update diam (GitHub/FTP) dengan verifikasi file. Bisa dinonaktifkan untuk lingkungan offline.</div>
         </div>
       </div>
@@ -462,7 +446,7 @@ shutdown /r /t 0  # restart mesin</code></pre>
           <label class="inline-flex items-center gap-2"><input type="radio" name="via" value="wa"> WhatsApp</label>
         </div>
         <div class="grid sm:grid-cols-[1fr_auto] gap-3">
-          <div class="text-left text-xs text-slate-400">Tip: ubah alamat tujuan </div>
+          <div class="text-left text-xs text-slate-400">Tip: ubah alamat tujuan</div>
           <button class="rounded-2xl bg-white text-slate-900 font-semibold px-4 py-3 hover:bg-slate-100 trans">Kirim</button>
         </div>
       </form>
@@ -511,7 +495,7 @@ shutdown /r /t 0  # restart mesin</code></pre>
 
   <!-- Back to top -->
   <button id="backToTop" aria-label="Kembali ke atas" class="hidden fixed bottom-5 right-5 rounded-full border border-white/15 bg-white/10 p-3 backdrop-blur hover:bg-white/20">
-    <svg class="h-5 w-5" viewBox="0 0 24 24" fill="currentColor"><path d="M12 4 5 11h4v8h6v-8h4l-7-7Z"/></svg>
+    <svg class="h-5 w-5" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 4 5 11h4v8h6v-8h4l-7-7Z"/></svg>
   </button>
 
   <script>
@@ -523,7 +507,7 @@ shutdown /r /t 0  # restart mesin</code></pre>
     const CONTACT_EMAIL = 'indranurianto12@gmail.com';
     const WA_NUMBER = '6281234567890'; // ganti ke nomor WhatsApp Anda
     const DL = {
-      x64: '#', // ganti ke URL installer x64, contoh: 'https://domain.com/VNC-Launcher-Setup-x64.exe'
+      x64: '#', // ganti ke URL installer x64 jika berbeda dari markup
       x86: '#', // ganti ke URL installer x86
       winbox: '#',
       viewer: '#'
@@ -548,15 +532,26 @@ shutdown /r /t 0  # restart mesin</code></pre>
 
     // Mobile menu
     $('#btnMenu').addEventListener('click', () => {
-      $('#mobilePanel').classList.toggle('hidden');
+      const mp = $('#mobilePanel');
+      const expanded = mp.classList.toggle('hidden');
+      $('#btnMenu').setAttribute('aria-expanded', (!expanded).toString());
     });
 
-    // Theme toggle (dark <-> light)
-    $$("[data-theme-toggle]").forEach(btn => {
-      btn.addEventListener('click', () => {
-        document.documentElement.classList.toggle('dark');
-      });
-    });
+    // Theme toggle (persist ke localStorage & hormati prefers-color-scheme)
+    const THEME_KEY = 'vnc-theme';
+    const applyTheme = (mode) => {
+      const root = document.documentElement;
+      if (mode === 'dark') root.classList.add('dark'); else root.classList.remove('dark');
+      $$('[data-theme-toggle]').forEach(b => b.setAttribute('aria-pressed', (mode === 'dark').toString()));
+    };
+    const stored = localStorage.getItem(THEME_KEY);
+    const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+    applyTheme(stored || (prefersDark ? 'dark' : 'light'));
+    $$('[data-theme-toggle]').forEach(btn => btn.addEventListener('click', () => {
+      const isDark = document.documentElement.classList.toggle('dark');
+      localStorage.setItem(THEME_KEY, isDark ? 'dark' : 'light');
+      $$('[data-theme-toggle]').forEach(b => b.setAttribute('aria-pressed', isDark.toString()));
+    }));
 
     // Download helper: deteksi OS & arsitektur (perkiraan)
     function detectWinArch(){
@@ -569,13 +564,14 @@ shutdown /r /t 0  # restart mesin</code></pre>
       const {isWin, arch} = detectWinArch();
       const x64Btn = document.querySelector('[data-dl="x64"]');
       const x86Btn = document.querySelector('[data-dl="x86"]');
-      if (x64Btn) x64Btn.setAttribute('href', DL.x64);
-      if (x86Btn) x86Btn.setAttribute('href', DL.x86);
-      // Badge rekomendasi
+      // Hanya override href jika DL.* diset bukan '#'
+      if (x64Btn && DL.x64 && DL.x64 !== '#') x64Btn.setAttribute('href', DL.x64);
+      if (x86Btn && DL.x86 && DL.x86 !== '#') x86Btn.setAttribute('href', DL.x86);
+      // Badge rekomendasi & teks
       if (isWin) {
         document.getElementById(arch === 'x64' ? 'badgeX64' : 'badgeX86')?.classList.remove('hidden');
-        const msg = `Rekomendasi: Windows ${arch.toUpperCase()}`;
-        const t = document.getElementById('dlRecoText'); if (t) t.textContent = msg;
+        const t = document.getElementById('dlRecoText');
+        if (t) t.textContent = `Rekomendasi: Windows ${arch.toUpperCase()}`;
       }
     }
 
@@ -585,18 +581,17 @@ shutdown /r /t 0  # restart mesin</code></pre>
     let yearly = false;
     function renderPricing(){
       $$('.priceSuffix').forEach(el => el.textContent = yearly ? '/tahun' : '/bulan');
-      $$('.priceValue', document).forEach((el) => {
+      $$('.priceValue').forEach((el) => {
         const card = el.closest('[data-monthly]');
         const m = parseInt(card.dataset.monthly, 10);
         el.textContent = yearly ? Math.round(m * 10) : m;
       });
-      // label styles
       $('#lblBulanan').className = yearly ? 'text-slate-400' : 'font-semibold';
       $('#lblTahunan').className = yearly ? 'font-semibold' : 'text-slate-400';
       knob.style.left = yearly ? '22px' : '2px';
+      toggle.setAttribute('aria-checked', yearly.toString());
     }
-    toggle.addEventListener('click', () => { yearly = !yearly; renderPricing();
-    setupDownloads(); });
+    toggle.addEventListener('click', () => { yearly = !yearly; renderPricing(); });
     renderPricing();
 
     // Testimonials carousel
@@ -605,16 +600,19 @@ shutdown /r /t 0  # restart mesin</code></pre>
       { q: 'Teknisi baru langsung bisa pakai berkat profil host & koneksi 1‑klik.', m: 'Maya • Head of Helpdesk, EduTech' },
       { q: 'Kontrol layanan & restart jarak jauh sangat menghemat kunjungan onsite.', m: 'Rudi • NOC Engineer, ISP Regional' },
     ];
-    let ti = 0;
+    let ti = 0; let testiTimer;
     function setTesti(i){
-      ti = i % testi.length;
+      ti = (i + testi.length) % testi.length;
       $('#testiQuote').textContent = '“' + testi[ti].q + '”';
       $('#testiMeta').textContent = testi[ti].m;
       $$('.dot').forEach((d, idx) => d.className = 'dot h-2.5 w-2.5 rounded-full ' + (idx===ti ? 'bg-white' : 'bg-white/30'));
     }
-    $$('.dot').forEach((d, idx) => d.addEventListener('click', () => setTesti(idx)));
-    setInterval(() => setTesti(ti + 1), 4200);
-    setTesti(0);
+    $$('.dot').forEach((d, idx) => d.addEventListener('click', () => { setTesti(idx); restartTesti(); }));
+    function restartTesti(){
+      if (testiTimer) clearInterval(testiTimer);
+      testiTimer = setInterval(() => setTesti(ti + 1), 4200);
+    }
+    setTesti(0); restartTesti();
 
     // FAQ accordion
     $$('.faq-q').forEach((btn) => {
@@ -622,7 +620,9 @@ shutdown /r /t 0  # restart mesin</code></pre>
         const a = btn.parentElement.querySelector('.faq-a');
         a.classList.toggle('hidden');
         const sign = btn.querySelector('span:last-child');
-        sign.textContent = a.classList.contains('hidden') ? '+' : '–';
+        const expanded = !a.classList.contains('hidden');
+        sign.textContent = expanded ? '–' : '+';
+        btn.setAttribute('aria-expanded', expanded.toString());
       });
     });
 
@@ -632,21 +632,24 @@ shutdown /r /t 0  # restart mesin</code></pre>
       cf.addEventListener('submit', (e) => {
         e.preventDefault();
         const data = new FormData(cf);
-        const via = data.get('via') || 'email';
+        const via = (data.get('via') || 'email').toString();
         const name = (data.get('name') || '').toString();
         const email = (data.get('email') || '').toString();
         const message = (data.get('message') || '').toString();
         if (via === 'wa') {
-          const text = `Halo, saya ${name}.%0A%0A${encodeURIComponent(message)}`;
+          const text = encodeURIComponent(`Halo, saya ${name}.\n\n${message}`);
           const url = `https://wa.me/${WA_NUMBER}?text=${text}`;
-          window.open(url, '_blank');
+          window.open(url, '_blank', 'noopener');
         } else {
           const subject = `VNC Launcher — Permintaan Demo (${name})`;
-          const body = `Nama: ${name}%0AEmail: ${email}%0A%0APesan:%0A${encodeURIComponent(message)}`;
-          window.location.href = `mailto:${CONTACT_EMAIL}?subject=${encodeURIComponent(subject)}&body=${body}`;
+          const body = `Nama: ${name}\nEmail: ${email}\n\nPesan:\n${message}`;
+          window.location.href = `mailto:${CONTACT_EMAIL}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
         }
       });
     }
+
+    // Init
+    setupDownloads();
   </script>
 </body>
 </html>
