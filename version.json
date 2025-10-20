@@ -4,5 +4,6 @@
   "notes": "Perbaikan bug dan peningkatan performa",
   "changes": [
     "bug fix"
+    "penambahan sql"
   ]
 }
