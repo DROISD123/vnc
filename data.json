@@ -37,7 +37,9 @@
     "NAMA": "MEKONGGA INDAH",
     "IP": "10.54.49.242",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "F5AX",
@@ -85,7 +87,9 @@
     "NAMA": "BARUGA KENDARI",
     "IP": "10.54.136.210",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "F5CN",
@@ -133,7 +137,9 @@
     "NAMA": "POROS FATUFIA - MOROWALI",
     "IP": "10.54.72.50",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "F5FX",
@@ -181,7 +187,9 @@
     "NAMA": "MOH HATTA KENDARI",
     "IP": "10.54.140.242",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "F8HA",
@@ -229,7 +237,9 @@
     "NAMA": "SORUMBA NO. 41 - KENDARI",
     "IP": "10.54.72.242",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "F8LF",
@@ -277,7 +287,9 @@
     "NAMA": "TOPOGARO - MOROWALI",
     "IP": "10.54.59.82",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "FBP2",
@@ -325,7 +337,9 @@
     "NAMA": "ADE IRMA NASUTION",
     "IP": "10.54.138.146",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "FI07",
@@ -373,7 +387,9 @@
     "NAMA": "WATULONDO KENDARI",
     "IP": "10.54.8.178",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "FKO6",
@@ -429,7 +445,9 @@
     "NAMA": "PEMUDA KOLAKA",
     "IP": "10.54.7.178",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "FLA2",
@@ -477,7 +495,9 @@
     "NAMA": "TAHOA KOLAKA",
     "IP": "10.54.34.146",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "FMTM",
@@ -525,7 +545,9 @@
     "NAMA": "MOKOAU KENDARI",
     "IP": "10.54.141.210",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "FNQ9",
@@ -573,7 +595,9 @@
     "NAMA": "PONGGOLAKA KENDARI",
     "IP": "10.54.140.210",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "FP0A",
@@ -621,7 +645,9 @@
     "NAMA": "TOUBUUHA - KENDARI",
     "IP": "10.54.71.210",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "FQ9W",
@@ -653,7 +679,9 @@
     "NAMA": "PANGERAN ANTASARI",
     "IP": "10.54.142.114",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "FT4U",
@@ -741,7 +769,9 @@
     "NAMA": "BTN AZATA KENDARI",
     "IP": "10.54.143.210",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "FUOI",
@@ -797,7 +827,9 @@
     "NAMA": "HEA MOKODOMPIT",
     "IP": "10.54.137.146",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "FVBV",
@@ -845,7 +877,9 @@
     "NAMA": "AMBESEA - KONAWE SELATAN",
     "IP": "10.54.69.50",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "FW5E",
@@ -893,7 +927,9 @@
     "NAMA": "WUNDULAKO - KOLAKA",
     "IP": "10.54.28.82",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "FWSW",
@@ -925,7 +961,9 @@
     "NAMA": "PELAMBUA KOLAKA",
     "IP": "10.54.44.18",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "FYLH",
@@ -981,7 +1019,9 @@
     "NAMA": "KEUREA NO 17 MOROWALI",
     "IP": "10.54.55.18",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "T0CY",
@@ -1053,7 +1093,9 @@
     "NAMA": "MARSAOLEH MOROWALI",
     "IP": "10.54.15.50",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "T0DD",
@@ -1101,7 +1143,9 @@
     "NAMA": "FATUFIA NO. 12 - MOROWALI",
     "IP": "10.54.71.50",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "T0IS",
@@ -1149,7 +1193,9 @@
     "NAMA": "LABOTA NO 44",
     "IP": "10.54.68.50",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "T0JW",
@@ -1205,7 +1251,9 @@
     "NAMA": "ANDOWIA - KONAWE UTARA",
     "IP": "10.54.119.82",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "T0PD",
@@ -1253,7 +1301,9 @@
     "NAMA": "UEPAI NO. 55",
     "IP": "10.54.52.178",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "T1AF",
@@ -1301,7 +1351,9 @@
     "NAMA": "HEA MOKODOMPIT N0 26 KENDARI",
     "IP": "10.54.137.82",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "T1CW",
@@ -1325,7 +1377,9 @@
     "NAMA": "POROS LADONGI 26 -  KOLAKA TIMUR",
     "IP": "10.54.45.114",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "T1HJ",
@@ -1397,7 +1451,9 @@
     "NAMA": "BARANGKA NO 12 MUNA BARAT",
     "IP": "10.54.135.146",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "T1HN",
@@ -1445,7 +1501,9 @@
     "NAMA": "PAKUE TENGAH - KOLAKA UTARA",
     "IP": "10.54.123.178",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "T1UV",
@@ -1493,7 +1551,9 @@
     "NAMA": "GERSAMATA LABUNGKARI",
     "IP": "10.54.142.178",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "T29C",
@@ -1565,7 +1625,9 @@
     "NAMA": "MH THAMRIN NO 18 MUNA",
     "IP": "10.54.65.146",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "T2AY",
@@ -1605,7 +1667,9 @@
     "NAMA": "MARUGE - KOLAKA UTARA",
     "IP": "10.54.123.146",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "T2DA",
@@ -1637,7 +1701,9 @@
     "NAMA": "TIWU - KOLAKA UTARA",
     "IP": "10.54.29.114",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "T2JJ",
@@ -1709,7 +1775,9 @@
     "NAMA": "LALAMPU MOROWALI",
     "IP": "10.54.29.178",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "T2QE",
@@ -1757,7 +1825,9 @@
     "NAMA": "LASAMPI MOROWALI",
     "IP": "10.54.77.82",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "T3J5",
@@ -1781,7 +1851,9 @@
     "NAMA": "SPBU BAHODOPI - MOROWALI",
     "IP": "10.54.124.18",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "T3TA",
@@ -1869,7 +1941,9 @@
     "NAMA": "TUGU EREKE BUTON UTARA",
     "IP": "10.54.70.242",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "T3X2",
@@ -1917,7 +1991,9 @@
     "NAMA": "LAMPOPALA BOMBANA",
     "IP": "10.54.19.242",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "T4EK",
@@ -1941,7 +2017,9 @@
     "NAMA": "EMEA - MOROWALI",
     "IP": "10.54.121.18",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "T523",
@@ -2021,7 +2099,9 @@
     "NAMA": "BAHOMOTEFE NO. 27 - MOROWALI",
     "IP": "10.54.55.146",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "T54C",
@@ -2061,7 +2141,9 @@
     "NAMA": "GERESSA MOROWALI MOROWALI",
     "IP": "10.54.67.210",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "T5C9",
@@ -2093,7 +2175,9 @@
     "NAMA": "PURIALA KONAWE",
     "IP": "10.54.92.114",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "T5FJ",
@@ -2173,7 +2257,9 @@
     "NAMA": "JEND. SUDIRMAN NO. 1 - BUTON TENGAH",
     "IP": "10.54.50.82",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "T5Z6",
@@ -2221,7 +2307,9 @@
     "NAMA": "PRAMUKA 27 KOLAKA",
     "IP": "10.54.25.146",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "T6EM",
@@ -2269,7 +2357,9 @@
     "NAMA": "MULAENO BOMBANA",
     "IP": "10.54.115.178",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "T6OG",
@@ -2325,7 +2415,9 @@
     "NAMA": "TOPOGARO NO 53 MOROWALI",
     "IP": "10.54.136.146",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "T7FU",
@@ -2373,7 +2465,9 @@
     "NAMA": "BUNDARAN KTM BUNGKU MOROWALI",
     "IP": "10.54.46.178",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "T7W5",
@@ -2429,7 +2523,9 @@
     "NAMA": "BAHOMAKMUR 2 BLOK D - MOROWALI",
     "IP": "10.54.46.210",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "T8G9",
@@ -2477,7 +2573,9 @@
     "NAMA": "TIWORO TENGAH MUNA BARAT",
     "IP": "10.54.76.178",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "T8YH",
@@ -2525,7 +2623,9 @@
     "NAMA": "TIWORO KEPULAUAN NO 94",
     "IP": "10.54.101.146",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "T8Z5",
@@ -2565,7 +2665,9 @@
     "NAMA": "RANTEANGIN-KOLAKA UTARA",
     "IP": "10.54.100.178",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "T92S",
@@ -2629,7 +2731,9 @@
     "NAMA": "TRANS BAHOMAKMUR MOROWALI",
     "IP": "10.54.53.242",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "T94P",
@@ -2685,7 +2789,9 @@
     "NAMA": "RATE-RATE NO.86 KOLAKA TIMUR",
     "IP": "10.54.50.210",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "T9BN",
@@ -2741,7 +2847,9 @@
     "NAMA": "BATUPUTIH KOLAKA UTARA",
     "IP": "10.54.124.178",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "T9R0",
@@ -2797,7 +2905,9 @@
     "NAMA": "KEUREA - MOROWALI",
     "IP": "10.54.67.146",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "T9RZ",
@@ -2821,7 +2931,9 @@
     "NAMA": "DURIASI KONAWE",
     "IP": "10.54.23.114",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "T9SY",
@@ -2901,7 +3013,9 @@
     "NAMA": "BUNGKU TENGAH",
     "IP": "10.54.54.82",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TAAB",
@@ -2957,7 +3071,9 @@
     "NAMA": "WOLO KOLAKA",
     "IP": "10.54.32.82",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TAAZ",
@@ -3005,7 +3121,9 @@
     "NAMA": "BAHODOPI NO. 80 MOROWALI",
     "IP": "10.54.59.50",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TAB7",
@@ -3053,7 +3171,9 @@
     "NAMA": "WOLASI",
     "IP": "10.54.118.178",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TABG",
@@ -3101,7 +3221,9 @@
     "NAMA": "JENDRAL SUDIRMAN 94",
     "IP": "10.54.47.178",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TABL",
@@ -3141,7 +3263,9 @@
     "NAMA": "ONEMBUTE KONAWE",
     "IP": "10.54.98.242",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TADD",
@@ -3197,7 +3321,9 @@
     "NAMA": "POLIPOLIA KOLAKA TIMUR",
     "IP": "10.54.98.210",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TAFG",
@@ -3253,7 +3379,9 @@
     "NAMA": "YOS SUDARSO",
     "IP": "10.54.27.242",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TAFO",
@@ -3277,7 +3405,9 @@
     "NAMA": "KOLONO KONSEL",
     "IP": "10.54.75.114",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TAGH",
@@ -3365,7 +3495,9 @@
     "NAMA": "BAHODOPI NO 84 MOROWALI",
     "IP": "10.54.139.146",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TAHE",
@@ -3413,7 +3545,9 @@
     "NAMA": "POROS LAINEA",
     "IP": "10.54.99.50",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TAIQ",
@@ -3437,7 +3571,9 @@
     "NAMA": "INOWA",
     "IP": "10.54.112.114",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TAMN",
@@ -3493,7 +3629,9 @@
     "NAMA": "WAWOTOBI KONAWE",
     "IP": "10.54.107.18",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TAOT",
@@ -3541,7 +3679,9 @@
     "NAMA": "ABADI - KOLAKA",
     "IP": "10.54.39.18",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TARK",
@@ -3597,7 +3737,9 @@
     "NAMA": "MASAGENA KONAWE SELATAN",
     "IP": "10.54.89.242",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TATF",
@@ -3629,7 +3771,9 @@
     "NAMA": "LABOTA NO 37 MOROWALI",
     "IP": "10.54.134.114",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TAUF",
@@ -3701,7 +3845,9 @@
     "NAMA": "BRIGJEND KATAMSO",
     "IP": "10.54.66.178",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TAVX",
@@ -3757,7 +3903,9 @@
     "NAMA": "BASALAH - KONSEL",
     "IP": "10.54.73.146",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TBB6",
@@ -3805,7 +3953,9 @@
     "NAMA": "PONGGAWA KONAWE",
     "IP": "10.54.107.50",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TBCC",
@@ -3853,7 +4003,9 @@
     "NAMA": "LANOWULU KONSEL",
     "IP": "10.54.90.146",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TBDA",
@@ -3909,7 +4061,9 @@
     "NAMA": "JENDSUD LAODE PULU MUNA",
     "IP": "10.54.76.146",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TBDD",
@@ -3957,7 +4111,9 @@
     "NAMA": "MORAMO 99",
     "IP": "10.54.71.147",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TBDS",
@@ -3997,7 +4153,9 @@
     "NAMA": "LALOLAE KOLAKA TIMUR",
     "IP": "10.54.118.210",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TBER",
@@ -4053,7 +4211,9 @@
     "NAMA": "AEPODU",
     "IP": "10.54.75.82",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TBFV",
@@ -4101,7 +4261,9 @@
     "NAMA": "RANOOHA",
     "IP": "10.54.144.178",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TBGS",
@@ -4141,7 +4303,9 @@
     "NAMA": "POROS WONGGEDUKU BARAT",
     "IP": "10.54.98.82",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TBIO",
@@ -4189,7 +4353,9 @@
     "NAMA": "WR MONGINSIDI",
     "IP": "10.54.68.178",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TBJX",
@@ -4237,7 +4403,9 @@
     "NAMA": "POTORO",
     "IP": "10.54.112.210",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TBJZ",
@@ -4285,7 +4453,9 @@
     "NAMA": "SANGI SANGI",
     "IP": "10.54.98.50",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TBKU",
@@ -4325,7 +4495,9 @@
     "NAMA": "AMERORO KONAWE",
     "IP": "10.54.143.18",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TBUR",
@@ -4389,7 +4561,9 @@
     "NAMA": "PRAMUKA KENDARI",
     "IP": "10.54.50.242",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TBZH",
@@ -4453,7 +4627,9 @@
     "NAMA": "BUDI UTOMO KENDARI",
     "IP": "10.54.66.50",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TBZZ",
@@ -4509,7 +4685,9 @@
     "NAMA": "KEUREA NO.45 MOROWALI",
     "IP": "10.54.73.178",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TC4B",
@@ -4541,7 +4719,9 @@
     "NAMA": "KEUREA NO 35 MOROWALI",
     "IP": "10.54.74.114",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TC9Z",
@@ -4605,7 +4785,9 @@
     "NAMA": "LANTARI JAYA",
     "IP": "10.54.92.210",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TCAV",
@@ -4661,7 +4843,9 @@
     "NAMA": "JENDRAL SUDIRMAN TUOY",
     "IP": "10.54.86.210",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TCBE",
@@ -4701,7 +4885,9 @@
     "NAMA": "RANOEYA",
     "IP": "10.54.90.242",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TCER",
@@ -4749,7 +4935,9 @@
     "NAMA": "IR SOEKARNO KONAWE",
     "IP": "10.54.111.82",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TCMY",
@@ -4797,7 +4985,9 @@
     "NAMA": "MOWEWE KOLAKA TIMUR",
     "IP": "10.54.124.82",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TCNX",
@@ -4853,7 +5043,9 @@
     "NAMA": "DIM POROS BENUA",
     "IP": "10.54.115.242",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TCQN",
@@ -4901,7 +5093,9 @@
     "NAMA": "GAJAH MADA NO 96",
     "IP": "10.54.143.242",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TCR6",
@@ -4957,7 +5151,9 @@
     "NAMA": "BAMBAEA",
     "IP": "10.54.92.146",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TCWV",
@@ -5005,7 +5201,9 @@
     "NAMA": "KODEOHA KOLAKA UTARA",
     "IP": "10.54.143.178",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TCYJ",
@@ -5045,7 +5243,9 @@
     "NAMA": "MODOMPIT",
     "IP": "10.54.91.82",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TCZM",
@@ -5093,7 +5293,9 @@
     "NAMA": "POROS MOROSI",
     "IP": "10.54.90.210",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TDOG",
@@ -5141,7 +5343,9 @@
     "NAMA": "BOEPINANG",
     "IP": "10.54.122.210",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TDOZ",
@@ -5197,7 +5401,9 @@
     "NAMA": "BUNGGOUSU KONAWE",
     "IP": "10.54.51.210",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TDTL",
@@ -5245,7 +5451,9 @@
     "NAMA": "ABELISAWAH",
     "IP": "10.54.112.50",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TDUO",
@@ -5269,7 +5477,9 @@
     "NAMA": "HALUOLEO KONAWE",
     "IP": "10.54.107.114",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TDWE",
@@ -5317,7 +5527,9 @@
     "NAMA": "LALOWARU",
     "IP": "10.54.125.18",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TECW",
@@ -5397,7 +5609,9 @@
     "NAMA": "BENTE - MOROWALI",
     "IP": "10.54.118.82",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TED7",
@@ -5429,7 +5643,9 @@
     "NAMA": "BUMI RAYA - MOROWALI",
     "IP": "10.54.68.18",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TEJ6",
@@ -5525,7 +5741,9 @@
     "NAMA": "MAYJEND SOETOYO KENDARI",
     "IP": "10.54.34.178",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TELW",
@@ -5565,7 +5783,9 @@
     "NAMA": "RAROWATU",
     "IP": "10.54.93.18",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TEOR",
@@ -5613,7 +5833,9 @@
     "NAMA": "TOFOGARO NO 36 MOROWALI",
     "IP": "10.54.137.18",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TER1",
@@ -5677,7 +5899,9 @@
     "NAMA": "LANDONO",
     "IP": "10.54.103.82",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TETZ",
@@ -5717,7 +5941,9 @@
     "NAMA": "MAYJEND KATAMSO",
     "IP": "10.54.124.146",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TEVW",
@@ -5749,7 +5975,9 @@
     "NAMA": "PUNGGALUKU KONAWE SELATAN",
     "IP": "10.54.110.18",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TEWC",
@@ -5805,7 +6033,9 @@
     "NAMA": "POROS POMALA -KOLAKA",
     "IP": "10.54.124.114",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TEWN",
@@ -5877,7 +6107,9 @@
     "NAMA": "RATERATE KOLAKA TIMUR",
     "IP": "10.54.122.178",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TEWV",
@@ -5925,7 +6157,9 @@
     "NAMA": "LADONGI KOLAKA TIMUR",
     "IP": "10.54.123.50",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TEXP",
@@ -5989,7 +6223,9 @@
     "NAMA": "PELAMBUA KOLAKA",
     "IP": "10.54.24.178",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TF3S",
@@ -6013,7 +6249,9 @@
     "NAMA": "JENSUD BOMBANA",
     "IP": "10.54.114.18",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TFAK",
@@ -6085,7 +6323,9 @@
     "NAMA": "TIWORO SELATAN - MUNA BARAT",
     "IP": "10.54.106.82",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TFI9",
@@ -6133,7 +6373,9 @@
     "NAMA": "WONGGEDUKU KONAWE",
     "IP": "10.54.105.242",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TFIM",
@@ -6181,7 +6423,9 @@
     "NAMA": "DOULE",
     "IP": "10.54.93.50",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TFOF",
@@ -6213,7 +6457,9 @@
     "NAMA": "TAWAINALU KOLAKA TIMUR",
     "IP": "10.54.64.114",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TFS5",
@@ -6269,7 +6515,9 @@
     "NAMA": "POROS LAPOA",
     "IP": "10.54.99.18",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TGPK",
@@ -6341,7 +6589,9 @@
     "NAMA": "JEND SUDIRMAN NO 14 BUTON",
     "IP": "10.54.141.50",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TGQQ",
@@ -6389,7 +6639,9 @@
     "NAMA": "WAEMPUTANG BOMBANA",
     "IP": "10.54.98.178",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "THDD",
@@ -6413,7 +6665,9 @@
     "NAMA": "NAMBO KENDARI",
     "IP": "10.54.144.82",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "THU0",
@@ -6453,7 +6707,9 @@
     "NAMA": "LASEHAO KABAWO - MUNA",
     "IP": "10.54.76.210",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "THU0",
@@ -6485,7 +6741,9 @@
     "NAMA": "KAPONTORI BUTON",
     "IP": "10.54.77.18",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "THYQ",
@@ -6541,7 +6799,9 @@
     "NAMA": "BAHOMOTEFE MOROWALI",
     "IP": "10.54.92.178",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "THYX",
@@ -6573,7 +6833,9 @@
     "NAMA": "BAHODOPI NO 10 MOROWALI",
     "IP": "10.54.137.114",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TI7U",
@@ -6645,7 +6907,9 @@
     "NAMA": "WATOPUTE NO 33 MUNA",
     "IP": "10.54.105.146",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TIJQ",
@@ -6693,7 +6957,9 @@
     "NAMA": "LABOTA NO 60 MOROWALI",
     "IP": "10.54.134.178",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TIK5",
@@ -6749,7 +7015,9 @@
     "NAMA": "KEURE NO 97 MOROWALI",
     "IP": "10.54.140.50",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TIMJ",
@@ -6805,7 +7073,9 @@
     "NAMA": "MOWILA KONAWE SELATAN",
     "IP": "10.54.118.146",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TIRV",
@@ -6853,7 +7123,9 @@
     "NAMA": "LAMERORO BOMBANA",
     "IP": "10.54.113.242",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TITW",
@@ -6917,7 +7189,9 @@
     "NAMA": "POROS LABOTA MOROWALI",
     "IP": "10.54.57.242",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TIVG",
@@ -6965,7 +7239,9 @@
     "NAMA": "LASALIMU AMBUAU - BUTON",
     "IP": "10.54.101.82",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TJ2Y",
@@ -6989,7 +7265,9 @@
     "NAMA": "BUKE KONSEL",
     "IP": "10.54.98.114",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TJBQ",
@@ -7069,7 +7347,9 @@
     "NAMA": "SAPATI KONAWE",
     "IP": "10.54.145.82",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TJBV",
@@ -7125,7 +7405,9 @@
     "NAMA": "MOOLO INDAH",
     "IP": "10.54.112.242",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TJER",
@@ -7181,7 +7463,9 @@
     "NAMA": "TOFOGARO NO. 21 - MOROWALI",
     "IP": "10.54.74.178",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TJIR",
@@ -7213,7 +7497,9 @@
     "NAMA": "RAKADUA BOMBANA",
     "IP": "10.54.98.18",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TJNE",
@@ -7301,7 +7587,9 @@
     "NAMA": "RANOMEETO KONAWE SELATAN",
     "IP": "10.54.188.210",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TJPG",
@@ -7365,7 +7653,9 @@
     "NAMA": "JENDRAL SUDIRMAN UNAAHA",
     "IP": "10.54.107.210",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TKAL",
@@ -7421,7 +7711,9 @@
     "NAMA": "POASIA KENDARI",
     "IP": "10.54.135.50",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TKG7",
@@ -7469,7 +7761,9 @@
     "NAMA": "AHMAD YANI WAWOTOBI",
     "IP": "10.54.110.242",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TKNL",
@@ -7533,7 +7827,9 @@
     "NAMA": "BAHODOPI NO. 39 MOROWALI",
     "IP": "10.54.48.210",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TKNY",
@@ -7581,7 +7877,9 @@
     "NAMA": "BULELENG NO. 93 - MOROWALI",
     "IP": "10.54.101.50",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TKNZ",
@@ -7605,7 +7903,9 @@
     "NAMA": "WIWIRANO - KONAWE UTARA",
     "IP": "10.54.27.114",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TKRZ",
@@ -7653,7 +7953,9 @@
     "NAMA": "BATUGONG KONAWE",
     "IP": "10.54.75.18",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TKWH",
@@ -7725,7 +8027,9 @@
     "NAMA": "LASOLO KONAWE UTARA",
     "IP": "10.54.73.82",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TLCR",
@@ -7773,7 +8077,9 @@
     "NAMA": "KEUREA NO. 146 - MOROWALI",
     "IP": "10.54.55.210",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TLXY",
@@ -7805,7 +8111,9 @@
     "NAMA": "KHAIRIL ANWAR KOLAKA",
     "IP": "10.54.100.18",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TMM8",
@@ -7861,7 +8169,9 @@
     "NAMA": "SAMPARA KONAWE",
     "IP": "10.54.99.82",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TMOM",
@@ -7925,7 +8235,9 @@
     "NAMA": "PROTOKOL TUGU NANAS BUTON",
     "IP": "10.54.68.82",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TMRQ",
@@ -7973,7 +8285,9 @@
     "NAMA": "FATUFIA NO 55 MOROWALI",
     "IP": "10.54.12.146",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TMVM",
@@ -8005,7 +8319,9 @@
     "NAMA": "HADI SUWANDA KOLTIM",
     "IP": "10.54.44.114",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TN81",
@@ -8069,7 +8385,9 @@
     "NAMA": "REPALITA",
     "IP": "10.54.123.82",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TNAT",
@@ -8101,7 +8419,9 @@
     "NAMA": "POROS LASUSUA",
     "IP": "10.54.123.18",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TNEP",
@@ -8197,7 +8517,9 @@
     "NAMA": "POROS MOTAHA KONAWE SELAT",
     "IP": "10.54.75.178",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TNFC",
@@ -8277,7 +8599,9 @@
     "NAMA": "LAUTE KENDARI",
     "IP": "10.54.66.146",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TNJP",
@@ -8357,7 +8681,9 @@
     "NAMA": "SULTAN QAIMUDDIN",
     "IP": "10.54.26.50",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TNOP",
@@ -8413,7 +8739,9 @@
     "NAMA": "ANGGOEYA KENDARI",
     "IP": "10.54.141.242",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TNUJ",
@@ -8437,7 +8765,9 @@
     "NAMA": "POROS KONAWE",
     "IP": "10.54.85.18",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TNZC",
@@ -8509,7 +8839,9 @@
     "NAMA": "TEPPOE BOMBANA",
     "IP": "10.54.113.210",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TOEG",
@@ -8533,7 +8865,9 @@
     "NAMA": "LAMBAI-KOLAKA UTARA",
     "IP": "10.54.123.114",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TOFJ",
@@ -8621,7 +8955,9 @@
     "NAMA": "MESJID RAYA KOLAKA",
     "IP": "10.54.39.82",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TOKA",
@@ -8653,7 +8989,9 @@
     "NAMA": "BANDARA HALUOLEO",
     "IP": "10.54.49.114",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TOKJ",
@@ -8733,7 +9071,9 @@
     "NAMA": "DAMPALA NO 30 MOROWALI",
     "IP": "10.54.16.210",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TOOE",
@@ -8765,7 +9105,9 @@
     "NAMA": "KONDARA KOLAKA UTARA",
     "IP": "10.54.119.18",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TOU5",
@@ -8829,7 +9171,9 @@
     "NAMA": "TRANS BAHOMAKMUR NO 88 MOROWALI",
     "IP": "10.54.138.242",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TOUY",
@@ -8877,7 +9221,9 @@
     "NAMA": "BAHOMAKMUR BLOK C MOROWALI",
     "IP": "10.54.73.210",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TOVM",
@@ -8933,7 +9279,9 @@
     "NAMA": "LAWA NO. 6 - MUNA BARAT",
     "IP": "10.54.76.242",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TOX7",
@@ -8957,7 +9305,9 @@
     "NAMA": "MAWASANGKA TENGAH NO 22",
     "IP": "10.54.143.114",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TOZD",
@@ -9013,7 +9363,9 @@
     "NAMA": "PALANGGA SELATAN",
     "IP": "10.54.118.114",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TPEC",
@@ -9085,7 +9437,9 @@
     "NAMA": "BAHOMOHONI NO. 51 - MOROWALI",
     "IP": "10.54.49.146",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TPFP",
@@ -9109,7 +9463,9 @@
     "NAMA": "SOLONSA JAYA  MOROWALI",
     "IP": "10.54.76.114",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TPG6",
@@ -9205,7 +9561,9 @@
     "NAMA": "AHMAD YANI NO 125 KENDARI",
     "IP": "10.54.189.50",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TPIC",
@@ -9245,7 +9603,9 @@
     "NAMA": "LABOTA NO 22 MOROWALI",
     "IP": "10.54.135.114",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TPII",
@@ -9309,7 +9669,9 @@
     "NAMA": "LAPAI",
     "IP": "10.54.122.242",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TPIW",
@@ -9357,7 +9719,9 @@
     "NAMA": "ANEKA MARGA BOMBANA",
     "IP": "10.54.123.242",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TPRB",
@@ -9413,7 +9777,9 @@
     "NAMA": "GUNUNG JAYA  KOLTIM",
     "IP": "10.54.123.210",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TPRW",
@@ -9461,7 +9827,9 @@
     "NAMA": "TIRAWUTA",
     "IP": "10.54.71.242",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TPTW",
@@ -9525,7 +9893,9 @@
     "NAMA": "BAHOMAKMUR BLOK E",
     "IP": "10.54.140.82",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TQ1Z",
@@ -9581,7 +9951,9 @@
     "NAMA": "MUH YAMIN KENDARI",
     "IP": "10.54.122.146",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TQ8F",
@@ -9637,7 +10009,9 @@
     "NAMA": "LAMBANDIA KOLAKA TIMUR",
     "IP": "10.54.124.210",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TQEX",
@@ -9669,7 +10043,9 @@
     "NAMA": "TAMPO NO 94 MUNA",
     "IP": "10.54.105.18",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TQFT",
@@ -9741,7 +10117,9 @@
     "NAMA": "LASALEPA MUNA",
     "IP": "10.54.138.210",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TQZQ",
@@ -9773,7 +10151,9 @@
     "NAMA": "PUTE MATA - KOLAKA TIMUR",
     "IP": "10.54.15.18",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TREB",
@@ -9853,7 +10233,9 @@
     "NAMA": "BATAS KOTA",
     "IP": "10.54.73.242",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TRQN",
@@ -9917,7 +10299,9 @@
     "NAMA": "MORAMO KONAWE SELATAN",
     "IP": "10.54.75.50",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TRZL",
@@ -9973,7 +10357,9 @@
     "NAMA": "LALAMPU NO 144 MOROWALI",
     "IP": "10.54.137.50",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TS1B",
@@ -10021,7 +10407,9 @@
     "NAMA": "WOSU NO. 31 - MOROWALI",
     "IP": "10.54.124.50",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TS2W",
@@ -10069,7 +10457,9 @@
     "NAMA": "BUNGKU PESISIR MOROWALI",
     "IP": "10.54.68.210",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TS5P",
@@ -10109,7 +10499,9 @@
     "NAMA": "LAMBUYA KONAWE",
     "IP": "10.54.92.242",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TSDO",
@@ -10165,7 +10557,9 @@
     "NAMA": "POLEANG BOMBANA",
     "IP": "10.54.48.242",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TSI2",
@@ -10213,7 +10607,9 @@
     "NAMA": "AMBUNU NO 29 MOROWALI",
     "IP": "10.54.135.82",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TSVH",
@@ -10261,7 +10657,9 @@
     "NAMA": "ANGGOPIU",
     "IP": "10.54.34.50",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TTBA",
@@ -10309,7 +10707,9 @@
     "NAMA": "LANTULA JAYA - MOROWALI",
     "IP": "10.54.44.50",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TTBL",
@@ -10357,7 +10757,9 @@
     "NAMA": "ONEPUTE JAYA NO 15 MOROWALI",
     "IP": "10.54.63.242",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TTCD",
@@ -10421,7 +10823,9 @@
     "NAMA": "MAYJEND S PARMAN KENDARI",
     "IP": "10.54.66.242",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TTRW",
@@ -10493,7 +10897,9 @@
     "NAMA": "WAWOLURI KONAWE UTARA",
     "IP": "10.54.77.178",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TU4S",
@@ -10541,7 +10947,9 @@
     "NAMA": "ABELI - KENDARI",
     "IP": "10.54.135.178",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TUBL",
@@ -10589,7 +10997,9 @@
     "NAMA": "POLEANG UTARA",
     "IP": "10.54.98.146",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TVDZ",
@@ -10637,7 +11047,9 @@
     "NAMA": "TOLALA - KOLAKA UTARA",
     "IP": "10.54.119.50",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TVE5",
@@ -10693,7 +11105,9 @@
     "NAMA": "TINANGGEA KONAWE SELATAN",
     "IP": "10.54.83.178",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TVGZ",
@@ -10733,7 +11147,9 @@
     "NAMA": "D.I PANJAITAN NO 186 KENDARI",
     "IP": "10.54.70.114",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TVHM",
@@ -10805,7 +11221,9 @@
     "NAMA": "PONDIDAHA KONAWE",
     "IP": "10.54.75.146",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TVIJ",
@@ -10845,7 +11263,9 @@
     "NAMA": "PADABAHO NO 2 MOROWALI",
     "IP": "10.54.58.114",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TVYL",
@@ -10909,7 +11329,9 @@
     "NAMA": "MOLAWE - KONAWE UTARA",
     "IP": "10.54.82.50",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TWHL",
@@ -10949,7 +11371,9 @@
     "NAMA": "ASERA 96 KONAWE UTARA",
     "IP": "10.54.13.114",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TWJG",
@@ -10997,7 +11421,9 @@
     "NAMA": "SAWA KONAWE UTARA",
     "IP": "10.54.144.146",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TWYO",
@@ -11037,7 +11463,9 @@
     "NAMA": "ANGGALOMOARE KONAWE",
     "IP": "10.54.51.242",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TWYO",
@@ -11085,7 +11513,9 @@
     "NAMA": "TONGKUNO NO 125 MUNA",
     "IP": "10.54.138.178",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TX0Z",
@@ -11133,7 +11563,9 @@
     "NAMA": "MT HARYONO KENDARI",
     "IP": "10.54.56.114",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TX9P",
@@ -11213,7 +11645,9 @@
     "NAMA": "PENANGGO JAYA KOLAKA TIMUR",
     "IP": "10.54.52.210",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TXAD",
@@ -11261,7 +11695,9 @@
     "NAMA": "19 NOPEMBER (GS)",
     "IP": "10.54.27.210",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TXBQ",
@@ -11309,7 +11745,9 @@
     "NAMA": "BAHODOPI - MOROWALI",
     "IP": "10.54.100.50",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TXJJ",
@@ -11349,7 +11787,9 @@
     "NAMA": "KABANGKA MUNA",
     "IP": "10.54.135.18",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TXOR",
@@ -11413,7 +11853,9 @@
     "NAMA": "KONTUKOWUNA MUNA",
     "IP": "10.54.136.178",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TY53",
@@ -11469,7 +11911,9 @@
     "NAMA": "LANGGIKIMA NO.10 KONUT",
     "IP": "10.54.53.178",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TY9G",
@@ -11525,7 +11969,9 @@
     "NAMA": "KAPTEN PIERE TENDEAN",
     "IP": "10.54.66.114",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TZDA",
@@ -11605,7 +12051,9 @@
     "NAMA": "POROS MAKARTI JAYA NO 66 MOROWALI",
     "IP": "10.54.136.242",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TZMA",
@@ -11653,7 +12101,9 @@
     "NAMA": "TRANS BAHOMAKMUR NO. 30 - MOROWALI",
     "IP": "10.54.78.50",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TZQ9",
@@ -11693,7 +12143,9 @@
     "NAMA": "POROS BANDARA AMBAIPUA",
     "IP": "10.54.110.50",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TZSP",
@@ -11757,7 +12209,9 @@
     "NAMA": "KULISUSU NO 40 BUTON UTARA",
     "IP": "10.54.58.242",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TZWP",
@@ -11789,7 +12243,9 @@
     "NAMA": "TRANS BAHOMAKMUR NO 20 MOROWALI",
     "IP": "10.54.139.18",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TZZR",
@@ -11861,7 +12317,9 @@
     "NAMA": "WOLTER MONGINSIDI BAU-BAU",
     "IP": "10.54.134.146",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "FC1H",
@@ -11885,7 +12343,9 @@
     "NAMA": "PALM BEACH  BAUBAU",
     "IP": "10.54.51.114",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "T1TL",
@@ -11957,7 +12417,9 @@
     "NAMA": "KOKALUKUNA BAU BAU",
     "IP": "10.54.50.178",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "T3ES",
@@ -12005,7 +12467,9 @@
     "NAMA": "POROS ANOA BUNGI BAU-BAU",
     "IP": "10.54.54.210",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "T4N1",
@@ -12053,7 +12517,9 @@
     "NAMA": "BUDI UTOMO BAU-BAU",
     "IP": "10.54.53.210",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "T4WQ",
@@ -12101,7 +12567,9 @@
     "NAMA": "BETOAMBARI UJUNG",
     "IP": "10.54.52.242",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "T6DH",
@@ -12149,7 +12617,9 @@
     "NAMA": "WOLIO INDAH BAU BAU",
     "IP": "10.54.51.146",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TCM9",
@@ -12197,7 +12667,9 @@
     "NAMA": "BATARAGURU NO 174 BAU-BAU",
     "IP": "10.54.139.210",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TMZU",
@@ -12221,7 +12693,9 @@
     "NAMA": "PATTIMURA - BAU-BAU",
     "IP": "10.54.54.18",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TR8S",
@@ -12293,7 +12767,9 @@
     "NAMA": "BETOAMBARI NO. 77 - BAU BAU",
     "IP": "10.54.49.210",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TRAO",
@@ -12349,7 +12825,9 @@
     "NAMA": "R.A. KARTINI NO 14 BAU BAU",
     "IP": "10.54.134.210",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "FTP_USER": "posterm",
+    "FTP_PASS": "dAZAD9yq"
   },
   {
     "TOKO": "TRGZ",
