@@ -13,7 +13,9 @@
     "NAMA": "MEKONGGA INDAH",
     "IP": "10.54.49.225",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "F5AX",
@@ -47,7 +49,9 @@
     "NAMA": "MEKONGGA INDAH",
     "IP": "10.54.49.244",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "F5AX",
@@ -63,7 +67,9 @@
     "NAMA": "BARUGA KENDARI",
     "IP": "10.54.136.193",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "F5CN",
@@ -97,7 +103,9 @@
     "NAMA": "BARUGA KENDARI",
     "IP": "10.54.136.212",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "F5CN",
@@ -113,7 +121,9 @@
     "NAMA": "POROS FATUFIA - MOROWALI",
     "IP": "10.54.72.33",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "F5FX",
@@ -147,7 +157,9 @@
     "NAMA": "POROS FATUFIA - MOROWALI",
     "IP": "10.54.72.52",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "F5FX",
@@ -163,7 +175,9 @@
     "NAMA": "MOH HATTA KENDARI",
     "IP": "10.54.140.225",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "F8HA",
@@ -197,7 +211,9 @@
     "NAMA": "MOH HATTA KENDARI",
     "IP": "10.54.140.244",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "F8HA",
@@ -213,7 +229,9 @@
     "NAMA": "SORUMBA NO. 41 - KENDARI",
     "IP": "10.54.72.225",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "F8LF",
@@ -247,7 +265,9 @@
     "NAMA": "SORUMBA NO. 41 - KENDARI",
     "IP": "10.54.72.244",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "F8LF",
@@ -263,7 +283,9 @@
     "NAMA": "TOPOGARO - MOROWALI",
     "IP": "10.54.59.65",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "FBP2",
@@ -297,7 +319,9 @@
     "NAMA": "TOPOGARO - MOROWALI",
     "IP": "10.54.59.84",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "FBP2",
@@ -313,7 +337,9 @@
     "NAMA": "ADE IRMA NASUTION",
     "IP": "10.54.138.129",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "FI07",
@@ -347,7 +373,9 @@
     "NAMA": "ADE IRMA NASUTION",
     "IP": "10.54.138.148",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "FI07",
@@ -363,7 +391,9 @@
     "NAMA": "WATULONDO KENDARI",
     "IP": "10.54.8.161",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "FKO6",
@@ -397,7 +427,9 @@
     "NAMA": "WATULONDO KENDARI",
     "IP": "10.54.8.180",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "FKO6",
@@ -413,7 +445,9 @@
     "NAMA": "PEMUDA KOLAKA",
     "IP": "10.54.7.161",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "FLA2",
@@ -455,7 +489,9 @@
     "NAMA": "PEMUDA KOLAKA",
     "IP": "10.54.7.180",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "FLA2",
@@ -471,7 +507,9 @@
     "NAMA": "TAHOA KOLAKA",
     "IP": "10.54.34.129",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "FMTM",
@@ -505,7 +543,9 @@
     "NAMA": "TAHOA KOLAKA",
     "IP": "10.54.34.148",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "FMTM",
@@ -521,7 +561,9 @@
     "NAMA": "MOKOAU KENDARI",
     "IP": "10.54.141.193",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "FNQ9",
@@ -555,7 +597,9 @@
     "NAMA": "MOKOAU KENDARI",
     "IP": "10.54.141.212",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "FNQ9",
@@ -571,7 +615,9 @@
     "NAMA": "PONGGOLAKA KENDARI",
     "IP": "10.54.140.193",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "FP0A",
@@ -605,7 +651,9 @@
     "NAMA": "PONGGOLAKA KENDARI",
     "IP": "10.54.140.212",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "FP0A",
@@ -621,7 +669,9 @@
     "NAMA": "TOUBUUHA - KENDARI",
     "IP": "10.54.71.193",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "FQ9W",
@@ -655,7 +705,9 @@
     "NAMA": "TOUBUUHA - KENDARI",
     "IP": "10.54.71.212",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "FQ9W",
@@ -689,7 +741,9 @@
     "NAMA": "PANGERAN ANTASARI",
     "IP": "10.54.142.116",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "FT4U",
@@ -713,7 +767,9 @@
     "NAMA": "PANGERAN ANTASARI",
     "IP": "10.54.142.97",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "FT4U",
@@ -737,7 +793,9 @@
     "NAMA": "BTN AZATA KENDARI",
     "IP": "10.54.143.193",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "FUOI",
@@ -779,7 +837,9 @@
     "NAMA": "BTN AZATA KENDARI",
     "IP": "10.54.143.212",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "FUOI",
@@ -803,7 +863,9 @@
     "NAMA": "HEA MOKODOMPIT",
     "IP": "10.54.137.129",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "FVBV",
@@ -837,7 +899,9 @@
     "NAMA": "HEA MOKODOMPIT",
     "IP": "10.54.137.148",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "FVBV",
@@ -853,7 +917,9 @@
     "NAMA": "AMBESEA - KONAWE SELATAN",
     "IP": "10.54.69.33",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "FW5E",
@@ -887,7 +953,9 @@
     "NAMA": "AMBESEA - KONAWE SELATAN",
     "IP": "10.54.69.52",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "FW5E",
@@ -903,7 +971,9 @@
     "NAMA": "WUNDULAKO - KOLAKA",
     "IP": "10.54.28.65",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "FWSW",
@@ -937,7 +1007,9 @@
     "NAMA": "WUNDULAKO - KOLAKA",
     "IP": "10.54.28.84",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "FWSW",
@@ -953,7 +1025,9 @@
     "NAMA": "PELAMBUA KOLAKA",
     "IP": "10.54.44.1",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "FYLH",
@@ -979,7 +1053,9 @@
     "NAMA": "PELAMBUA KOLAKA",
     "IP": "10.54.44.20",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "FYLH",
@@ -1011,7 +1087,9 @@
     "NAMA": "KEUREA NO 17 MOROWALI",
     "IP": "10.54.55.1",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "T0CY",
@@ -1037,7 +1115,9 @@
     "NAMA": "KEUREA NO 17 MOROWALI",
     "IP": "10.54.55.20",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "T0CY",
@@ -1061,7 +1141,9 @@
     "NAMA": "MARSAOLEH MOROWALI",
     "IP": "10.54.15.33",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "T0DD",
@@ -1103,7 +1185,9 @@
     "NAMA": "MARSAOLEH MOROWALI",
     "IP": "10.54.15.52",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "T0DD",
@@ -1119,7 +1203,9 @@
     "NAMA": "FATUFIA NO. 12 - MOROWALI",
     "IP": "10.54.71.33",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "T0IS",
@@ -1153,7 +1239,9 @@
     "NAMA": "FATUFIA NO. 12 - MOROWALI",
     "IP": "10.54.71.52",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "T0IS",
@@ -1203,7 +1291,9 @@
     "NAMA": "LABOTA NO 44",
     "IP": "10.54.68.52",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "T0JW",
@@ -1261,7 +1351,9 @@
     "NAMA": "ANDOWIA - KONAWE UTARA",
     "IP": "10.54.119.84",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "T0PD",
@@ -1277,7 +1369,9 @@
     "NAMA": "UEPAI NO. 55",
     "IP": "10.54.52.161",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "T1AF",
@@ -1311,7 +1405,9 @@
     "NAMA": "UEPAI NO. 55",
     "IP": "10.54.52.180",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "T1AF",
@@ -1327,7 +1423,9 @@
     "NAMA": "HEA MOKODOMPIT N0 26 KENDARI",
     "IP": "10.54.137.65",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "T1CW",
@@ -1361,7 +1459,9 @@
     "NAMA": "HEA MOKODOMPIT N0 26 KENDARI",
     "IP": "10.54.137.84",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "T1CW",
@@ -1387,7 +1487,9 @@
     "NAMA": "POROS LADONGI 26 -  KOLAKA TIMUR",
     "IP": "10.54.45.116",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "T1HJ",
@@ -1403,7 +1505,9 @@
     "NAMA": "POROS LADONGI 26 -  KOLAKA TIMUR",
     "IP": "10.54.45.97",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "T1HJ",
@@ -1427,7 +1531,9 @@
     "NAMA": "BARANGKA NO 12 MUNA BARAT",
     "IP": "10.54.135.129",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "T1HN",
@@ -1461,7 +1567,9 @@
     "NAMA": "BARANGKA NO 12 MUNA BARAT",
     "IP": "10.54.135.148",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "T1HN",
@@ -1511,7 +1619,9 @@
     "NAMA": "PAKUE TENGAH - KOLAKA UTARA",
     "IP": "10.54.123.180",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "T1UV",
@@ -1527,7 +1637,9 @@
     "NAMA": "GERSAMATA LABUNGKARI",
     "IP": "10.54.142.161",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "T29C",
@@ -1561,7 +1673,9 @@
     "NAMA": "GERSAMATA LABUNGKARI",
     "IP": "10.54.142.180",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "T29C",
@@ -1585,7 +1699,9 @@
     "NAMA": "MH THAMRIN NO 18 MUNA",
     "IP": "10.54.65.129",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "T2AY",
@@ -1635,7 +1751,9 @@
     "NAMA": "MH THAMRIN NO 18 MUNA",
     "IP": "10.54.65.148",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "T2AY",
@@ -1677,7 +1795,9 @@
     "NAMA": "MARUGE - KOLAKA UTARA",
     "IP": "10.54.123.148",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "T2DA",
@@ -1693,7 +1813,9 @@
     "NAMA": "MARUGE - KOLAKA UTARA",
     "IP": "10.54.123.158",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "T2JJ",
@@ -1711,7 +1833,9 @@
     "NAMA": "TIWU - KOLAKA UTARA",
     "IP": "10.54.29.116",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "T2JJ",
@@ -1727,7 +1851,9 @@
     "NAMA": "TIWU - KOLAKA UTARA",
     "IP": "10.54.29.97",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "T2JJ",
@@ -1751,7 +1877,9 @@
     "NAMA": "LALAMPU MOROWALI",
     "IP": "10.54.29.161",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "T2QE",
@@ -1785,7 +1913,9 @@
     "NAMA": "LALAMPU MOROWALI",
     "IP": "10.54.29.180",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "T2QE",
@@ -1835,7 +1965,9 @@
     "NAMA": "LASAMPI MOROWALI",
     "IP": "10.54.77.84",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "T3J5",
@@ -1869,7 +2001,9 @@
     "NAMA": "SPBU BAHODOPI - MOROWALI",
     "IP": "10.54.124.20",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "T3TA",
@@ -1893,7 +2027,9 @@
     "NAMA": "SPBU BAHODOPI - MOROWALI",
     "IP": "10.54.124.30",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "T3TA",
@@ -1909,7 +2045,9 @@
     "NAMA": "TUGU EREKE BUTON UTARA",
     "IP": "10.54.70.225",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "T3X2",
@@ -1951,7 +2089,9 @@
     "NAMA": "TUGU EREKE BUTON UTARA",
     "IP": "10.54.70.244",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "T3X2",
@@ -1967,7 +2107,9 @@
     "NAMA": "LAMPOPALA BOMBANA",
     "IP": "10.54.19.225",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "T4EK",
@@ -2001,7 +2143,9 @@
     "NAMA": "LAMPOPALA BOMBANA",
     "IP": "10.54.19.244",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "T4EK",
@@ -2035,7 +2179,9 @@
     "NAMA": "EMEA - MOROWALI",
     "IP": "10.54.121.20",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "T523",
@@ -2059,7 +2205,9 @@
     "NAMA": "EMEA - MOROWALI",
     "IP": "10.54.121.30",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "T523",
@@ -2075,7 +2223,9 @@
     "NAMA": "BAHOMOTEFE NO. 27 - MOROWALI",
     "IP": "10.54.55.129",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "T54C",
@@ -2109,7 +2259,9 @@
     "NAMA": "BAHOMOTEFE NO. 27 - MOROWALI",
     "IP": "10.54.55.148",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "T54C",
@@ -2151,7 +2303,9 @@
     "NAMA": "GERESSA MOROWALI MOROWALI",
     "IP": "10.54.67.212",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "T5C9",
@@ -2167,7 +2321,9 @@
     "NAMA": "GERESSA MOROWALI MOROWALI",
     "IP": "10.54.67.222",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "T5FJ",
@@ -2185,7 +2341,9 @@
     "NAMA": "PURIALA KONAWE",
     "IP": "10.54.92.116",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "T5FJ",
@@ -2225,7 +2383,9 @@
     "NAMA": "JEND. SUDIRMAN NO. 1 - BUTON TENGAH",
     "IP": "10.54.50.65",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "T5Z6",
@@ -2267,7 +2427,9 @@
     "NAMA": "JEND. SUDIRMAN NO. 1 - BUTON TENGAH",
     "IP": "10.54.50.84",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "T5Z6",
@@ -2283,7 +2445,9 @@
     "NAMA": "PRAMUKA 27 KOLAKA",
     "IP": "10.54.25.129",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "T6EM",
@@ -2317,7 +2481,9 @@
     "NAMA": "PRAMUKA 27 KOLAKA",
     "IP": "10.54.25.148",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "T6EM",
@@ -2367,7 +2533,9 @@
     "NAMA": "MULAENO BOMBANA",
     "IP": "10.54.115.180",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "T6OG",
@@ -2383,7 +2551,9 @@
     "NAMA": "TOPOGARO NO 53 MOROWALI",
     "IP": "10.54.136.129",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "T7FU",
@@ -2425,7 +2595,9 @@
     "NAMA": "TOPOGARO NO 53 MOROWALI",
     "IP": "10.54.136.148",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "T7FU",
@@ -2441,7 +2613,9 @@
     "NAMA": "BUNDARAN KTM BUNGKU MOROWALI",
     "IP": "10.54.46.161",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "T7W5",
@@ -2475,7 +2649,9 @@
     "NAMA": "BUNDARAN KTM BUNGKU MOROWALI",
     "IP": "10.54.46.180",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "T7W5",
@@ -2491,7 +2667,9 @@
     "NAMA": "BAHOMAKMUR 2 BLOK D - MOROWALI",
     "IP": "10.54.46.193",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "T8G9",
@@ -2533,7 +2711,9 @@
     "NAMA": "BAHOMAKMUR 2 BLOK D - MOROWALI",
     "IP": "10.54.46.212",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "T8G9",
@@ -2583,7 +2763,9 @@
     "NAMA": "TIWORO TENGAH MUNA BARAT",
     "IP": "10.54.76.180",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "T8YH",
@@ -2633,7 +2815,9 @@
     "NAMA": "TIWORO KEPULAUAN NO 94",
     "IP": "10.54.101.148",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "T8Z5",
@@ -2675,7 +2859,9 @@
     "NAMA": "RANTEANGIN-KOLAKA UTARA",
     "IP": "10.54.100.180",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "T92S",
@@ -2691,7 +2877,9 @@
     "NAMA": "RANTEANGIN-KOLAKA UTARA",
     "IP": "10.54.100.190",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "T94P",
@@ -2699,7 +2887,9 @@
     "NAMA": "TRANS BAHOMAKMUR MOROWALI",
     "IP": "10.54.53.225",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "T94P",
@@ -2741,7 +2931,9 @@
     "NAMA": "TRANS BAHOMAKMUR MOROWALI",
     "IP": "10.54.53.244",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "T94P",
@@ -2757,7 +2949,9 @@
     "NAMA": "RATE-RATE NO.86 KOLAKA TIMUR",
     "IP": "10.54.50.193",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "T9BN",
@@ -2799,7 +2993,9 @@
     "NAMA": "RATE-RATE NO.86 KOLAKA TIMUR",
     "IP": "10.54.50.212",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "T9BN",
@@ -2857,7 +3053,9 @@
     "NAMA": "BATUPUTIH KOLAKA UTARA",
     "IP": "10.54.124.180",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "T9R0",
@@ -2915,7 +3113,9 @@
     "NAMA": "KEUREA - MOROWALI",
     "IP": "10.54.67.148",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "T9RZ",
@@ -2941,7 +3141,9 @@
     "NAMA": "DURIASI KONAWE",
     "IP": "10.54.23.116",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "T9SY",
@@ -2957,7 +3159,9 @@
     "NAMA": "DURIASI KONAWE",
     "IP": "10.54.23.97",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "T9SY",
@@ -2981,7 +3185,9 @@
     "NAMA": "BUNGKU TENGAH",
     "IP": "10.54.54.65",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TAAB",
@@ -3023,7 +3229,9 @@
     "NAMA": "BUNGKU TENGAH",
     "IP": "10.54.54.84",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TAAB",
@@ -3039,7 +3247,9 @@
     "NAMA": "WOLO KOLAKA",
     "IP": "10.54.32.65",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TAAZ",
@@ -3081,7 +3291,9 @@
     "NAMA": "WOLO KOLAKA",
     "IP": "10.54.32.84",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TAAZ",
@@ -3097,7 +3309,9 @@
     "NAMA": "BAHODOPI NO. 80 MOROWALI",
     "IP": "10.54.59.33",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TAB7",
@@ -3131,7 +3345,9 @@
     "NAMA": "BAHODOPI NO. 80 MOROWALI",
     "IP": "10.54.59.52",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TAB7",
@@ -3181,7 +3397,9 @@
     "NAMA": "WOLASI",
     "IP": "10.54.118.180",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TABG",
@@ -3197,7 +3415,9 @@
     "NAMA": "JENDRAL SUDIRMAN 94",
     "IP": "10.54.47.161",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TABL",
@@ -3231,7 +3451,9 @@
     "NAMA": "JENDRAL SUDIRMAN 94",
     "IP": "10.54.47.180",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TABL",
@@ -3273,7 +3495,9 @@
     "NAMA": "ONEMBUTE KONAWE",
     "IP": "10.54.98.244",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TADD",
@@ -3289,7 +3513,9 @@
     "NAMA": "ONEMBUTE KONAWE",
     "IP": "10.54.98.254",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TAFG",
@@ -3331,7 +3557,9 @@
     "NAMA": "POLIPOLIA KOLAKA TIMUR",
     "IP": "10.54.98.212",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TAFG",
@@ -3347,7 +3575,9 @@
     "NAMA": "YOS SUDARSO",
     "IP": "10.54.27.225",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TAFO",
@@ -3389,7 +3619,9 @@
     "NAMA": "YOS SUDARSO",
     "IP": "10.54.27.244",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TAFO",
@@ -3415,7 +3647,9 @@
     "NAMA": "KOLONO KONSEL",
     "IP": "10.54.75.116",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TAGH",
@@ -3455,7 +3689,9 @@
     "NAMA": "BAHODOPI NO 84 MOROWALI",
     "IP": "10.54.139.129",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TAHE",
@@ -3505,7 +3741,9 @@
     "NAMA": "BAHODOPI NO 84 MOROWALI",
     "IP": "10.54.139.148",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TAHE",
@@ -3555,7 +3793,9 @@
     "NAMA": "POROS LAINEA",
     "IP": "10.54.99.52",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TAIQ",
@@ -3581,7 +3821,9 @@
     "NAMA": "INOWA",
     "IP": "10.54.112.116",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TAMN",
@@ -3647,7 +3889,9 @@
     "NAMA": "WAWOTOBI KONAWE",
     "IP": "10.54.107.20",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TAOT",
@@ -3671,7 +3915,9 @@
     "NAMA": "ABADI - KOLAKA",
     "IP": "10.54.39.1",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TARK",
@@ -3697,7 +3943,9 @@
     "NAMA": "ABADI - KOLAKA",
     "IP": "10.54.39.20",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TARK",
@@ -3747,7 +3995,9 @@
     "NAMA": "MASAGENA KONAWE SELATAN",
     "IP": "10.54.89.244",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TATF",
@@ -3763,7 +4013,9 @@
     "NAMA": "MASAGENA KONAWE SELATAN",
     "IP": "10.54.89.254",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TAUF",
@@ -3781,7 +4033,9 @@
     "NAMA": "LABOTA NO 37 MOROWALI",
     "IP": "10.54.134.116",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TAUF",
@@ -3797,7 +4051,9 @@
     "NAMA": "LABOTA NO 37 MOROWALI",
     "IP": "10.54.134.97",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TAUF",
@@ -3855,7 +4111,9 @@
     "NAMA": "BRIGJEND KATAMSO",
     "IP": "10.54.66.180",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TAVX",
@@ -3871,7 +4129,9 @@
     "NAMA": "BRIGJEND KATAMSO",
     "IP": "10.54.66.190",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TBB6",
@@ -3913,7 +4173,9 @@
     "NAMA": "BASALAH - KONSEL",
     "IP": "10.54.73.148",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TBB6",
@@ -3963,7 +4225,9 @@
     "NAMA": "PONGGAWA KONAWE",
     "IP": "10.54.107.52",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TBCC",
@@ -4013,7 +4277,9 @@
     "NAMA": "LANOWULU KONSEL",
     "IP": "10.54.90.148",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TBDA",
@@ -4071,7 +4337,9 @@
     "NAMA": "JENDSUD LAODE PULU MUNA",
     "IP": "10.54.76.148",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TBDD",
@@ -4121,7 +4389,9 @@
     "NAMA": "MORAMO 99",
     "IP": "10.54.71.148",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TBDS",
@@ -4163,7 +4433,9 @@
     "NAMA": "LALOLAE KOLAKA TIMUR",
     "IP": "10.54.118.212",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TBER",
@@ -4179,7 +4451,9 @@
     "NAMA": "LALOLAE KOLAKA TIMUR",
     "IP": "10.54.118.222",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TBFV",
@@ -4221,7 +4495,9 @@
     "NAMA": "AEPODU",
     "IP": "10.54.75.84",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TBFV",
@@ -4237,7 +4513,9 @@
     "NAMA": "RANOOHA",
     "IP": "10.54.144.161",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TBGS",
@@ -4271,7 +4549,9 @@
     "NAMA": "RANOOHA",
     "IP": "10.54.144.180",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TBGS",
@@ -4313,7 +4593,9 @@
     "NAMA": "POROS WONGGEDUKU BARAT",
     "IP": "10.54.98.84",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TBIO",
@@ -4329,7 +4611,9 @@
     "NAMA": "POROS WONGGEDUKU BARAT",
     "IP": "10.54.98.94",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TBJX",
@@ -4363,7 +4647,9 @@
     "NAMA": "WR MONGINSIDI",
     "IP": "10.54.68.180",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TBJX",
@@ -4379,7 +4665,9 @@
     "NAMA": "WR MONGINSIDI",
     "IP": "10.54.68.190",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TBJZ",
@@ -4413,7 +4701,9 @@
     "NAMA": "POTORO",
     "IP": "10.54.112.212",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TBJZ",
@@ -4429,7 +4719,9 @@
     "NAMA": "POTORO",
     "IP": "10.54.112.222",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TBKU",
@@ -4463,7 +4755,9 @@
     "NAMA": "SANGI SANGI",
     "IP": "10.54.98.52",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TBKU",
@@ -4471,7 +4765,9 @@
     "NAMA": "SANGI SANGI",
     "IP": "10.54.98.62",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TBKU",
@@ -4487,7 +4783,9 @@
     "NAMA": "AMERORO KONAWE",
     "IP": "10.54.143.1",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TBUR",
@@ -4513,7 +4811,9 @@
     "NAMA": "AMERORO KONAWE",
     "IP": "10.54.143.20",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TBUR",
@@ -4537,7 +4837,9 @@
     "NAMA": "PRAMUKA KENDARI",
     "IP": "10.54.50.225",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TBZH",
@@ -4571,7 +4873,9 @@
     "NAMA": "PRAMUKA KENDARI",
     "IP": "10.54.50.244",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TBZH",
@@ -4637,7 +4941,9 @@
     "NAMA": "BUDI UTOMO KENDARI",
     "IP": "10.54.66.52",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TBZZ",
@@ -4661,7 +4967,9 @@
     "NAMA": "BUDI UTOMO KENDARI",
     "IP": "10.54.66.62",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TC4B",
@@ -4695,7 +5003,9 @@
     "NAMA": "KEUREA NO.45 MOROWALI",
     "IP": "10.54.73.180",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TC4B",
@@ -4711,7 +5021,9 @@
     "NAMA": "KEUREA NO.45 MOROWALI",
     "IP": "10.54.73.190",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TC9Z",
@@ -4729,7 +5041,9 @@
     "NAMA": "KEUREA NO 35 MOROWALI",
     "IP": "10.54.74.116",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TC9Z",
@@ -4795,7 +5109,9 @@
     "NAMA": "LANTARI JAYA",
     "IP": "10.54.92.212",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TCAV",
@@ -4811,7 +5127,9 @@
     "NAMA": "LANTARI JAYA",
     "IP": "10.54.92.222",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TCBE",
@@ -4853,7 +5171,9 @@
     "NAMA": "JENDRAL SUDIRMAN TUOY",
     "IP": "10.54.86.212",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TCBE",
@@ -4895,7 +5215,9 @@
     "NAMA": "RANOEYA",
     "IP": "10.54.90.244",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TCER",
@@ -4911,7 +5233,9 @@
     "NAMA": "RANOEYA",
     "IP": "10.54.90.254",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TCMY",
@@ -4945,7 +5269,9 @@
     "NAMA": "IR SOEKARNO KONAWE",
     "IP": "10.54.111.84",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TCMY",
@@ -4961,7 +5287,9 @@
     "NAMA": "IR SOEKARNO KONAWE",
     "IP": "10.54.111.94",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TCNX",
@@ -4995,7 +5323,9 @@
     "NAMA": "MOWEWE KOLAKA TIMUR",
     "IP": "10.54.124.84",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TCNX",
@@ -5011,7 +5341,9 @@
     "NAMA": "MOWEWE KOLAKA TIMUR",
     "IP": "10.54.124.94",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TCQN",
@@ -5053,7 +5385,9 @@
     "NAMA": "DIM POROS BENUA",
     "IP": "10.54.115.244",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TCQN",
@@ -5069,7 +5403,9 @@
     "NAMA": "GAJAH MADA NO 96",
     "IP": "10.54.143.225",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TCR6",
@@ -5103,7 +5439,9 @@
     "NAMA": "GAJAH MADA NO 96",
     "IP": "10.54.143.244",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TCR6",
@@ -5161,7 +5499,9 @@
     "NAMA": "BAMBAEA",
     "IP": "10.54.92.148",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TCWV",
@@ -5177,7 +5517,9 @@
     "NAMA": "KODEOHA KOLAKA UTARA",
     "IP": "10.54.143.161",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TCYJ",
@@ -5211,7 +5553,9 @@
     "NAMA": "KODEOHA KOLAKA UTARA",
     "IP": "10.54.143.180",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TCYJ",
@@ -5253,7 +5597,9 @@
     "NAMA": "MODOMPIT",
     "IP": "10.54.91.84",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TCZM",
@@ -5269,7 +5615,9 @@
     "NAMA": "MODOMPIT",
     "IP": "10.54.91.94",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TDOG",
@@ -5303,7 +5651,9 @@
     "NAMA": "POROS MOROSI",
     "IP": "10.54.90.212",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TDOG",
@@ -5319,7 +5669,9 @@
     "NAMA": "POROS MOROSI",
     "IP": "10.54.90.222",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TDOZ",
@@ -5353,7 +5705,9 @@
     "NAMA": "BOEPINANG",
     "IP": "10.54.122.212",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TDOZ",
@@ -5369,7 +5723,9 @@
     "NAMA": "BOEPINANG",
     "IP": "10.54.122.222",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TDTL",
@@ -5377,7 +5733,9 @@
     "NAMA": "BUNGGOUSU KONAWE",
     "IP": "10.54.51.193",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TDTL",
@@ -5411,7 +5769,9 @@
     "NAMA": "BUNGGOUSU KONAWE",
     "IP": "10.54.51.212",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TDTL",
@@ -5461,7 +5821,9 @@
     "NAMA": "ABELISAWAH",
     "IP": "10.54.112.52",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TDUO",
@@ -5487,7 +5849,9 @@
     "NAMA": "HALUOLEO KONAWE",
     "IP": "10.54.107.116",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TDWE",
@@ -5503,7 +5867,9 @@
     "NAMA": "HALUOLEO KONAWE",
     "IP": "10.54.107.126",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TDWE",
@@ -5545,7 +5911,9 @@
     "NAMA": "LALOWARU",
     "IP": "10.54.125.20",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TECW",
@@ -5569,7 +5937,9 @@
     "NAMA": "LALOWARU",
     "IP": "10.54.125.30",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TED7",
@@ -5619,7 +5989,9 @@
     "NAMA": "BENTE - MOROWALI",
     "IP": "10.54.118.84",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TED7",
@@ -5635,7 +6007,9 @@
     "NAMA": "BENTE - MOROWALI",
     "IP": "10.54.118.94",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TEJ6",
@@ -5661,7 +6035,9 @@
     "NAMA": "BUMI RAYA - MOROWALI",
     "IP": "10.54.68.20",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TEJ6",
@@ -5685,7 +6061,9 @@
     "NAMA": "BUMI RAYA - MOROWALI",
     "IP": "10.54.68.30",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TEJ6",
@@ -5701,7 +6079,9 @@
     "NAMA": "MAYJEND SOETOYO KENDARI",
     "IP": "10.54.34.161",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TELW",
@@ -5751,7 +6131,9 @@
     "NAMA": "MAYJEND SOETOYO KENDARI",
     "IP": "10.54.34.180",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TELW",
@@ -5801,7 +6183,9 @@
     "NAMA": "RAROWATU",
     "IP": "10.54.93.20",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TEOR",
@@ -5825,7 +6209,9 @@
     "NAMA": "TOFOGARO NO 36 MOROWALI",
     "IP": "10.54.137.1",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TER1",
@@ -5851,7 +6237,9 @@
     "NAMA": "TOFOGARO NO 36 MOROWALI",
     "IP": "10.54.137.20",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TER1",
@@ -5909,7 +6297,9 @@
     "NAMA": "LANDONO",
     "IP": "10.54.103.84",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TETZ",
@@ -5951,7 +6341,9 @@
     "NAMA": "MAYJEND KATAMSO",
     "IP": "10.54.124.148",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TEVW",
@@ -5967,7 +6359,9 @@
     "NAMA": "MAYJEND KATAMSO",
     "IP": "10.54.124.158",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TEWC",
@@ -5993,7 +6387,9 @@
     "NAMA": "PUNGGALUKU KONAWE SELATAN",
     "IP": "10.54.110.20",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TEWC",
@@ -6017,7 +6413,9 @@
     "NAMA": "PUNGGALUKU KONAWE SELATAN",
     "IP": "10.54.110.30",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TEWC",
@@ -6043,7 +6441,9 @@
     "NAMA": "POROS POMALA -KOLAKA",
     "IP": "10.54.124.116",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TEWN",
@@ -6059,7 +6459,9 @@
     "NAMA": "POROS POMALA -KOLAKA",
     "IP": "10.54.124.126",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TEWN",
@@ -6117,7 +6519,9 @@
     "NAMA": "RATERATE KOLAKA TIMUR",
     "IP": "10.54.122.180",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TEWV",
@@ -6133,7 +6537,9 @@
     "NAMA": "RATERATE KOLAKA TIMUR",
     "IP": "10.54.122.190",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TEXP",
@@ -6167,7 +6573,9 @@
     "NAMA": "LADONGI KOLAKA TIMUR",
     "IP": "10.54.123.52",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TEXP",
@@ -6183,7 +6591,9 @@
     "NAMA": "LADONGI KOLAKA TIMUR",
     "IP": "10.54.123.62",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TF3S",
@@ -6191,7 +6601,9 @@
     "NAMA": "PELAMBUA KOLAKA",
     "IP": "10.54.24.161",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TF3S",
@@ -6233,7 +6645,9 @@
     "NAMA": "PELAMBUA KOLAKA",
     "IP": "10.54.24.180",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TF3S",
@@ -6267,7 +6681,9 @@
     "NAMA": "JENSUD BOMBANA",
     "IP": "10.54.114.20",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TFAK",
@@ -6291,7 +6707,9 @@
     "NAMA": "JENSUD BOMBANA",
     "IP": "10.54.114.30",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TFI9",
@@ -6333,7 +6751,9 @@
     "NAMA": "TIWORO SELATAN - MUNA BARAT",
     "IP": "10.54.106.84",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TFI9",
@@ -6349,7 +6769,9 @@
     "NAMA": "WONGGEDUKU KONAWE",
     "IP": "10.54.105.225",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TFIM",
@@ -6383,7 +6805,9 @@
     "NAMA": "WONGGEDUKU KONAWE",
     "IP": "10.54.105.244",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TFIM",
@@ -6433,7 +6857,9 @@
     "NAMA": "DOULE",
     "IP": "10.54.93.52",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TFOF",
@@ -6449,7 +6875,9 @@
     "NAMA": "DOULE",
     "IP": "10.54.93.62",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TFS5",
@@ -6467,7 +6895,9 @@
     "NAMA": "TAWAINALU KOLAKA TIMUR",
     "IP": "10.54.64.116",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TFS5",
@@ -6533,7 +6963,9 @@
     "NAMA": "POROS LAPOA",
     "IP": "10.54.99.20",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TGPK",
@@ -6557,7 +6989,9 @@
     "NAMA": "POROS LAPOA",
     "IP": "10.54.99.30",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TGQQ",
@@ -6565,7 +6999,9 @@
     "NAMA": "JEND SUDIRMAN NO 14 BUTON",
     "IP": "10.54.141.33",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TGQQ",
@@ -6599,7 +7035,9 @@
     "NAMA": "JEND SUDIRMAN NO 14 BUTON",
     "IP": "10.54.141.52",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TGQQ",
@@ -6649,7 +7087,9 @@
     "NAMA": "WAEMPUTANG BOMBANA",
     "IP": "10.54.98.180",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "THDD",
@@ -6717,7 +7157,9 @@
     "NAMA": "LASEHAO KABAWO - MUNA",
     "IP": "10.54.76.212",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "THU0",
@@ -6759,7 +7201,9 @@
     "NAMA": "KAPONTORI BUTON",
     "IP": "10.54.77.20",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "THYQ",
@@ -6809,7 +7253,9 @@
     "NAMA": "BAHOMOTEFE MOROWALI",
     "IP": "10.54.92.180",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "THYX",
@@ -6825,7 +7271,9 @@
     "NAMA": "BAHOMOTEFE MOROWALI",
     "IP": "10.54.92.190",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TI7U",
@@ -6843,7 +7291,9 @@
     "NAMA": "BAHODOPI NO 10 MOROWALI",
     "IP": "10.54.137.116",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TI7U",
@@ -6859,7 +7309,9 @@
     "NAMA": "BAHODOPI NO 10 MOROWALI",
     "IP": "10.54.137.97",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TI7U",
@@ -6917,7 +7369,9 @@
     "NAMA": "WATOPUTE NO 33 MUNA",
     "IP": "10.54.105.148",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TIJQ",
@@ -6933,7 +7387,9 @@
     "NAMA": "LABOTA NO 60 MOROWALI",
     "IP": "10.54.134.161",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TIK5",
@@ -6967,7 +7423,9 @@
     "NAMA": "LABOTA NO 60 MOROWALI",
     "IP": "10.54.134.180",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TIK5",
@@ -6983,7 +7441,9 @@
     "NAMA": "KEURE NO 97 MOROWALI",
     "IP": "10.54.140.33",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TIMJ",
@@ -7025,7 +7485,9 @@
     "NAMA": "KEURE NO 97 MOROWALI",
     "IP": "10.54.140.52",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TIMJ",
@@ -7083,7 +7545,9 @@
     "NAMA": "MOWILA KONAWE SELATAN",
     "IP": "10.54.118.148",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TIRV",
@@ -7133,7 +7597,9 @@
     "NAMA": "LAMERORO BOMBANA",
     "IP": "10.54.113.244",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TITW",
@@ -7149,7 +7615,9 @@
     "NAMA": "LAMERORO BOMBANA",
     "IP": "10.54.113.254",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TIVG",
@@ -7157,7 +7625,9 @@
     "NAMA": "POROS LABOTA MOROWALI",
     "IP": "10.54.57.225",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TIVG",
@@ -7199,7 +7669,9 @@
     "NAMA": "POROS LABOTA MOROWALI",
     "IP": "10.54.57.244",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TIVG",
@@ -7249,7 +7721,9 @@
     "NAMA": "LASALIMU AMBUAU - BUTON",
     "IP": "10.54.101.84",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TJ2Y",
@@ -7275,7 +7749,9 @@
     "NAMA": "BUKE KONSEL",
     "IP": "10.54.98.116",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TJBQ",
@@ -7315,7 +7791,9 @@
     "NAMA": "SAPATI KONAWE",
     "IP": "10.54.145.65",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TJBV",
@@ -7357,7 +7835,9 @@
     "NAMA": "SAPATI KONAWE",
     "IP": "10.54.145.84",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TJBV",
@@ -7415,7 +7895,9 @@
     "NAMA": "MOOLO INDAH",
     "IP": "10.54.112.244",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TJER",
@@ -7431,7 +7913,9 @@
     "NAMA": "TOFOGARO NO. 21 - MOROWALI",
     "IP": "10.54.74.161",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TJIR",
@@ -7473,7 +7957,9 @@
     "NAMA": "TOFOGARO NO. 21 - MOROWALI",
     "IP": "10.54.74.180",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TJIR",
@@ -7515,7 +8001,9 @@
     "NAMA": "RAKADUA BOMBANA",
     "IP": "10.54.98.20",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TJNE",
@@ -7539,7 +8027,9 @@
     "NAMA": "RANOMEETO KONAWE SELATAN",
     "IP": "10.54.188.193",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TJPG",
@@ -7597,7 +8087,9 @@
     "NAMA": "RANOMEETO KONAWE SELATAN",
     "IP": "10.54.188.212",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TJPG",
@@ -7663,7 +8155,9 @@
     "NAMA": "JENDRAL SUDIRMAN UNAAHA",
     "IP": "10.54.107.212",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TKAL",
@@ -7679,7 +8173,9 @@
     "NAMA": "POASIA KENDARI",
     "IP": "10.54.135.33",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TKG7",
@@ -7721,7 +8217,9 @@
     "NAMA": "POASIA KENDARI",
     "IP": "10.54.135.52",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TKG7",
@@ -7771,7 +8269,9 @@
     "NAMA": "AHMAD YANI WAWOTOBI",
     "IP": "10.54.110.244",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TKNL",
@@ -7787,7 +8287,9 @@
     "NAMA": "AHMAD YANI WAWOTOBI",
     "IP": "10.54.110.254",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TKNY",
@@ -7795,7 +8297,9 @@
     "NAMA": "BAHODOPI NO. 39 MOROWALI",
     "IP": "10.54.48.193",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TKNY",
@@ -7837,7 +8341,9 @@
     "NAMA": "BAHODOPI NO. 39 MOROWALI",
     "IP": "10.54.48.212",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TKNY",
@@ -7887,7 +8393,9 @@
     "NAMA": "BULELENG NO. 93 - MOROWALI",
     "IP": "10.54.101.52",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TKNZ",
@@ -7913,7 +8421,9 @@
     "NAMA": "WIWIRANO - KONAWE UTARA",
     "IP": "10.54.27.116",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TKRZ",
@@ -7929,7 +8439,9 @@
     "NAMA": "WIWIRANO - KONAWE UTARA",
     "IP": "10.54.27.97",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TKRZ",
@@ -7971,7 +8483,9 @@
     "NAMA": "BATUGONG KONAWE",
     "IP": "10.54.75.20",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TKWH",
@@ -7995,7 +8509,9 @@
     "NAMA": "BATUGONG KONAWE",
     "IP": "10.54.75.30",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TLCR",
@@ -8037,7 +8553,9 @@
     "NAMA": "LASOLO KONAWE UTARA",
     "IP": "10.54.73.84",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TLCR",
@@ -8053,7 +8571,9 @@
     "NAMA": "KEUREA NO. 146 - MOROWALI",
     "IP": "10.54.55.193",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TLXY",
@@ -8087,7 +8607,9 @@
     "NAMA": "KEUREA NO. 146 - MOROWALI",
     "IP": "10.54.55.212",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TLXY",
@@ -8129,7 +8651,9 @@
     "NAMA": "KHAIRIL ANWAR KOLAKA",
     "IP": "10.54.100.20",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TMM8",
@@ -8179,7 +8703,9 @@
     "NAMA": "SAMPARA KONAWE",
     "IP": "10.54.99.84",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TMOM",
@@ -8195,7 +8721,9 @@
     "NAMA": "SAMPARA KONAWE",
     "IP": "10.54.99.94",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TMRQ",
@@ -8203,7 +8731,9 @@
     "NAMA": "PROTOKOL TUGU NANAS BUTON",
     "IP": "10.54.68.65",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TMRQ",
@@ -8245,7 +8775,9 @@
     "NAMA": "PROTOKOL TUGU NANAS BUTON",
     "IP": "10.54.68.84",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TMRQ",
@@ -8261,7 +8793,9 @@
     "NAMA": "FATUFIA NO 55 MOROWALI",
     "IP": "10.54.12.129",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TMVM",
@@ -8295,7 +8829,9 @@
     "NAMA": "FATUFIA NO 55 MOROWALI",
     "IP": "10.54.12.148",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TMVM",
@@ -8329,7 +8865,9 @@
     "NAMA": "HADI SUWANDA KOLTIM",
     "IP": "10.54.44.116",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TN81",
@@ -8345,7 +8883,9 @@
     "NAMA": "HADI SUWANDA KOLTIM",
     "IP": "10.54.44.97",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TN81",
@@ -8395,7 +8935,9 @@
     "NAMA": "REPALITA",
     "IP": "10.54.123.84",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TNAT",
@@ -8411,7 +8953,9 @@
     "NAMA": "REPALITA",
     "IP": "10.54.123.94",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TNEP",
@@ -8437,7 +8981,9 @@
     "NAMA": "POROS LASUSUA",
     "IP": "10.54.123.20",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TNEP",
@@ -8469,7 +9015,9 @@
     "NAMA": "POROS LASUSUA",
     "IP": "10.54.123.30",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TNEP",
@@ -8527,7 +9075,9 @@
     "NAMA": "POROS MOTAHA KONAWE SELAT",
     "IP": "10.54.75.180",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TNFC",
@@ -8609,7 +9159,9 @@
     "NAMA": "LAUTE KENDARI",
     "IP": "10.54.66.148",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TNJP",
@@ -8641,7 +9193,9 @@
     "NAMA": "LAUTE KENDARI",
     "IP": "10.54.66.158",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TNOP",
@@ -8649,7 +9203,9 @@
     "NAMA": "SULTAN QAIMUDDIN",
     "IP": "10.54.26.33",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TNOP",
@@ -8691,7 +9247,9 @@
     "NAMA": "SULTAN QAIMUDDIN",
     "IP": "10.54.26.52",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TNOP",
@@ -8707,7 +9265,9 @@
     "NAMA": "ANGGOEYA KENDARI",
     "IP": "10.54.141.225",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TNUJ",
@@ -8749,7 +9309,9 @@
     "NAMA": "ANGGOEYA KENDARI",
     "IP": "10.54.141.244",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TNUJ",
@@ -8783,7 +9345,9 @@
     "NAMA": "POROS KONAWE",
     "IP": "10.54.85.20",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TNZC",
@@ -8807,7 +9371,9 @@
     "NAMA": "POROS KONAWE",
     "IP": "10.54.85.30",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TOEG",
@@ -8849,7 +9415,9 @@
     "NAMA": "TEPPOE BOMBANA",
     "IP": "10.54.113.212",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TOEG",
@@ -8875,7 +9443,9 @@
     "NAMA": "LAMBAI-KOLAKA UTARA",
     "IP": "10.54.123.116",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TOFJ",
@@ -8891,7 +9461,9 @@
     "NAMA": "LAMBAI-KOLAKA UTARA",
     "IP": "10.54.123.126",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TOFJ",
@@ -8915,7 +9487,9 @@
     "NAMA": "MESJID RAYA KOLAKA",
     "IP": "10.54.39.65",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TOKA",
@@ -8965,7 +9539,9 @@
     "NAMA": "MESJID RAYA KOLAKA",
     "IP": "10.54.39.84",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TOKA",
@@ -8999,7 +9575,9 @@
     "NAMA": "BANDARA HALUOLEO",
     "IP": "10.54.49.116",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TOKJ",
@@ -9023,7 +9601,9 @@
     "NAMA": "BANDARA HALUOLEO",
     "IP": "10.54.49.97",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TOKJ",
@@ -9047,7 +9627,9 @@
     "NAMA": "DAMPALA NO 30 MOROWALI",
     "IP": "10.54.16.193",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TOOE",
@@ -9081,7 +9663,9 @@
     "NAMA": "DAMPALA NO 30 MOROWALI",
     "IP": "10.54.16.212",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TOOE",
@@ -9123,7 +9707,9 @@
     "NAMA": "KONDARA KOLAKA UTARA",
     "IP": "10.54.119.20",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TOU5",
@@ -9147,7 +9733,9 @@
     "NAMA": "TRANS BAHOMAKMUR NO 88 MOROWALI",
     "IP": "10.54.138.225",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TOUY",
@@ -9181,7 +9769,9 @@
     "NAMA": "TRANS BAHOMAKMUR NO 88 MOROWALI",
     "IP": "10.54.138.244",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TOUY",
@@ -9231,7 +9821,9 @@
     "NAMA": "BAHOMAKMUR BLOK C MOROWALI",
     "IP": "10.54.73.212",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TOVM",
@@ -9247,7 +9839,9 @@
     "NAMA": "BAHOMAKMUR BLOK C MOROWALI",
     "IP": "10.54.73.222",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TOX7",
@@ -9289,7 +9883,9 @@
     "NAMA": "LAWA NO. 6 - MUNA BARAT",
     "IP": "10.54.76.244",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TOX7",
@@ -9315,7 +9911,9 @@
     "NAMA": "MAWASANGKA TENGAH NO 22",
     "IP": "10.54.143.116",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TOZD",
@@ -9331,7 +9929,9 @@
     "NAMA": "MAWASANGKA TENGAH NO 22",
     "IP": "10.54.143.97",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TOZD",
@@ -9373,7 +9973,9 @@
     "NAMA": "PALANGGA SELATAN",
     "IP": "10.54.118.116",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TPEC",
@@ -9413,7 +10015,9 @@
     "NAMA": "BAHOMOHONI NO. 51 - MOROWALI",
     "IP": "10.54.49.129",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TPFP",
@@ -9447,7 +10051,9 @@
     "NAMA": "BAHOMOHONI NO. 51 - MOROWALI",
     "IP": "10.54.49.148",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TPFP",
@@ -9473,7 +10079,9 @@
     "NAMA": "SOLONSA JAYA  MOROWALI",
     "IP": "10.54.76.116",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TPG6",
@@ -9513,7 +10121,9 @@
     "NAMA": "AHMAD YANI NO 125 KENDARI",
     "IP": "10.54.189.33",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TPIC",
@@ -9571,7 +10181,9 @@
     "NAMA": "AHMAD YANI NO 125 KENDARI",
     "IP": "10.54.189.52",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TPIC",
@@ -9613,7 +10225,9 @@
     "NAMA": "LABOTA NO 22 MOROWALI",
     "IP": "10.54.135.116",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TPII",
@@ -9629,7 +10243,9 @@
     "NAMA": "LABOTA NO 22 MOROWALI",
     "IP": "10.54.135.97",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TPII",
@@ -9679,7 +10295,9 @@
     "NAMA": "LAPAI",
     "IP": "10.54.122.244",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TPIW",
@@ -9695,7 +10313,9 @@
     "NAMA": "LAPAI",
     "IP": "10.54.122.254",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TPRB",
@@ -9729,7 +10349,9 @@
     "NAMA": "ANEKA MARGA BOMBANA",
     "IP": "10.54.123.244",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TPRB",
@@ -9745,7 +10367,9 @@
     "NAMA": "ANEKA MARGA BOMBANA",
     "IP": "10.54.123.254",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TPRW",
@@ -9787,7 +10411,9 @@
     "NAMA": "GUNUNG JAYA  KOLTIM",
     "IP": "10.54.123.212",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TPRW",
@@ -9837,7 +10463,9 @@
     "NAMA": "TIRAWUTA",
     "IP": "10.54.71.244",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TPTW",
@@ -9853,7 +10481,9 @@
     "NAMA": "TIRAWUTA",
     "IP": "10.54.71.254",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TQ1Z",
@@ -9861,7 +10491,9 @@
     "NAMA": "BAHOMAKMUR BLOK E",
     "IP": "10.54.140.65",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TQ1Z",
@@ -9903,7 +10535,9 @@
     "NAMA": "BAHOMAKMUR BLOK E",
     "IP": "10.54.140.84",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TQ1Z",
@@ -9961,7 +10595,9 @@
     "NAMA": "MUH YAMIN KENDARI",
     "IP": "10.54.122.148",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TQ8F",
@@ -9977,7 +10613,9 @@
     "NAMA": "MUH YAMIN KENDARI",
     "IP": "10.54.122.158",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TQEX",
@@ -10019,7 +10657,9 @@
     "NAMA": "LAMBANDIA KOLAKA TIMUR",
     "IP": "10.54.124.212",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TQEX",
@@ -10061,7 +10701,9 @@
     "NAMA": "TAMPO NO 94 MUNA",
     "IP": "10.54.105.20",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TQFT",
@@ -10093,7 +10735,9 @@
     "NAMA": "LASALEPA MUNA",
     "IP": "10.54.138.193",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TQZQ",
@@ -10127,7 +10771,9 @@
     "NAMA": "LASALEPA MUNA",
     "IP": "10.54.138.212",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TQZQ",
@@ -10143,7 +10789,9 @@
     "NAMA": "PUTE MATA - KOLAKA TIMUR",
     "IP": "10.54.15.1",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TREB",
@@ -10169,7 +10817,9 @@
     "NAMA": "PUTE MATA - KOLAKA TIMUR",
     "IP": "10.54.15.20",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TREB",
@@ -10243,7 +10893,9 @@
     "NAMA": "BATAS KOTA",
     "IP": "10.54.73.244",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TRQN",
@@ -10267,7 +10919,9 @@
     "NAMA": "BATAS KOTA",
     "IP": "10.54.73.254",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TRZL",
@@ -10309,7 +10963,9 @@
     "NAMA": "MORAMO KONAWE SELATAN",
     "IP": "10.54.75.52",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TRZL",
@@ -10325,7 +10981,9 @@
     "NAMA": "LALAMPU NO 144 MOROWALI",
     "IP": "10.54.137.33",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TS1B",
@@ -10367,7 +11025,9 @@
     "NAMA": "LALAMPU NO 144 MOROWALI",
     "IP": "10.54.137.52",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TS1B",
@@ -10417,7 +11077,9 @@
     "NAMA": "WOSU NO. 31 - MOROWALI",
     "IP": "10.54.124.52",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TS2W",
@@ -10467,7 +11129,9 @@
     "NAMA": "BUNGKU PESISIR MOROWALI",
     "IP": "10.54.68.212",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TS5P",
@@ -10509,7 +11173,9 @@
     "NAMA": "LAMBUYA KONAWE",
     "IP": "10.54.92.244",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TSDO",
@@ -10525,7 +11191,9 @@
     "NAMA": "LAMBUYA KONAWE",
     "IP": "10.54.92.254",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TSI2",
@@ -10533,7 +11201,9 @@
     "NAMA": "POLEANG BOMBANA",
     "IP": "10.54.48.225",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TSI2",
@@ -10567,7 +11237,9 @@
     "NAMA": "POLEANG BOMBANA",
     "IP": "10.54.48.244",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TSI2",
@@ -10583,7 +11255,9 @@
     "NAMA": "AMBUNU NO 29 MOROWALI",
     "IP": "10.54.135.65",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TSVH",
@@ -10617,7 +11291,9 @@
     "NAMA": "AMBUNU NO 29 MOROWALI",
     "IP": "10.54.135.84",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TSVH",
@@ -10633,7 +11309,9 @@
     "NAMA": "ANGGOPIU",
     "IP": "10.54.34.33",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TTBA",
@@ -10667,7 +11345,9 @@
     "NAMA": "ANGGOPIU",
     "IP": "10.54.34.52",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TTBA",
@@ -10683,7 +11363,9 @@
     "NAMA": "LANTULA JAYA - MOROWALI",
     "IP": "10.54.44.33",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TTBL",
@@ -10717,7 +11399,9 @@
     "NAMA": "LANTULA JAYA - MOROWALI",
     "IP": "10.54.44.52",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TTBL",
@@ -10733,7 +11417,9 @@
     "NAMA": "ONEPUTE JAYA NO 15 M",
     "IP": "10.54.63.225",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TTCD",
@@ -10767,7 +11453,9 @@
     "NAMA": "ONEPUTE JAYA NO 15 M",
     "IP": "10.54.63.244",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TTCD",
@@ -10833,7 +11521,9 @@
     "NAMA": "MAYJEND S PARMAN KENDARI",
     "IP": "10.54.66.244",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TTRW",
@@ -10865,7 +11555,9 @@
     "NAMA": "MAYJEND S PARMAN KENDARI",
     "IP": "10.54.66.254",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TU4S",
@@ -10907,7 +11599,9 @@
     "NAMA": "WAWOLURI KONAWE UTARA",
     "IP": "10.54.77.180",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TU4S",
@@ -10923,7 +11617,9 @@
     "NAMA": "ABELI - KENDARI",
     "IP": "10.54.135.161",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TUBL",
@@ -10957,7 +11653,9 @@
     "NAMA": "ABELI - KENDARI",
     "IP": "10.54.135.180",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TUBL",
@@ -11007,7 +11705,9 @@
     "NAMA": "POLEANG UTARA",
     "IP": "10.54.98.148",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TVDZ",
@@ -11057,7 +11757,9 @@
     "NAMA": "TOLALA - KOLAKA UTARA",
     "IP": "10.54.119.52",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TVE5",
@@ -11115,7 +11817,9 @@
     "NAMA": "TINANGGEA KONAWE SELATAN",
     "IP": "10.54.83.180",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TVGZ",
@@ -11157,7 +11861,9 @@
     "NAMA": "D.I PANJAITAN NO 186 KENDARI",
     "IP": "10.54.70.116",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TVHM",
@@ -11173,7 +11879,9 @@
     "NAMA": "D.I PANJAITAN NO 186 KENDARI",
     "IP": "10.54.70.97",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TVHM",
@@ -11231,7 +11939,9 @@
     "NAMA": "PONDIDAHA KONAWE",
     "IP": "10.54.75.148",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TVIJ",
@@ -11247,7 +11957,9 @@
     "NAMA": "PONDIDAHA KONAWE",
     "IP": "10.54.75.158",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TVYL",
@@ -11273,7 +11985,9 @@
     "NAMA": "PADABAHO NO 2 MOROWALI",
     "IP": "10.54.58.116",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TVYL",
@@ -11289,7 +12003,9 @@
     "NAMA": "PADABAHO NO 2 MOROWALI",
     "IP": "10.54.58.97",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TVYL",
@@ -11339,7 +12055,9 @@
     "NAMA": "MOLAWE - KONAWE UTARA",
     "IP": "10.54.82.52",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TWHL",
@@ -11355,7 +12073,9 @@
     "NAMA": "MOLAWE - KONAWE UTARA",
     "IP": "10.54.82.62",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TWJG",
@@ -11381,7 +12101,9 @@
     "NAMA": "ASERA 96 KONAWE UTARA",
     "IP": "10.54.13.116",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TWJG",
@@ -11397,7 +12119,9 @@
     "NAMA": "ASERA 96 KONAWE UTARA",
     "IP": "10.54.13.97",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TWJG",
@@ -11431,7 +12155,9 @@
     "NAMA": "ANGGALOMOARE KONAWE",
     "IP": "10.54.51.225",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TWYO",
@@ -11473,7 +12199,9 @@
     "NAMA": "ANGGALOMOARE KONAWE",
     "IP": "10.54.51.244",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TWYO",
@@ -11489,7 +12217,9 @@
     "NAMA": "TONGKUNO NO 125 MUNA",
     "IP": "10.54.138.161",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TX0Z",
@@ -11523,7 +12253,9 @@
     "NAMA": "TONGKUNO NO 125 MUNA",
     "IP": "10.54.138.180",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TX0Z",
@@ -11573,7 +12305,9 @@
     "NAMA": "MT HARYONO KENDARI",
     "IP": "10.54.56.116",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TX9P",
@@ -11597,7 +12331,9 @@
     "NAMA": "MT HARYONO KENDARI",
     "IP": "10.54.56.97",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TX9P",
@@ -11621,7 +12357,9 @@
     "NAMA": "PENANGGO JAYA KOLAKA TIMUR",
     "IP": "10.54.52.193",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TXAD",
@@ -11655,7 +12393,9 @@
     "NAMA": "PENANGGO JAYA KOLAKA TIMUR",
     "IP": "10.54.52.212",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TXAD",
@@ -11671,7 +12411,9 @@
     "NAMA": "19 NOPEMBER (GS)",
     "IP": "10.54.27.193",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TXBQ",
@@ -11705,7 +12447,9 @@
     "NAMA": "19 NOPEMBER (GS)",
     "IP": "10.54.27.212",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TXBQ",
@@ -11755,7 +12499,9 @@
     "NAMA": "BAHODOPI - MOROWALI",
     "IP": "10.54.100.52",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TXJJ",
@@ -11771,7 +12517,9 @@
     "NAMA": "BAHODOPI - MOROWALI",
     "IP": "10.54.100.62",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TXOR",
@@ -11779,7 +12527,9 @@
     "NAMA": "KABANGKA MUNA",
     "IP": "10.54.135.1",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TXOR",
@@ -11805,7 +12555,9 @@
     "NAMA": "KABANGKA MUNA",
     "IP": "10.54.135.20",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TXOR",
@@ -11829,7 +12581,9 @@
     "NAMA": "KONTUKOWUNA MUNA",
     "IP": "10.54.136.161",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TY53",
@@ -11863,7 +12617,9 @@
     "NAMA": "KONTUKOWUNA MUNA",
     "IP": "10.54.136.180",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TY53",
@@ -11879,7 +12635,9 @@
     "NAMA": "LANGGIKIMA NO.10 KONUT",
     "IP": "10.54.53.161",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TY9G",
@@ -11921,7 +12679,9 @@
     "NAMA": "LANGGIKIMA NO.10 KONUT",
     "IP": "10.54.53.180",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TY9G",
@@ -11979,7 +12739,9 @@
     "NAMA": "KAPTEN PIERE TENDEAN",
     "IP": "10.54.66.116",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TZDA",
@@ -12003,7 +12765,9 @@
     "NAMA": "KAPTEN PIERE TENDEAN",
     "IP": "10.54.66.126",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TZDA",
@@ -12027,7 +12791,9 @@
     "NAMA": "POROS MAKARTI JAYA NO 66 MOROWALI",
     "IP": "10.54.136.225",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TZMA",
@@ -12061,7 +12827,9 @@
     "NAMA": "POROS MAKARTI JAYA NO 66 MOROWALI",
     "IP": "10.54.136.244",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TZMA",
@@ -12077,7 +12845,9 @@
     "NAMA": "TRANS BAHOMAKMUR NO. 30 - MOROWALI",
     "IP": "10.54.78.33",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TZQ9",
@@ -12111,7 +12881,9 @@
     "NAMA": "TRANS BAHOMAKMUR NO. 30 - MOROWALI",
     "IP": "10.54.78.52",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TZQ9",
@@ -12153,7 +12925,9 @@
     "NAMA": "POROS BANDARA AMBAIPUA",
     "IP": "10.54.110.52",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TZSP",
@@ -12169,7 +12943,9 @@
     "NAMA": "POROS BANDARA AMBAIPUA",
     "IP": "10.54.110.62",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TZWP",
@@ -12177,7 +12953,9 @@
     "NAMA": "KULISUSU NO 40 BUTON UTARA",
     "IP": "10.54.58.225",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TZWP",
@@ -12219,7 +12997,9 @@
     "NAMA": "KULISUSU NO 40 BUTON UTARA",
     "IP": "10.54.58.244",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TZWP",
@@ -12235,7 +13015,9 @@
     "NAMA": "TRANS BAHOMAKMUR NO 20 MOROWALI",
     "IP": "10.54.139.1",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TZZR",
@@ -12261,7 +13043,9 @@
     "NAMA": "TRANS BAHOMAKMUR NO 20 MOROWALI",
     "IP": "10.54.139.20",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TZZR",
@@ -12293,7 +13077,9 @@
     "NAMA": "WOLTER MONGINSIDI BAU-BAU",
     "IP": "10.54.134.129",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "FC1H",
@@ -12327,7 +13113,9 @@
     "NAMA": "WOLTER MONGINSIDI BAU-BAU",
     "IP": "10.54.134.148",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "FC1H",
@@ -12353,7 +13141,9 @@
     "NAMA": "PALM BEACH  BAUBAU",
     "IP": "10.54.51.116",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "T1TL",
@@ -12369,7 +13159,9 @@
     "NAMA": "PALM BEACH  BAUBAU",
     "IP": "10.54.51.97",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "T1TL",
@@ -12393,7 +13185,9 @@
     "NAMA": "KOKALUKUNA BAU BAU",
     "IP": "10.54.50.161",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "T3ES",
@@ -12427,7 +13221,9 @@
     "NAMA": "KOKALUKUNA BAU BAU",
     "IP": "10.54.50.180",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "T3ES",
@@ -12443,7 +13239,9 @@
     "NAMA": "POROS ANOA BUNGI BAU-BAU",
     "IP": "10.54.54.193",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "T4N1",
@@ -12477,7 +13275,9 @@
     "NAMA": "POROS ANOA BUNGI BAU-BAU",
     "IP": "10.54.54.212",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "T4N1",
@@ -12493,7 +13293,9 @@
     "NAMA": "BUDI UTOMO BAU-BAU",
     "IP": "10.54.53.193",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "T4WQ",
@@ -12527,7 +13329,9 @@
     "NAMA": "BUDI UTOMO BAU-BAU",
     "IP": "10.54.53.212",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "T4WQ",
@@ -12543,7 +13347,9 @@
     "NAMA": "BETOAMBARI UJUNG",
     "IP": "10.54.52.225",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "T6DH",
@@ -12577,7 +13383,9 @@
     "NAMA": "BETOAMBARI UJUNG",
     "IP": "10.54.52.244",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "T6DH",
@@ -12593,7 +13401,9 @@
     "NAMA": "WOLIO INDAH BAU BAU",
     "IP": "10.54.51.129",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TCM9",
@@ -12627,7 +13437,9 @@
     "NAMA": "WOLIO INDAH BAU BAU",
     "IP": "10.54.51.148",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TCM9",
@@ -12643,7 +13455,9 @@
     "NAMA": "BATARAGURU NO 174 BAU-BAU",
     "IP": "10.54.139.193",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TMZU",
@@ -12677,7 +13491,9 @@
     "NAMA": "BATARAGURU NO 174 BAU-BAU",
     "IP": "10.54.139.212",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TR8S",
@@ -12685,7 +13501,9 @@
     "NAMA": "PATTIMURA - BAU-BAU",
     "IP": "10.54.54.1",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TR8S",
@@ -12711,7 +13529,9 @@
     "NAMA": "PATTIMURA - BAU-BAU",
     "IP": "10.54.54.20",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TR8S",
@@ -12735,7 +13555,9 @@
     "NAMA": "BETOAMBARI NO. 77 - BAU BAU",
     "IP": "10.54.49.193",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TRAO",
@@ -12777,7 +13599,9 @@
     "NAMA": "BETOAMBARI NO. 77 - BAU BAU",
     "IP": "10.54.49.212",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TRAO",
@@ -12793,7 +13617,9 @@
     "NAMA": "R.A. KARTINI NO 14 BAU BAU",
     "IP": "10.54.134.193",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "server",
+    "MIKROTIK_PASS": "server@3dp"
   },
   {
     "TOKO": "TRGZ",
@@ -12835,7 +13661,9 @@
     "NAMA": "R.A. KARTINI NO 14 BAU BAU",
     "IP": "10.54.134.212",
     "PORT": 5900,
-    "PASS": ""
+    "PASS": "",
+    "MIKROTIK_USER": "wdcpedp",
+    "MIKROTIK_PASS": "w&cp3dp"
   },
   {
     "TOKO": "TRGZ",
