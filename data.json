@@ -1130,6 +1130,13 @@
     "FTP_PASS": "dAZAD9yq"
   },
   {
+    "TOKO": "G149",
+    "STATION": " 01",
+    "NAMA": "6",
+    "IP": "10.54.254.6",
+    "PASS": "treedp"
+  },
+  {
     "TOKO": "lolllllll",
     "STATION": " 01",
     "NAMA": "ssssdqdqeq",
@@ -13697,19 +13704,5 @@
     "PASS": "",
     "FTP_USER": "posterm",
     "FTP_PASS": "dAZAD9yq"
-  },
-  {
-    "TOKO": "aaaaa",
-    "STATION": " 01",
-    "NAMA": "aaaaaaaaaaa",
-    "IP": "10.10.10.10",
-    "PASS": "123456"
-  },
-  {
-    "TOKO": "G149",
-    "STATION": " 01",
-    "NAMA": "6",
-    "IP": "10.54.254.6",
-    "PASS": "treedp"
   }
 ]
