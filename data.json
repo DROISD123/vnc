@@ -13704,5 +13704,12 @@
     "PASS": "",
     "FTP_USER": "posterm",
     "FTP_PASS": "dAZAD9yq"
+  },
+  {
+    "TOKO": "ilman",
+    "STATION": " 01",
+    "NAMA": "adakah 100",
+    "IP": "1.1.1.1",
+    "PASS": "123456"
   }
 ]
