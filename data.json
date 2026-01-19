@@ -13318,11 +13318,12 @@
     "TOKO": "TY53",
     "STATION": "STB",
     "NAMA": "KONTUKOWUNA MUNA",
-    "IP": "10.54.136.178",
+    "IP": "10.54.101.178",
     "PORT": 5900,
     "PASS": "",
     "FTP_USER": "posterm",
-    "FTP_PASS": "dAZAD9yq"
+    "FTP_PASS": "dAZAD9yq",
+    "_idx": 1506
   },
   {
     "TOKO": "TZDA",
