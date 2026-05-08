@@ -121,9 +121,10 @@
     "TOKO": "F5FX",
     "STATION": "01",
     "NAMA": "POROS FATUFIA - MORO",
-    "IP": "10.54.72.34",
+    "IP": "10.54.134.162",
     "PORT": 5900,
-    "PASS": "A0C7520385EFBFE5D4"
+    "PASS": "A0C7520385EFBFE5D4",
+    "_idx": 13
   },
   {
     "TOKO": "F5FX",
