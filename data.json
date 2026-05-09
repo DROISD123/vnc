@@ -7795,9 +7795,10 @@
     "TOKO": "TIK5",
     "STATION": "01",
     "NAMA": "LABOTA NO 60 MOROWALI",
-    "IP": "10.54.134.162",
+    "IP": "10.54.102.2",
     "PORT": 5900,
-    "PASS": "A0C7520385EFBFE5D4"
+    "PASS": "A0C7520385EFBFE5D4",
+    "_idx": 879
   },
   {
     "TOKO": "TIK5",
